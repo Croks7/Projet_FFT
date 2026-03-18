@@ -47,7 +47,7 @@ function FlyTo({ target }) {
   const map = useMap()
   useEffect(() => {
     if (target) {
-      map.flyTo([target.lat, target.lng], 13, { duration: 1.5 })
+      map.flyTo([target.lat, target.lng], 11, { duration: 1.5 })
     }
   }, [target, map])
   return null
@@ -99,12 +99,12 @@ export default function MapView({ etablissements, selected, onSelect }) {
   const [flyTarget, setFlyTarget] = useState(null)
 
   return (
-    <div style={{ position: 'relative', height: '100%' }}>
+    <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
       <SearchBar onResult={setFlyTarget} />
       <MapContainer
         center={[46.5, 2.5]}
         zoom={6}
-        style={{ height: '100%', width: '100%' }}
+        style={{ flex: 1, width: '100%' }}
       >
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
