@@ -2,6 +2,7 @@ import { useState, useMemo } from 'react'
 import MapView from './components/MapView'
 import Filters from './components/Filters'
 import DetailPanel from './components/DetailPanel'
+import EtablissementList from './components/EtablissementList'
 import etablissements from './data/etablissements.json'
 import './App.css'
 
@@ -47,27 +48,44 @@ export default function App() {
 
   return (
     <div className="app">
-      <header className="header">
-        <div className="header-title">
-          <h1>Formations SHN / SBN</h1>
-          <p>Trouvez une formation adaptée à votre double projet sportif et scolaire</p>
+      <header className="hero">
+        <div className="hero-content">
+          <p className="hero-description">
+            Outil mis à disposition par la Fédération Française de Tennis pour accompagner
+            ses meilleurs sportifs dans leur double projet sportif et académique.
+          </p>
+          <h1>Trouver des formations pour Sportif de Haut Niveau (SHN) et pour Sportif de Bon Niveau (SBN)</h1>
         </div>
-        <span className="count">{filtered.length} établissement{filtered.length > 1 ? 's' : ''}</span>
       </header>
 
-      <div className="main">
+      <section className="filters-section">
         <Filters filters={filters} setFilters={setFilters} regions={REGIONS} />
-        <div className="map-area">
+      </section>
+
+      <section className="map-section">
+        <div className="map-container">
           <MapView
             etablissements={filtered}
             selected={selected}
             onSelect={setSelected}
           />
         </div>
-        {selected && (
-          <DetailPanel etablissement={selected} onClose={() => setSelected(null)} />
-        )}
-      </div>
+        <p className="map-hint">
+          <span className="dot blue" /> Université &nbsp;·&nbsp; <span className="dot red" /> École de commerce &nbsp;·&nbsp; Cliquez sur un marqueur pour voir le détail
+        </p>
+      </section>
+
+      <section className="list-section">
+        <div className="list-header">
+          <h2>Liste des établissements</h2>
+          <span className="count">{filtered.length} établissement{filtered.length > 1 ? 's' : ''}</span>
+        </div>
+        <EtablissementList etablissements={filtered} onSelect={setSelected} />
+      </section>
+
+      {selected && (
+        <DetailPanel etablissement={selected} onClose={() => setSelected(null)} />
+      )}
     </div>
   )
 }
