@@ -158,8 +158,8 @@
     "club_proximite": "Accès aux équipements sportifs du campus\n\nL'université fonctionne prioritairement avec le tennis club d'Annecy Le Vieux et peut être en lien avec le tennis club d'Annecy ou de Pringy.\nIl y a une convention avec le tennis club de Pringy pour la mise en place de séance de tennis le jeudi après-midi dans le cadre du service des sports. Accès également à la salle de musculation de l'université pour les SHN.",
     "filieres": [],
     "distanciel": false,
-    "lat": 45.5646,
-    "lng": 5.9285
+    "lat": 45.5585,
+    "lng": 5.9112
   },
   {
     "id": 9,
@@ -662,8 +662,8 @@
     "club_proximite": "Relation avec le Tennis Club de Paris (TCP) avec une mise à disposition de terrain de tennis et de padel hebdomadaire, club house et salle de musculation à disposition gratuitement. 1h30 de tennis/semaine pour les SHN + encadrement des compétitions universitaires (IDF, France, Europe) et événementiels (Union College of London). Les sportifs doivent obligatoirement être Licenciés au TCP pour bénéficier des entraînements\n\nTarifs préférentiels pour de nombreuses infrastructures : Adhérents de PSL Sport (Dauphine), Urban Soccer (Puteaux), Aquaboulevard Paris, Forest Hill (Marnes-la-Coquette, tennis et padel)\n\nAccès à la salle de musculation de l'université",
     "filieres": [],
     "distanciel": false,
-    "lat": 48.8542,
-    "lng": 2.2748
+    "lat": 48.8700,
+    "lng": 2.2733
   },
   {
     "id": 37,
@@ -734,8 +734,8 @@
     "club_proximite": "Collaboration avec le Saint Denis Union Sport (SDUS) : Utilisation des terrains 8h par semaine pour de la formation qualifiante (EC libre tennis) et/ou du loisirs, cours donnés par une prof du SUAPS, ancienne 1/6 sans diplôme d'état\n\nAccès aux terrains de tennis de l'université sur inscription",
     "filieres": [],
     "distanciel": false,
-    "lat": 48.9463309,
-    "lng": 2.3650855
+    "lat": 48.9474,
+    "lng": 2.3640
   },
   {
     "id": 41,
@@ -824,8 +824,8 @@
     "club_proximite": "",
     "filieres": [],
     "distanciel": false,
-    "lat": 48.8024,
-    "lng": 2.1204
+    "lat": 48.7997,
+    "lng": 2.1409
   },
   {
     "id": 46,
@@ -842,8 +842,8 @@
     "club_proximite": "Relations avec les clubs d'USO Mondeville et du Tennis Club de Caen, les étudiants peuvent aller s'entraîner sur les terrains de ces structures. Mise à disposition de la salle de musculation et de la piscine (CESU). Il est possible d'utiliser les terrains de tennis de l'université (7 terrains)",
     "filieres": [],
     "distanciel": false,
-    "lat": 48.4447651,
-    "lng": 0.0591698
+    "lat": 49.1911,
+    "lng": -0.3619
   },
   {
     "id": 47,
@@ -1112,8 +1112,8 @@
     "club_proximite": "",
     "filieres": [],
     "distanciel": true,
-    "lat": 43.5784,
-    "lng": 1.4039
+    "lat": 43.5777,
+    "lng": 1.4040
   },
   {
     "id": 62,
@@ -1412,8 +1412,8 @@
       "Commerce / Gestion"
     ],
     "distanciel": true,
-    "lat": 48.8929157,
-    "lng": 2.2390021
+    "lat": 49.0332,
+    "lng": 2.0787
   },
   {
     "id": 1004,
