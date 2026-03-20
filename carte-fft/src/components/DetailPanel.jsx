@@ -83,14 +83,14 @@ export default function DetailPanel({ etablissement: e, onClose }) {
         </Section>
 
         <Section title="Aménagements proposés">
-          {e.amenagement_tags?.length > 0 && (
-            <div className="filieres-list" style={{ marginBottom: 10 }}>
-              {e.amenagement_tags.map(tag => (
-                <span key={tag} className="filiere-tag">{tag}</span>
-              ))}
-            </div>
-          )}
-          <MultilineText text={e.amenagements} />
+          <div className="filieres-list">
+            {e.amenagement_tags?.map(tag => (
+              <span key={tag} className="filiere-tag">{tag}</span>
+            ))}
+            {e.amenagement_other_tags?.map(tag => (
+              <span key={tag} className="filiere-tag filiere-tag-other">{tag}</span>
+            ))}
+          </div>
         </Section>
 
         <Section title="Relation avec un club de proximité">

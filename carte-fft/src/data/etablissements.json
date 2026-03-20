@@ -33,6 +33,10 @@
       "Flexibilité des dates d'examens",
       "Tutorat individualisé",
       "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Guide du sportif étudiant AURA 2025",
+      "Autorisation d'absence aux cours pour contraintes sportives"
     ]
   },
   {
@@ -69,6 +73,15 @@
       "Aménagements d'emploi du temps",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN UGA",
+      "Aménagements scolaires",
+      "Autorisation d'absences",
+      "Conservation de notes",
+      "Sessions spéciales d'examens",
+      "Aide à l'orientation et à l'insertion professionnelle",
+      "Formations en distanciel"
     ]
   },
   {
@@ -94,6 +107,11 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Aménagements d’horaires",
+      "Dispense d’assiduité ponctuelle",
+      "Toutes les filières de l'INSA Lyon sont concernées par ces aménagements"
     ]
   },
   {
@@ -125,6 +143,12 @@
       "Dispense d'assiduité des cours",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Aménagements d’horaires possibles",
+      "Autorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)",
+      "Sessions aménagées pour les examens",
+      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -156,6 +180,13 @@
     ],
     "amenagement_tags": [
       "Aménagements d'emploi du temps"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université Lumière Lyon 2",
+      "Aménagements des emplois du temps et dispense d’assiduité totale ou partielle si un aménagement n’est pas possible",
+      "Dispense d’assiduité pour les cours",
+      "Mise en place de preneur/euses de notes",
+      "Choix du mode de contrôle des connaissances : continu, terminal"
     ]
   },
   {
@@ -183,6 +214,14 @@
     "lng": 4.8308,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
+    ],
+    "amenagement_other_tags": [
+      "Possibilité de changement de groupe de TD",
+      "Absence justifiée en TD en cas de compétition, stage ou autre",
+      "Possibilité d'être dispensé d'assiduité sur certains TD",
+      "Possibilité de bénéficier du dispositif de la mineure SHN (en licence) qui permet de libérer du temps en enlevant toutes les matières mineures (pas de cours ni d'examens)",
+      "Possibilité de passer des épreuves de remplacement si absence à un examen",
+      "Toutes les formations dispensées à l'Université Lyon 3 sont concernées par ces aménagements"
     ]
   },
   {
@@ -215,6 +254,13 @@
     "amenagement_tags": [
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Procédure SHN Université Catholique de Lyon (UCLY)",
+      "Adaptation du temps de formation : Autorisation d'absence, changement de groupe de TD ou TP",
+      "Dispense d'un enseignement",
+      "Pour les sportifs Elite, Sénior et Relève : Prêt d'un ordinateur portable",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -248,6 +294,11 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Aménagement du parcours de formation en fonction des contraintes d'entrainement et de compétition",
+      "Possibilité de dispense d’assiduité pour les sportifs « listés » à condition de justifier d’un entraînement, compétition, stage, sélection",
+      "Toutes les formations de l'université sont concernées"
     ]
   },
   {
@@ -281,6 +332,14 @@
     ],
     "amenagement_tags": [
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Contrat SHN Université de Savoie Mont-Blanc",
+      "Etalement du cursus",
+      "Aménagements des sessions d’examens",
+      "Soutien enseignant (dans la limite de 10h/ semestre)",
+      "Dispense d’assiduité",
+      "Autorisation de changement de groupe de TP/TD"
     ]
   },
   {
@@ -314,6 +373,12 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Dispenses d’assiduité justifiées",
+      "Autorisation d’absence lors des compétitions, stages, convocations fédérales",
+      "Possibilité d’examens à distance selon les contraintes sportives",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -349,6 +414,14 @@
       "Aménagements d'emploi du temps",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université de Franche-Comté",
+      "Aménagement de l’enseignement",
+      "Dispense d’assiduité",
+      "Adaptation de la période de stage",
+      "Aménagement des Modalités de Contrôle des Connaissances et des Compétences (Les dates d’examens peuvent être aménagées en fonction du calendrier sportif prévisionnel fourni par le SHNU au début de chaque semestre, et il est possible de délocaliser tout ou partie des examens)",
+      "Toutes les formations que propose l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -378,7 +451,8 @@
     "lng": -3.3844049,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 12,
@@ -408,6 +482,18 @@
     "lng": -4.5034647,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
+    ],
+    "amenagement_other_tags": [
+      "Statut SHN :",
+      "Priorité dans les choix d'horaires de groupe (TP) et (TD)",
+      "Proposition de dédoubler l'année",
+      "Possibilité de bénéficier d'absences justifiées",
+      "Posibilité d'aménagement sur les sessions d'examen",
+      "Statut ESN :",
+      "Priorité dans les choix d'horaire de groupe (TD) et (TP)",
+      "Possibilité de bénéficier d'absences justifiées",
+      "Possibilité d'aménagement sur les sessions d'examen",
+      "Toutes les formations que propose l'université sont concernées pas ces aménagements (sauf les aménagements d'examens pour les cursus santé)"
     ]
   },
   {
@@ -441,6 +527,11 @@
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Etalement du cursus",
+      "Choix des groupe de TD",
+      "Toutes les formations rattachées à l'université de Rennes et à l'université de Rennes 2 sont concernées"
     ]
   },
   {
@@ -470,6 +561,11 @@
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Etalement du cursus",
+      "Choix des groupe de TD",
+      "Toutes les formations rattachées à l'université de Rennes et à l'université de Rennes 2 sont concernées"
     ]
   },
   {
@@ -498,6 +594,13 @@
       "Étalement du cursus",
       "Tutorat individualisé",
       "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Convention Sportifs de Haut Niveau Sciences Po Rennes",
+      "Aménagement des études (autorisation d'absence, inscription ou changement temporaire ou définitif de groupe, adaptation des périodes et lieux de stage)",
+      "Adaptation pédagogiques (organisation de sessions d'examens particulières)",
+      "Césure possible en fonction des objectifs sportifs",
+      "Aménagement des modalités de contrôle de connaissance ou de soutenance"
     ]
   },
   {
@@ -526,7 +629,8 @@
     "lng": 9.1828,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 17,
@@ -551,7 +655,8 @@
       "Aménagements d'emploi du temps",
       "Flexibilité des dates d'examens",
       "Tutorat individualisé"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 18,
@@ -581,6 +686,10 @@
     "lng": 0.6735173,
     "amenagement_tags": [
       "Aménagements d'emploi du temps"
+    ],
+    "amenagement_other_tags": [
+      "Possibilité d'allongement du cursus universitaire par la signature d'un contrat pédagogique",
+      "Possibilité d'autorisation d'absence pour la participation aux stages et aux compétitions officielles de niveau national, y compris FFSportU"
     ]
   },
   {
@@ -610,6 +719,11 @@
     "lng": 1.9366943,
     "amenagement_tags": [
       "Dispense d'assiduité des cours"
+    ],
+    "amenagement_other_tags": [
+      "Possibilité de changer de groupe de TD",
+      "Possibilité de décaler un examen (en cas de compétition ou de stage important)",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -640,6 +754,12 @@
       "Aménagements d'emploi du temps",
       "Dispense d'assiduité des cours",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Choix de groupe de TP",
+      "Examens de remplacement",
+      "Preneur de notes",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -674,6 +794,9 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Liste A et B :  Aménagement des études"
     ]
   },
   {
@@ -706,6 +829,10 @@
       "Aménagements d'emploi du temps",
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Possibilité d’être dispensé de cours obligatoires et de préparer des U.E de l’année supérieure",
+      "Aménagements possibles dans la plupart des formations, hormis en Parcours d’Accès Spécifique Santé (PASS) et en Licence avec Accès Santé (LAS)"
     ]
   },
   {
@@ -742,6 +869,11 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université de Reims Champagne-Ardenne",
+      "Statut ESHN Niveau Or : Dispense d’assiduité aux TD, TP et CM",
+      "Statut ESHN Niveau Argent : Dispense d’assiduité aux TD, TP et CM"
     ]
   },
   {
@@ -766,6 +898,9 @@
     "amenagement_tags": [
       "Aménagements d'emploi du temps",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Justification d'absence en cas de compétition"
     ]
   },
   {
@@ -796,6 +931,12 @@
     "amenagement_tags": [
       "Dispense d'assiduité des cours",
       "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Aménagement du rythme d'études : Année d'étude en 2 ans",
+      "Choix de groupe de CM, TD &TP",
+      "Accès privilégié aux logements de la résidence universitaire sur critère sportif",
+      "Licence L3P en distanciel"
     ]
   },
   {
@@ -826,6 +967,11 @@
     "amenagement_tags": [
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Placement dès le début du semestre dans un groupe de TD, TP prenant en compte les contraintes liées aux entraînements, stages et compétitions",
+      "Bénéfice d’aménagements des épreuves",
+      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -858,6 +1004,13 @@
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Possibilité de bénéficier d'absences justifiées",
+      "Solliciter des accompagnements adaptés et personnalisés",
+      "Bénéficier d'aménagement des épreuves",
+      "Etalement des études possible",
+      "Toutes les formations de l'université sont concernées par ces aménagements (même si tous les aménagements ne sont pas possibles pour chaque formation, par exemple pas de possibilité de décaler les examens pour les étudiants de LAS et PASS)"
     ]
   },
   {
@@ -888,7 +1041,8 @@
     "lng": 2.268363,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 29,
@@ -919,6 +1073,12 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Aménagement d’horaires",
+      "Dispense d’assiduité ou dispense de pratique (notamment en STAPS)",
+      "Droit au redoublement dans les filières en tension comme en STAPS",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -948,7 +1108,8 @@
     "lng": 2.0755603,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 31,
@@ -975,6 +1136,11 @@
     "amenagement_tags": [
       "Aménagements d'emploi du temps",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Un suivi personnalisé",
+      "Aménager et décaler si besoin le passage des examens en cas de compétition (sur justificatif) au cas par cas",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1000,6 +1166,11 @@
     "lng": 2.3290212,
     "amenagement_tags": [
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Aide aux inscriptions pédagogiques",
+      "Justification d'absence sur présentation de justificatifs (compétitions, stages de formation)",
+      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -1025,6 +1196,12 @@
     "amenagement_tags": [
       "Aménagements d'emploi du temps",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Aménagements d'études",
+      "Autorisations exceptionnelles d'absences aux enseignements et aux stages (non répétées de manière excessive)",
+      "Possibilité de suivre des enseignements à distance",
+      "Possibilité de reporter le stage"
     ]
   },
   {
@@ -1059,6 +1236,16 @@
     ],
     "amenagement_tags": [
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Pôle sportif section tennis Université Sorbonne Paris Nord",
+      "Aménagement du cursus",
+      "Aménagement des horaires",
+      "Aménagement des périodes d’examen (report possibles)",
+      "Une optimisation de la vie étudiante",
+      "Dispense de pratique en sport (STAPS)",
+      "Plus le niveau de jeu est élevé et les absences fréquentes, et plus les aménagements sont importants et la durée des études augmentée. Étude des aménagements au cas par cas selon le niveau de jeu et la fréquence de déplacements",
+      "Toutes les formations sont concernées par ces aménagements, excepté médecine"
     ]
   },
   {
@@ -1085,6 +1272,12 @@
     "amenagement_tags": [
       "Aménagements d'emploi du temps",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Possibilité d'autorisation d'absence pour les travaux dirigés lors des compétitions importantes",
+      "Hébergement, éventuellement possible, en résidence universitaire",
+      "Accès à la formation en apprentissage spécialement conçue pour les Sportifs de Haut Niveau (à partir de la L3)",
+      "Certaines formations en distanciel"
     ]
   },
   {
@@ -1112,6 +1305,10 @@
     "amenagement_tags": [
       "Aménagements d'emploi du temps",
       "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Aménagement des cours sur six semestres au lieu de quatre",
+      "Un aménagement possible pour les examens de contrôle continu"
     ]
   },
   {
@@ -1147,6 +1344,10 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Convention SHN Université d'Evry",
+      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -1182,6 +1383,12 @@
       "Étalement du cursus",
       "Tutorat individualisé",
       "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Charte ESBHN Université Gustave Eiffel",
+      "Aménagement des cursus adaptés aux contraintes sportives",
+      "Autorisation d'absences ponctuelles aux TD",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1212,6 +1419,12 @@
       "Étalement du cursus",
       "Tutorat individualisé",
       "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN ESIEE Paris",
+      "Aménagement des cursus adaptés aux contraintes sportives",
+      "Autorisation d'absences ponctuelles aux TD",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1243,6 +1456,12 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Dispense d’assiduité ponctuelle aux CM/TD/TP pour stages ou compétitions, sous réserve de produire les justificatifs",
+      "Valider un Enseignement Complémentaire (EC) Sport Niveau 1 avec la note de 20/20",
+      "Veiller à l’aménagement des contrôles continus, pour cause de stages ou compétitions, sous réserve de produire les justificatifs",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1279,6 +1498,17 @@
       "Aménagements d'emploi du temps",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université Paris Cité",
+      "SHN :",
+      "Dispense d’assiduité pour l’UE Sport et complète en fonction des UFR",
+      "Choix du contrôle des examens (continu, mixte ou terminal)",
+      "Possibilité de session d’examens dérogatoire en plus de la session de seconde chance",
+      "Validation d’acquis pour des UE transverses",
+      "Validation d’UE proposées par des structures sportives officielles",
+      "SBN :",
+      "Dispense d’assiduité pour l’UE Sport"
     ]
   },
   {
@@ -1314,6 +1544,9 @@
       "Dispense d'assiduité des cours",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Sessions d'examens spécifiques (en cas de compétition la même semaine). Les examens sont obligatoirement en présentiel mais peuvent être décalés"
     ]
   },
   {
@@ -1348,6 +1581,12 @@
     "amenagement_tags": [
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université Paris Nanterre",
+      "Aménagements d’horaires",
+      "Dispense d’assiduité",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1383,6 +1622,12 @@
       "Aménagements d'emploi du temps",
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Choix du groupe de TD",
+      "Dispense des cours en présentiel",
+      "Adaptations pour les partiels",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1412,7 +1657,8 @@
     "lng": 2.1409,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 46,
@@ -1446,6 +1692,10 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Changement de groupe de TD et TP",
+      "Toutes les formations de l'université sont concernées par ces aménagements sauf les formations en médecine"
     ]
   },
   {
@@ -1481,6 +1731,11 @@
     "amenagement_tags": [
       "Dispense d'assiduité des cours",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université de Rouen Normandie",
+      "Possibilité de changer de groupe de TD de manière temporaire ou définitive",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1509,7 +1764,8 @@
     "lng": 0.127048,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 49,
@@ -1536,6 +1792,9 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Aménagements des horaires"
     ]
   },
   {
@@ -1560,6 +1819,10 @@
     "amenagement_tags": [
       "Aménagements d'emploi du temps",
       "Flexibilité des dates d'examens"
+    ],
+    "amenagement_other_tags": [
+      "Statut ESBN : Autorisations d'absence justifiée pour compétition + Déplacement d'examen",
+      "Toutes les formations de Bordeaux INP sont concernées par ces aménagements"
     ]
   },
   {
@@ -1589,7 +1852,8 @@
     "lng": -1.1560269,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 52,
@@ -1614,6 +1878,12 @@
     "lng": -0.6173657,
     "amenagement_tags": [
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Aménagements d’horaires",
+      "Dispense d’assiduité (au cours et non aux examens) si l’aménagement d’horaire n'est pas possible",
+      "Organisation d’examens en contrôle continu à des dates différentes",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1646,6 +1916,12 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Aménagements hebdomadaires",
+      "Dispense de TD",
+      "Prises de notes en cas d'absence aux cours",
+      "Toutes les formations de l'université sont concernées par ces aménagements, hormis PASS (médecine)"
     ]
   },
   {
@@ -1680,6 +1956,14 @@
     "amenagement_tags": [
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN 2025-2026 Université de Limoges",
+      "Pour les sportifs des catégories Or et Argent :",
+      "Aménagements possibles des études : Autorisation d’absence pour les cours (TP/TD), changements temporaires ou définitifs de groupe (TP ou TD), adaptation des périodes de stages, dispenses d’épreuves sportives en lien avec le sport de l’étudiant(e) (STAPS), possibilité d’utiliser les campus connectés",
+      "Aménagement possible des examens",
+      "Accompagnements par le référent du sport de haut niveau de l’université : Méthodologie (gestion des priorités, des emplois du temps ou autres), échanges individualisés (conseils, préparation physique), anticipation des contraintes (conflits d’agendas entre calendrier sportif et universitaire), lien avec la structure d’entraînement",
+      "Aménagements valables pour les SHN/SBN en Licence STAPS (Entraînement Sportif)"
     ]
   },
   {
@@ -1710,6 +1994,9 @@
     "amenagement_tags": [
       "Aménagements d'emploi du temps",
       "Dispense d'assiduité des cours"
+    ],
+    "amenagement_other_tags": [
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1741,6 +2028,16 @@
     "amenagement_tags": [
       "Dispense d'assiduité des cours",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Niveau 1 (SHN) :",
+      "Echanges de TD/TP",
+      "Organisation de l'année possible sur plusieurs années",
+      "Accompagnement préparation physique possible",
+      "Niveau 2 (SBN) :",
+      "Echange de TD/TP sur 2 créneaux de 2 heures par semaine",
+      "Dispense assiduité exceptionelle pour certains évènements",
+      "Accompagnement préparation physique individualisée possible"
     ]
   },
   {
@@ -1778,6 +2075,11 @@
       "Étalement du cursus",
       "Tutorat individualisé",
       "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université de Montpellier",
+      "Aménagement des enseignements et des modalités de contrôle des connaissances",
+      "Autorisation d'absences régulières pour raisons sportives (entraînements, stages, compétitions)"
     ]
   },
   {
@@ -1810,6 +2112,11 @@
       "Dispense d'assiduité des cours",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Flexibilité dans l'organisation du temps de formation",
+      "Mise en place de sessions spéciales d'examens pour les SHN (examens organisés en distanciel pour certaines composantes)",
+      "Toutes les formations sont concernées par ces aménagements (plus contraignant en STAPS)"
     ]
   },
   {
@@ -1841,6 +2148,9 @@
       "Flexibilité des dates d'examens",
       "Tutorat individualisé",
       "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1871,6 +2181,11 @@
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Absences à caractère exceptionnel pour raison sportive",
+      "Possibilité de déplacer les examens de première session en cas de compétitions ou sélections pour des stages",
+      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -1898,6 +2213,13 @@
       "Aménagements d'emploi du temps",
       "Flexibilité des dates d'examens",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "ESHN et ESBNN :",
+      "Aménagement du cursus",
+      "Cours en enseignement à distance",
+      "ESBNR :",
+      "Cours en enseignement à distance"
     ]
   },
   {
@@ -1926,6 +2248,19 @@
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens",
       "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "SHN :",
+      "Mise en place d'un parrain",
+      "Aménagement du cursus sur la durée",
+      "Cours de soutien",
+      "Changement de groupe TP/TD",
+      "Aménagement de la pratique des cours APS",
+      "SBN :",
+      "Aménagement cursus sur la durée",
+      "Changement de groupe TD/TP",
+      "Accès à des créneaux de musculation",
+      "Toutes les filières de l'établissement sont concernées, sauf la 1ère année de médecine"
     ]
   },
   {
@@ -1963,6 +2298,17 @@
       "Flexibilité des dates d'examens",
       "Tutorat individualisé",
       "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université d'Aix Marseille",
+      "Pour l’ensemble des SHN (liste Or, Argent et Bronze) :",
+      "Un accompagnement personnalisé dans la mise en oeuvre des aménagements d’études",
+      "Possibilité de décaler les examens en raison d'imprévus liés au double projet",
+      "Pour les SHN (liste Or et Argent) :",
+      "La possibilité de bénéficier d’un régime longues études",
+      "Le bénéfice d’un accompagnement pour la constitution d’un dossier de CESURE",
+      "L’adaptation des modalités de stage",
+      "Toutes les filières de l'établissement sont concernées"
     ]
   },
   {
@@ -1992,7 +2338,8 @@
     "lng": 4.8193184,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
-    ]
+    ],
+    "amenagement_other_tags": []
   },
   {
     "id": 65,
@@ -2028,6 +2375,9 @@
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHNU Université Côte d'Azur"
     ]
   },
   {
@@ -2060,6 +2410,10 @@
       "Aménagements d'emploi du temps",
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université de Nîmes",
+      "Aide pédagogique"
     ]
   },
   {
@@ -2094,6 +2448,12 @@
       "Aménagements d'emploi du temps",
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Charte SHN Université de Toulon",
+      "Autorisations d’absences et dispenses d’assiduité",
+      "Autorisations d’absences",
+      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -2122,6 +2482,12 @@
     ],
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
+    ],
+    "amenagement_other_tags": [
+      "Règlement des études Sciences Po Aix-en-Provence",
+      "Ils bénéficient d’aménagements dans le déroulement de leur scolarité",
+      "Les aménagements sont individualisés suivant l'athlète de haut niveau et au cas par cas",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -2153,6 +2519,11 @@
       "Aménagements d'emploi du temps",
       "Dispense d'assiduité des cours",
       "Flexibilité des dates d'examens"
+    ],
+    "amenagement_other_tags": [
+      "Changement de groupe TD/TP",
+      "Dispense de contrôle continu",
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -2186,6 +2557,15 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Groupe 1 (SHN, Elite et Senior) et Groupe 2 (Relève, Espoirs et Collectifs Nationaux) :",
+      "Choix de groupe TD-TP",
+      "Cours de soutien individualisé",
+      "Autorisation ponctuelle d'absences pour entraînement et compétitions",
+      "Groupe 3 (Sport Universitaire) :",
+      "Autorisations ponctuelle d'absences pour entraînement et compétitions",
+      "Toutes les formations de Nantes Université sont concernées par ce dispositif (Pôles humanités, sociétés, santé, sciences et technologie et l'INSPE). C'est parfois plus difficile pour les établissements  composantes qui sont \"rattachés\" à Nantes Université depuis 4 ans (Centrale, Beaux arts, ENSA, IFSI ...)"
     ]
   },
   {
@@ -2218,6 +2598,9 @@
       "Flexibilité des dates d'examens",
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -2247,6 +2630,10 @@
     "lng": 55.4843818,
     "amenagement_tags": [
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Catégorie B : Aménagements, autorisation d'absences",
+      "Toutes les formations de l'université sont concernées par ces aménagements (hormis le droit)"
     ]
   },
   {
@@ -2277,6 +2664,12 @@
     ],
     "amenagement_tags": [
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Plaquette Pôle Excellence Sport Universitaire Université de la Nouvelle-Calédonie",
+      "Contrat d'étude personnalise et adapté aux besoins de chaque étudiant",
+      "Accès au logement étudiant",
+      "Accompagnement à la recherche de stages et à la mobilité"
     ]
   },
   {
@@ -2302,6 +2695,10 @@
     "amenagement_tags": [
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Distanciel : 1 jour de cours par semaine, disponible en replay",
+      "Période de stage de 8 semaines en 2ème année et 12 semaines réparties sur la 3ème et 4ème année (stages qui peut être remplacé par l’expérience de SHN)"
     ]
   },
   {
@@ -2327,6 +2724,10 @@
     "amenagement_tags": [
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Cours 100% en distanciel (e-learning) et disponibles en replay : 3 ou 4 modules à valider par trimestre (temps étudiant estimé à 15h/semaine), une visio d’1h/semaine (début après-midi ou soir).En 3ème année, spécialisation en Marketing Digital, Business Development ou Banque & Finance",
+      "2 stages de 8 semaines sur les 3 premières années (stage adaptable et remplaçable par un mémoire et un oral) et 13 semaines de stage en 4ème année (stage adaptable et remplaçable par un projet entrepreneurial)"
     ]
   },
   {
@@ -2353,6 +2754,11 @@
     "amenagement_tags": [
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Examens en présentiel sur l'un des 4 campus (Lille,Paris,Nice,Londres)",
+      "Possibilité de choisir les modules à présenter lors des 4 sessions d'examens",
+      "Stage de 6 mois à valider avant la fin du bachelor pouvant etre remplacé par 2 modules en ligne évalués"
     ]
   },
   {
@@ -2379,6 +2785,11 @@
     "amenagement_tags": [
       "Flexibilité des dates d'examens",
       "Étalement du cursus"
+    ],
+    "amenagement_other_tags": [
+      "Distanciel : 80% des cours en ligne et 20% en présentiel pour les cours électifs",
+      "Possibilité d’étaler chaque année du Bachelor en 2 ans",
+      "Stage de 4 mois à valider sur l’ensemble du Bachelor (qui peut être remplacé par un mémoire de fin d’études)"
     ]
   },
   {
@@ -2404,6 +2815,9 @@
     "amenagement_tags": [
       "Étalement du cursus",
       "Tutorat individualisé"
+    ],
+    "amenagement_other_tags": [
+      "Parcours en Business Development (orienté commercial) qui permet d’obtenir un titre RNCP reconnu par le ministère du travail"
     ]
   },
   {
@@ -2428,6 +2842,12 @@
     "lng": -0.6007217,
     "amenagement_tags": [
       "Aucun de ces éléments mentionnés"
+    ],
+    "amenagement_other_tags": [
+      "Cours 100% en ligne et 100% en anglais avec des sessions hebdomadaires en ligne le samedi de 14h30 à 17h et disponibles en replay.",
+      "Les cours sont assurés par des professeurs de l’ESSCA et des experts professionnels/industriels en finance et technologies financières. Le temps étudiant est estimé à environ 20 heures hebdomadaires.",
+      "Toutes les évaluations se font en ligne sous format contrôle continu (projets, cas pratiques, exercices). Un mémoire de master est à rendre.",
+      "Pas de stage"
     ]
   }
 ]
