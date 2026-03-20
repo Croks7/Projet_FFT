@@ -28,7 +28,6 @@ export default function App() {
   const [filters, setFilters] = useState({
     region: '',
     filiere: '',
-    distanciel: false,
     niveau: '',
     type: '',
   })
@@ -38,8 +37,7 @@ export default function App() {
     return etablissements.filter(e => {
       if (filters.region && e.region !== filters.region) return false
       if (filters.type && e.type !== filters.type) return false
-      if (filters.distanciel && !e.distanciel) return false
-      if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
+if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
       if (filters.niveau === 'SHN' && !e.criteres?.toUpperCase().includes('SHN')) return false
       if (filters.niveau === 'SBN' && !e.criteres?.toUpperCase().includes('SBN')) return false
       return true
@@ -48,40 +46,47 @@ export default function App() {
 
   return (
     <div className="app">
-      <header className="hero">
-        <div className="hero-content">
-          <p className="hero-description">
-            Outil mis à disposition par la Fédération Française de Tennis pour accompagner
-            ses meilleurs sportifs dans leur double projet sportif et académique.
-          </p>
-          <h1>Trouver des formations pour Sportif de Haut Niveau (SHN) et pour Sportif de Bon Niveau (SBN)</h1>
-        </div>
-      </header>
+      <div className="page-card">
+        <header className="hero">
+          <div className="hero-inner">
+            <div className="hero-content">
+              <p className="hero-description">
+                Outil mis à disposition par la Fédération Française de Tennis pour accompagner
+                ses meilleurs sportifs dans leur double projet sportif et académique.
+              </p>
+              <h1>Trouver des formations pour Sportif de Haut Niveau (SHN) et pour Sportif de Bon Niveau (SBN)</h1>
+            </div>
+            <img src="/logo-fft.png" className="hero-logo" alt="FFT" />
+          </div>
+        </header>
 
-      <section className="filters-section">
-        <Filters filters={filters} setFilters={setFilters} regions={REGIONS} />
-      </section>
+        <div className="card-body">
+          <section className="filters-section">
+            <Filters filters={filters} setFilters={setFilters} regions={REGIONS} />
+          </section>
 
-      <section className="map-section">
-        <div className="map-container">
-          <MapView
-            etablissements={filtered}
-            selected={selected}
-            onSelect={setSelected}
-          />
-        </div>
-        <p className="map-hint">
-          <span className="dot blue" /> Université &nbsp;·&nbsp; <span className="dot red" /> École de commerce &nbsp;·&nbsp; Cliquez sur un marqueur pour voir le détail
-        </p>
-      </section>
+          <section className="map-section">
+            <div className="map-container">
+              <MapView
+                etablissements={filtered}
+                selected={selected}
+                onSelect={setSelected}
+              />
+            </div>
+            <p className="map-hint">
+              <span className="dot blue" /> Université &nbsp;·&nbsp; <span className="dot red" /> École de commerce &nbsp;·&nbsp; Cliquez sur un marqueur pour voir le détail
+            </p>
+          </section>
 
-      <section className="list-section">
-        <div className="list-header">
-          <h2>Liste des établissements</h2>
-          <span className="count">{filtered.length} établissement{filtered.length > 1 ? 's' : ''}</span>
+          <section className="list-section">
+            <div className="list-header">
+              <h2>Liste des établissements</h2>
+              <span className="count">{filtered.length} établissement{filtered.length > 1 ? 's' : ''}</span>
+            </div>
+            <EtablissementList etablissements={filtered} onSelect={setSelected} />
+          </section>
         </div>
-        <EtablissementList etablissements={filtered} onSelect={setSelected} />
-      </section>
+      </div>
 
       {selected && (
         <DetailPanel etablissement={selected} onClose={() => setSelected(null)} />

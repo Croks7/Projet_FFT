@@ -16,7 +16,6 @@ export default function Filters({ filters, setFilters, regions }) {
   const activeCount = [
     filters.region,
     filters.filiere,
-    filters.distanciel,
     filters.niveau,
     filters.type,
   ].filter(Boolean).length
@@ -62,21 +61,10 @@ export default function Filters({ filters, setFilters, regions }) {
           </select>
         </div>
 
-        <div className="filter-group checkbox-group">
-          <label>
-            <input
-              type="checkbox"
-              checked={filters.distanciel}
-              onChange={e => update('distanciel', e.target.checked)}
-            />
-            Distanciel disponible
-          </label>
-        </div>
-
         {activeCount > 0 && (
           <button
             className="reset-btn"
-            onClick={() => setFilters({ region: '', filiere: '', distanciel: false, niveau: '', type: '' })}
+            onClick={() => setFilters({ region: '', filiere: '', niveau: '', type: '' })}
           >
             Réinitialiser ({activeCount})
           </button>

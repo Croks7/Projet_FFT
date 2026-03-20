@@ -38,7 +38,6 @@ export default function DetailPanel({ etablissement: e, onClose }) {
             {e.type === 'ecole_commerce' ? 'École de commerce' : 'Université'}
           </span>
           {regionName && <span className="region-badge">{regionName}</span>}
-          {e.distanciel && <span className="badge distanciel">Distanciel</span>}
         </div>
 
         <h2>{e.nom}</h2>

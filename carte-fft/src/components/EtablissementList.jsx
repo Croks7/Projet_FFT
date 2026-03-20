@@ -13,7 +13,6 @@ export default function EtablissementList({ etablissements, onSelect }) {
             <span className={`type-badge ${e.type}`}>
               {e.type === 'ecole_commerce' ? 'École de commerce' : 'Université'}
             </span>
-            {e.distanciel && <span className="badge distanciel">Distanciel</span>}
           </div>
           <h3>{e.nom}</h3>
           {REGIONS[e.region] && <p className="etab-region">{REGIONS[e.region]}</p>}
