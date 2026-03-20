@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
@@ -97,10 +97,18 @@ function SearchBar({ onResult }) {
 
 export default function MapView({ etablissements, selected, onSelect }) {
   const [flyTarget, setFlyTarget] = useState(null)
+  const mapRef = useRef(null)
+
+  const handleResult = (result) => {
+    setFlyTarget(result)
+    setTimeout(() => {
+      mapRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+    }, 100)
+  }
 
   return (
-    <div style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
-      <SearchBar onResult={setFlyTarget} />
+    <div ref={mapRef} style={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+      <SearchBar onResult={handleResult} />
       <MapContainer
         center={[46.5, 2.5]}
         zoom={6}

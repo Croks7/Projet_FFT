@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect, useRef } from 'react'
 import MapView from './components/MapView'
 import Filters from './components/Filters'
 import DetailPanel from './components/DetailPanel'
@@ -32,12 +32,19 @@ export default function App() {
     type: '',
   })
   const [selected, setSelected] = useState(null)
+  const mapSectionRef = useRef(null)
+  const isFirstRender = useRef(true)
+
+  useEffect(() => {
+    if (isFirstRender.current) { isFirstRender.current = false; return }
+    mapSectionRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+  }, [filters])
 
   const filtered = useMemo(() => {
     return etablissements.filter(e => {
       if (filters.region && e.region !== filters.region) return false
       if (filters.type && e.type !== filters.type) return false
-if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
+      if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
       if (filters.niveau === 'SHN' && !e.criteres?.toUpperCase().includes('SHN')) return false
       if (filters.niveau === 'SBN' && !e.criteres?.toUpperCase().includes('SBN')) return false
       return true
@@ -65,7 +72,7 @@ if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
             <Filters filters={filters} setFilters={setFilters} regions={REGIONS} />
           </section>
 
-          <section className="map-section">
+          <section className="map-section" ref={mapSectionRef}>
             <div className="map-container">
               <MapView
                 etablissements={filtered}
