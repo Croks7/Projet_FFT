@@ -47,7 +47,7 @@ function FlyTo({ target }) {
   const map = useMap()
   useEffect(() => {
     if (target) {
-      map.flyTo([target.lat, target.lng], 11, { duration: 1.5 })
+      map.flyTo([target.lat, target.lng], 9, { duration: 1.5 })
     }
   }, [target, map])
   return null
@@ -69,7 +69,6 @@ function SearchBar({ onResult }) {
       const data = await res.json()
       if (data.length > 0) {
         onResult({ lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon) })
-        setError('')
       } else {
         setError('Lieu introuvable')
       }
@@ -80,18 +79,20 @@ function SearchBar({ onResult }) {
   }
 
   return (
-    <form className="map-search" onSubmit={search}>
-      <input
-        type="text"
-        value={query}
-        onChange={e => setQuery(e.target.value)}
-        placeholder="Rechercher une ville ou un lieu..."
-      />
-      <button type="submit" disabled={loading}>
-        {loading ? '...' : '🔍'}
-      </button>
-      {error && <span className="map-search-error">{error}</span>}
-    </form>
+    <div className="map-search-wrapper">
+      <form className="map-search" onSubmit={search}>
+        <input
+          type="text"
+          value={query}
+          onChange={e => { setQuery(e.target.value); setError('') }}
+          placeholder="Rechercher une ville ou un lieu..."
+        />
+        {error && <span className="map-search-error-inline">{error}</span>}
+        <button type="submit" disabled={loading}>
+          {loading ? '...' : '🔍'}
+        </button>
+      </form>
+    </div>
   )
 }
 
@@ -125,12 +126,9 @@ export default function MapView({ etablissements, selected, onSelect }) {
             key={e.id}
             position={[e.lat, e.lng]}
             icon={e.type === 'ecole_commerce' ? ecoleIcon : universiteIcon}
-            eventHandlers={{ click: () => onSelect(e) }}
           >
             <Popup>
               <strong>{e.nom}</strong>
-              <br />
-              {e.distanciel && <span className="badge distanciel">Distanciel</span>}
               <br />
               <button
                 onClick={() => onSelect(e)}

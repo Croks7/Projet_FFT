@@ -1,3 +1,5 @@
+import { useState } from 'react'
+
 const ALL_FILIERES = [
   'Droit / Sciences politiques',
   'Économie / Gestion / AES',
@@ -10,14 +12,36 @@ const ALL_FILIERES = [
   'IUT / BUT',
 ]
 
+export const ALL_AMENAGEMENTS = [
+  "Aucun de ces éléments mentionnés",
+  "Aménagements d'emploi du temps",
+  "Dispense d'assiduité des cours",
+  "Flexibilité des dates d'examens",
+  "Étalement du cursus",
+  "Tutorat individualisé",
+  "Accès prioritaire à des infrastructures sportives",
+  "Suivi médical/paramédical intégré",
+  "Dotation matériel sportif",
+  "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions",
+  "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions",
+]
+
 export default function Filters({ filters, setFilters, regions }) {
+  const [amenOpen, setAmenOpen] = useState(false)
   const update = (key, value) => setFilters(f => ({ ...f, [key]: value }))
+
+  const toggleAmenagement = (tag) => {
+    const current = filters.amenagements || []
+    const next = current.includes(tag) ? current.filter(t => t !== tag) : [...current, tag]
+    update('amenagements', next)
+  }
 
   const activeCount = [
     filters.region,
     filters.filiere,
     filters.niveau,
     filters.type,
+    ...(filters.amenagements || []),
   ].filter(Boolean).length
 
   return (
@@ -64,10 +88,32 @@ export default function Filters({ filters, setFilters, regions }) {
         {activeCount > 0 && (
           <button
             className="reset-btn"
-            onClick={() => setFilters({ region: '', filiere: '', niveau: '', type: '' })}
+            onClick={() => setFilters({ region: '', filiere: '', niveau: '', type: '', amenagements: [] })}
           >
             Réinitialiser ({activeCount})
           </button>
+        )}
+      </div>
+
+      <div className="amenagements-filter">
+        <button className="amenagements-toggle" onClick={() => setAmenOpen(o => !o)}>
+          Types d'aménagement proposés
+          {filters.amenagements?.length > 0 && <span className="amen-count">{filters.amenagements.length}</span>}
+          <span className="toggle-arrow">{amenOpen ? '▲' : '▼'}</span>
+        </button>
+        {amenOpen && (
+          <div className="amenagements-list">
+            {ALL_AMENAGEMENTS.map(tag => (
+              <label key={tag} className="amen-option">
+                <input
+                  type="checkbox"
+                  checked={(filters.amenagements || []).includes(tag)}
+                  onChange={() => toggleAmenagement(tag)}
+                />
+                {tag}
+              </label>
+            ))}
+          </div>
         )}
       </div>
     </div>

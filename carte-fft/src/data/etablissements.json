@@ -24,7 +24,16 @@
     ],
     "distanciel": false,
     "lat": 45.4230567,
-    "lng": 4.4257212
+    "lng": 4.4257212,
+    "lien_doc": [
+      "https://drive.google.com/file/d/11OGXf8Bt5vACmU0axAiBjX7M_0tC_dIs/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Tutorat individualisé",
+      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 1,
@@ -51,7 +60,16 @@
     ],
     "distanciel": true,
     "lat": 45.1915609,
-    "lng": 5.7672639
+    "lng": 5.7672639,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1iHOhlSPpeXQD0hkXWiig6N9TBuyn1vwj/view?usp=sharing",
+      "https://drive.google.com/file/d/1W0JZGMLfGSi5FDSuAw9nAxe0E0bzpdq6/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 2,
@@ -71,7 +89,12 @@
     ],
     "distanciel": true,
     "lat": 45.7830905,
-    "lng": 4.8759894
+    "lng": 4.8759894,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 3,
@@ -94,7 +117,15 @@
     ],
     "distanciel": false,
     "lat": 45.7816645,
-    "lng": 4.8681545
+    "lng": 4.8681545,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1jWaMn_gqewkXSG7sSfHEf2kQFJ-AT9i3/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 4,
@@ -119,7 +150,13 @@
     ],
     "distanciel": false,
     "lat": 45.7206314,
-    "lng": 4.9175834
+    "lng": 4.9175834,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1WdEOWyAz69zntfYm9CylpeSrFiyv-JWF/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps"
+    ]
   },
   {
     "id": 5,
@@ -143,7 +180,10 @@
     ],
     "distanciel": false,
     "lat": 45.7551,
-    "lng": 4.8308
+    "lng": 4.8308,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 6,
@@ -168,7 +208,14 @@
     ],
     "distanciel": true,
     "lat": 45.7515705,
-    "lng": 4.8265711
+    "lng": 4.8265711,
+    "lien_doc": [
+      "https://drive.google.com/file/d/145FSB4kqAb-AfbKhmLG-b6w9LSsifj2w/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 7,
@@ -195,7 +242,13 @@
     ],
     "distanciel": false,
     "lat": 45.7719719,
-    "lng": 3.0917595
+    "lng": 3.0917595,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 8,
@@ -221,7 +274,14 @@
     ],
     "distanciel": false,
     "lat": 45.5585,
-    "lng": 5.9112
+    "lng": 5.9112,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1WP8YXLPxOHYWwSW8kxajbC5Z7NZ2L7D7/view?usp=sharing",
+      "https://drive.google.com/file/d/1WP8YXLPxOHYWwSW8kxajbC5Z7NZ2L7D7/view?usp=drive_link"
+    ],
+    "amenagement_tags": [
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 9,
@@ -248,7 +308,13 @@
     ],
     "distanciel": true,
     "lat": 47.3133052,
-    "lng": 5.0688626
+    "lng": 5.0688626,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 10,
@@ -275,7 +341,15 @@
     ],
     "distanciel": false,
     "lat": 47.2360829,
-    "lng": 6.0147827
+    "lng": 6.0147827,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1Rtz1Pa1HtsOXLZTcRtrHUOScJbpqkp4T/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 11,
@@ -301,7 +375,10 @@
     ],
     "distanciel": false,
     "lat": 47.7420037,
-    "lng": -3.3844049
+    "lng": -3.3844049,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 12,
@@ -328,7 +405,10 @@
     ],
     "distanciel": false,
     "lat": 48.3991502,
-    "lng": -4.5034647
+    "lng": -4.5034647,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 13,
@@ -355,7 +435,13 @@
     ],
     "distanciel": true,
     "lat": 48.1193848,
-    "lng": -1.701487
+    "lng": -1.701487,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 14,
@@ -378,7 +464,13 @@
     ],
     "distanciel": true,
     "lat": 48.117928,
-    "lng": -1.6697794
+    "lng": -1.6697794,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 15,
@@ -398,7 +490,15 @@
     ],
     "distanciel": false,
     "lat": 48.1213745,
-    "lng": -1.6684829
+    "lng": -1.6684829,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1FcKl6QdLpvsf6NYsvBDFbU3HbQ43EE63/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 16,
@@ -423,7 +523,10 @@
     ],
     "distanciel": false,
     "lat": 42.2984,
-    "lng": 9.1828
+    "lng": 9.1828,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 17,
@@ -443,7 +546,12 @@
     ],
     "distanciel": false,
     "lat": 47.5843965,
-    "lng": 1.3258033
+    "lng": 1.3258033,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 18,
@@ -470,7 +578,10 @@
     ],
     "distanciel": false,
     "lat": 47.383661,
-    "lng": 0.6735173
+    "lng": 0.6735173,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps"
+    ]
   },
   {
     "id": 19,
@@ -496,7 +607,10 @@
     ],
     "distanciel": false,
     "lat": 47.8416678,
-    "lng": 1.9366943
+    "lng": 1.9366943,
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours"
+    ]
   },
   {
     "id": 20,
@@ -521,7 +635,12 @@
     ],
     "distanciel": false,
     "lat": 47.7305753,
-    "lng": 7.3109492
+    "lng": 7.3109492,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 21,
@@ -548,7 +667,14 @@
     ],
     "distanciel": false,
     "lat": 48.5831481,
-    "lng": 7.7728728
+    "lng": 7.7728728,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 22,
@@ -575,7 +701,12 @@
     ],
     "distanciel": false,
     "lat": 49.1153364,
-    "lng": 6.2131984
+    "lng": 6.2131984,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 23,
@@ -602,7 +733,16 @@
     ],
     "distanciel": false,
     "lat": 49.2534,
-    "lng": 4.0417
+    "lng": 4.0417,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1vEnt8we9pehEaXeG3gWD6NBzgJpjVxgj/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 24,
@@ -622,7 +762,11 @@
     ],
     "distanciel": false,
     "lat": 48.269078,
-    "lng": 4.0664959
+    "lng": 4.0664959,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 25,
@@ -648,7 +792,11 @@
     ],
     "distanciel": true,
     "lat": 50.3234557,
-    "lng": 3.514554
+    "lng": 3.514554,
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 26,
@@ -674,7 +822,11 @@
     ],
     "distanciel": false,
     "lat": 50.2835005,
-    "lng": 2.793544
+    "lng": 2.793544,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 27,
@@ -701,7 +853,12 @@
     ],
     "distanciel": false,
     "lat": 50.6285707,
-    "lng": 3.125956
+    "lng": 3.125956,
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 28,
@@ -728,7 +885,10 @@
     ],
     "distanciel": false,
     "lat": 49.8741955,
-    "lng": 2.268363
+    "lng": 2.268363,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 29,
@@ -754,7 +914,12 @@
     ],
     "distanciel": false,
     "lat": 51.0365306,
-    "lng": 2.3695964
+    "lng": 2.3695964,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 30,
@@ -780,7 +945,10 @@
     ],
     "distanciel": false,
     "lat": 49.0394375,
-    "lng": 2.0755603
+    "lng": 2.0755603,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 31,
@@ -803,7 +971,11 @@
     ],
     "distanciel": false,
     "lat": 48.8486358,
-    "lng": 2.3436034
+    "lng": 2.3436034,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 32,
@@ -825,7 +997,10 @@
     ],
     "distanciel": false,
     "lat": 48.8538978,
-    "lng": 2.3290212
+    "lng": 2.3290212,
+    "amenagement_tags": [
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 33,
@@ -846,7 +1021,11 @@
     ],
     "distanciel": true,
     "lat": 48.8487592,
-    "lng": 2.3453784
+    "lng": 2.3453784,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 34,
@@ -873,7 +1052,14 @@
     ],
     "distanciel": false,
     "lat": 48.956638,
-    "lng": 2.3405983
+    "lng": 2.3405983,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1WmWnVmyEG_UNUDK_tk2uI7B38Ld9RXwO/view?usp=sharing",
+      "https://drive.google.com/file/d/1rIYttND-a4yfnpnJWdZiQIxSJqgsQlR9/view?usp=drive_link"
+    ],
+    "amenagement_tags": [
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 35,
@@ -895,7 +1081,11 @@
     ],
     "distanciel": true,
     "lat": 48.8457553,
-    "lng": 2.3210314
+    "lng": 2.3210314,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 36,
@@ -917,8 +1107,12 @@
       "Sciences sociales / Psychologie / Sociologie"
     ],
     "distanciel": false,
-    "lat": 48.8700,
-    "lng": 2.2733
+    "lat": 48.87,
+    "lng": 2.2733,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 37,
@@ -943,7 +1137,17 @@
     ],
     "distanciel": false,
     "lat": 48.6233961,
-    "lng": 2.4244481
+    "lng": 2.4244481,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1oBv36hiZJ3KVS2x4q53Nuvs0Jv5T6xWr/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 38,
@@ -968,7 +1172,17 @@
     ],
     "distanciel": true,
     "lat": 48.8419,
-    "lng": 2.5879
+    "lng": 2.5879,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1WKrvySTCnhPVAYZZR2TR505kKYG2yq4R/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 39,
@@ -988,7 +1202,17 @@
     ],
     "distanciel": true,
     "lat": 48.839418,
-    "lng": 2.5836487
+    "lng": 2.5836487,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1HTbf9PQBcMtnOcixxE29ZvyIhXrdgmjt/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 40,
@@ -1013,7 +1237,13 @@
     ],
     "distanciel": false,
     "lat": 48.9474,
-    "lng": 2.3640
+    "lng": 2.364,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 41,
@@ -1040,7 +1270,16 @@
     ],
     "distanciel": false,
     "lat": 48.8514684,
-    "lng": 2.341089
+    "lng": 2.341089,
+    "lien_doc": [
+      "https://docs.google.com/document/d/1Zftb1jMR2vjcKGdXfbDu0mQ4p2AdiRej/edit?usp=sharing&ouid=100579976006583483622&rtpof=true&sd=true",
+      "https://drive.google.com/file/d/15YD-3_fGd1krKEN2ubXfyzu7LXfsGGkR/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 42,
@@ -1066,7 +1305,16 @@
     ],
     "distanciel": false,
     "lat": 48.712167,
-    "lng": 2.1734776
+    "lng": 2.1734776,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1Bd6ZTI6pw5ZmuV1qlJc0TUvSnR6oba1k/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 43,
@@ -1092,7 +1340,15 @@
     ],
     "distanciel": false,
     "lat": 48.9042269,
-    "lng": 2.2139518
+    "lng": 2.2139518,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1vE7mEXFXky6ayKqW2Zox3bZ1-D-BhDZn/view?usp=sharing",
+      "https://drive.google.com/file/d/1wxp1fgKA2vbzO_KSvolqjs-OwsliCeo4/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 44,
@@ -1119,7 +1375,15 @@
     ],
     "distanciel": false,
     "lat": 48.7882159,
-    "lng": 2.4439219
+    "lng": 2.4439219,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1v8vHqIDL5WfJTbbLHCgrx-4mnex75ayh/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 45,
@@ -1145,7 +1409,10 @@
     ],
     "distanciel": false,
     "lat": 48.7997,
-    "lng": 2.1409
+    "lng": 2.1409,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 46,
@@ -1172,7 +1439,14 @@
     ],
     "distanciel": false,
     "lat": 49.1911,
-    "lng": -0.3619
+    "lng": -0.3619,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 47,
@@ -1199,7 +1473,15 @@
     ],
     "distanciel": false,
     "lat": 49.3849168,
-    "lng": 1.0720751
+    "lng": 1.0720751,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1sJBMbAVo6onaFg3Hx954UUWhyrsd_uPU/view?usp=sharing",
+      "https://drive.google.com/file/d/1Lqhi9gCukRTUZhHJs5luUAvDIc-NiNov/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 48,
@@ -1224,7 +1506,10 @@
     ],
     "distanciel": false,
     "lat": 49.4961896,
-    "lng": 0.127048
+    "lng": 0.127048,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 49,
@@ -1244,7 +1529,14 @@
     ],
     "distanciel": false,
     "lat": 49.2147928,
-    "lng": -0.3675902
+    "lng": -0.3675902,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 50,
@@ -1264,7 +1556,11 @@
     ],
     "distanciel": false,
     "lat": 44.81,
-    "lng": -0.6014
+    "lng": -0.6014,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens"
+    ]
   },
   {
     "id": 51,
@@ -1290,7 +1586,10 @@
     ],
     "distanciel": false,
     "lat": 46.1476264,
-    "lng": -1.1560269
+    "lng": -1.1560269,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 52,
@@ -1312,7 +1611,10 @@
     ],
     "distanciel": false,
     "lat": 44.7949425,
-    "lng": -0.6173657
+    "lng": -0.6173657,
+    "amenagement_tags": [
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 53,
@@ -1339,7 +1641,12 @@
     ],
     "distanciel": false,
     "lat": 44.8312782,
-    "lng": -0.5708167
+    "lng": -0.5708167,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 54,
@@ -1366,7 +1673,14 @@
     ],
     "distanciel": false,
     "lat": 45.8260427,
-    "lng": 1.2585756
+    "lng": 1.2585756,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1zz-F0faSrWothk5AMNb-HWW535NxCY_e/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 55,
@@ -1392,7 +1706,11 @@
     ],
     "distanciel": false,
     "lat": 43.3146145,
-    "lng": -0.3653306
+    "lng": -0.3653306,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours"
+    ]
   },
   {
     "id": 56,
@@ -1419,7 +1737,11 @@
     ],
     "distanciel": false,
     "lat": 46.5684757,
-    "lng": 0.3838585
+    "lng": 0.3838585,
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 57,
@@ -1445,7 +1767,18 @@
     ],
     "distanciel": false,
     "lat": 43.6331162,
-    "lng": 3.8605852
+    "lng": 3.8605852,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1XsC0X0hyPse1Fmvgko-XX2HPT_EavOHK/view?usp=sharing",
+      "https://drive.google.com/file/d/1j80CBvJrRVCfEp3gIlhLcm4mmSgOFRAL/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 58,
@@ -1471,7 +1804,13 @@
     ],
     "distanciel": true,
     "lat": 42.6821739,
-    "lng": 2.8990979
+    "lng": 2.8990979,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 59,
@@ -1493,7 +1832,16 @@
     ],
     "distanciel": false,
     "lat": 43.6325304,
-    "lng": 3.8701088
+    "lng": 3.8701088,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1NFiqFASitr5yBq_zfi79rbEzifpRJvl4/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Tutorat individualisé",
+      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 60,
@@ -1517,7 +1865,13 @@
     ],
     "distanciel": false,
     "lat": 43.5943374,
-    "lng": 1.4503779
+    "lng": 1.4503779,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 61,
@@ -1539,7 +1893,12 @@
     ],
     "distanciel": true,
     "lat": 43.5777,
-    "lng": 1.4040
+    "lng": 1.404,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 62,
@@ -1562,7 +1921,12 @@
     ],
     "distanciel": false,
     "lat": 43.5611,
-    "lng": 1.4631
+    "lng": 1.4631,
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 63,
@@ -1589,7 +1953,17 @@
     ],
     "distanciel": true,
     "lat": 43.3043,
-    "lng": 5.375
+    "lng": 5.375,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1oe2GmBxH3dSVUfDtlYP8B9qlRfiMWTwR/view?usp=sharing",
+      "https://drive.google.com/file/d/1NknBTW70evg-lLmy9723wrmgb19B_14a/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Tutorat individualisé",
+      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
+    ]
   },
   {
     "id": 64,
@@ -1615,7 +1989,10 @@
     ],
     "distanciel": false,
     "lat": 43.9494689,
-    "lng": 4.8193184
+    "lng": 4.8193184,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 65,
@@ -1642,7 +2019,16 @@
     ],
     "distanciel": false,
     "lat": 43.7170132,
-    "lng": 7.2675774
+    "lng": 7.2675774,
+    "lien_doc": [
+      "https://docs.google.com/document/d/1igAbYHcnO1Jj8Z7SBRfxNWVwCDddXg1o/edit?usp=sharing&ouid=100579976006583483622&rtpof=true&sd=true"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 66,
@@ -1666,7 +2052,15 @@
     ],
     "distanciel": false,
     "lat": 43.8388058,
-    "lng": 4.3644873
+    "lng": 4.3644873,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1AYycX_kXaT4FhLQQG6mnz2IYouxjChfW/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens"
+    ]
   },
   {
     "id": 67,
@@ -1692,7 +2086,15 @@
     ],
     "distanciel": false,
     "lat": 43.1354075,
-    "lng": 6.0161592
+    "lng": 6.0161592,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1Nl3Zd_-_l2bdYSELwrL4dkWJADmvLdYL/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 68,
@@ -1714,7 +2116,13 @@
     ],
     "distanciel": false,
     "lat": 43.529246,
-    "lng": 5.4357047
+    "lng": 5.4357047,
+    "lien_doc": [
+      "https://drive.google.com/file/d/1kcOm8qH6mtQ7RhOW7X6YEwCUMI6_ORKa/view?usp=sharing"
+    ],
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   },
   {
     "id": 69,
@@ -1740,7 +2148,12 @@
     ],
     "distanciel": false,
     "lat": 48.017927,
-    "lng": 0.1584525
+    "lng": 0.1584525,
+    "amenagement_tags": [
+      "Aménagements d'emploi du temps",
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens"
+    ]
   },
   {
     "id": 70,
@@ -1767,7 +2180,13 @@
     ],
     "distanciel": false,
     "lat": 47.2454573,
-    "lng": -1.5519856
+    "lng": -1.5519856,
+    "amenagement_tags": [
+      "Dispense d'assiduité des cours",
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 71,
@@ -1794,7 +2213,12 @@
     ],
     "distanciel": true,
     "lat": 47.4803871,
-    "lng": -0.601219
+    "lng": -0.601219,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 72,
@@ -1820,7 +2244,10 @@
     ],
     "distanciel": false,
     "lat": -20.9019193,
-    "lng": 55.4843818
+    "lng": 55.4843818,
+    "amenagement_tags": [
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 73,
@@ -1844,7 +2271,13 @@
     ],
     "distanciel": false,
     "lat": -22.2633801,
-    "lng": 166.402645
+    "lng": 166.402645,
+    "lien_doc": [
+      "https://www.unc.nc/wp-content/uploads/2025/02/BAT-V5-Plaquette-3-volets-PESU-UNC.pdf"
+    ],
+    "amenagement_tags": [
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 1000,
@@ -1865,7 +2298,11 @@
     ],
     "distanciel": true,
     "lat": 45.7411746,
-    "lng": 4.8376715
+    "lng": 4.8376715,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 1001,
@@ -1886,7 +2323,11 @@
     ],
     "distanciel": true,
     "lat": 45.1899716,
-    "lng": 5.7138851
+    "lng": 5.7138851,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 1002,
@@ -1908,7 +2349,11 @@
     ],
     "distanciel": true,
     "lat": 43.6693885,
-    "lng": 7.2209291
+    "lng": 7.2209291,
+    "amenagement_tags": [
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 1003,
@@ -1930,7 +2375,11 @@
     ],
     "distanciel": true,
     "lat": 49.0332,
-    "lng": 2.0787
+    "lng": 2.0787,
+    "amenagement_tags": [
+      "Flexibilité des dates d'examens",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 1004,
@@ -1951,7 +2400,11 @@
     ],
     "distanciel": true,
     "lat": 48.8765151,
-    "lng": 2.3697953
+    "lng": 2.3697953,
+    "amenagement_tags": [
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 1005,
@@ -1972,6 +2425,9 @@
     ],
     "distanciel": false,
     "lat": 47.4763409,
-    "lng": -0.6007217
+    "lng": -0.6007217,
+    "amenagement_tags": [
+      "Aucun de ces éléments mentionnés"
+    ]
   }
 ]

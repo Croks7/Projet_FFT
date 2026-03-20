@@ -30,6 +30,7 @@ export default function App() {
     filiere: '',
     niveau: '',
     type: '',
+    amenagements: [],
   })
   const [selected, setSelected] = useState(null)
   const mapSectionRef = useRef(null)
@@ -47,6 +48,9 @@ export default function App() {
       if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
       if (filters.niveau === 'SHN' && !e.criteres?.toUpperCase().includes('SHN')) return false
       if (filters.niveau === 'SBN' && !e.criteres?.toUpperCase().includes('SBN')) return false
+      if (filters.amenagements?.length > 0) {
+        if (!filters.amenagements.every(tag => e.amenagement_tags?.includes(tag))) return false
+      }
       return true
     })
   }, [filters])
