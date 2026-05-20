@@ -16,7 +16,7 @@ const ALL_FILIERES = [
 ]
 
 export const ALL_AMENAGEMENTS = [
-  "Aménagement d'horaires/Dispense d'assiduité",
+  "Aménagement d\u2019horaires/Dispense d\u2019assiduité",
   "Aménagement des examens",
   "Choix des groupes de TD/TP",
   "Étalement du cursus",
