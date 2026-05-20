@@ -1,29 +1,28 @@
 import { useState } from 'react'
 
 const ALL_FILIERES = [
-  'Droit / Sciences politiques',
-  'Économie / Gestion / AES',
-  'Médecine / Santé / Pharmacie / Maïeutique',
-  'Sciences / Ingénierie / Technologie',
-  'Lettres / Langues / Arts / Histoire',
+  'Arts, Lettres et Langues',
+  'Droit',
+  'Éco-Gestion',
+  'Histoire-Géographie',
+  'Ingénieur',
+  'Maths-Informatique',
+  'Médecine',
+  'Sciences',
+  'Sciences Humaines',
+  'Sciences Politiques',
   'STAPS',
-  'Sciences sociales / Psychologie / Sociologie',
-  'Commerce / Management',
-  'IUT / BUT',
+  'BUT',
 ]
 
 export const ALL_AMENAGEMENTS = [
-  "Aucun de ces éléments mentionnés",
-  "Aménagements d'emploi du temps",
-  "Dispense d'assiduité des cours",
-  "Flexibilité des dates d'examens",
+  "Aménagement d'horaires/Dispense d'assiduité",
+  "Aménagement des examens",
+  "Choix des groupes de TD/TP",
   "Étalement du cursus",
   "Tutorat individualisé",
-  "Accès prioritaire à des infrastructures sportives",
-  "Suivi médical/paramédical intégré",
-  "Dotation matériel sportif",
-  "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions",
-  "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions",
+  "Accès aux installations sportives universitaires",
+  "Collaboration avec un club de proximité",
 ]
 
 export default function Filters({ filters, setFilters, regions }) {

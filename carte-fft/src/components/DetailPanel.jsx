@@ -87,9 +87,6 @@ export default function DetailPanel({ etablissement: e, onClose }) {
             {e.amenagement_tags?.map(tag => (
               <span key={tag} className="filiere-tag">{tag}</span>
             ))}
-            {e.amenagement_other_tags?.map(tag => (
-              <span key={tag} className="filiere-tag filiere-tag-other">{tag}</span>
-            ))}
           </div>
         </Section>
 

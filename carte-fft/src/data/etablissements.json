@@ -13,14 +13,17 @@
     "lien": "https://www.univ-st-etienne.fr/fr/suaps/sportifs-de-haut-niveau.html",
     "club_proximite": "Pas de relation avec un club de proximité (nombre d'étudiants SHN trop faible)",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 45.4230567,
@@ -29,14 +32,9 @@
       "https://drive.google.com/file/d/11OGXf8Bt5vACmU0axAiBjX7M_0tC_dIs/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
-      "Tutorat individualisé",
-      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Guide du sportif étudiant AURA 2025",
-      "Autorisation d'absence aux cours pour contraintes sportives"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Tutorat individualisé"
     ]
   },
   {
@@ -53,14 +51,18 @@
     "lien": "https://www.univ-grenoble-alpes.fr/formation/modalites-de-formation/amenagement-d-etudes-pour-les-etudiants-a-besoins-specifiques/vous-etes-sportif-de-haut-niveau/le-statut-d-etudiant-sportif-de-haut-niveau-578279.kjsp?RH=1571925719902",
     "club_proximite": "Relation avec le Grenoble Université Club (GUC). Les étudiants intégrant les équipes universitaires ont un accès aux infrastructures. 4h d'entrainement/semaine sont proposés et pour ceux qui le souhaitent, ils peuvent aller au GUC s'entraîner davantage.",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": true,
     "lat": 45.1915609,
@@ -70,18 +72,13 @@
       "https://drive.google.com/file/d/1W0JZGMLfGSi5FDSuAw9nAxe0E0bzpdq6/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN UGA",
-      "Aménagements scolaires",
-      "Autorisation d'absences",
-      "Conservation de notes",
-      "Sessions spéciales d'examens",
-      "Aide à l'orientation et à l'insertion professionnelle",
-      "Formations en distanciel"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -98,20 +95,19 @@
     "lien": "https://www.insa-lyon.fr/fr/formation/fimi-sport-haut-niveau?",
     "club_proximite": "Collaboration avec le Tennis Club de Lyon (TCL) : Accès aux installations sportives et terrains du club et de l'université. Un entraîneur est mis à disposition et assure 2 entraînements par semaine",
     "filieres": [
-      "Sciences / Ingénierie / Technologie"
+      "Ingénieur",
+      "Maths-Informatique"
     ],
     "distanciel": true,
     "lat": 45.7830905,
     "lng": 4.8759894,
     "amenagement_tags": [
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Aménagements d’horaires",
-      "Dispense d’assiduité ponctuelle",
-      "Toutes les filières de l'INSA Lyon sont concernées par ces aménagements"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -128,10 +124,12 @@
     "lien": "https://suaps.univ-lyon1.fr/inscriptions-pratique/haut-niveau?",
     "club_proximite": "L'université a signé la déclisaison régionale de la convention C3D STAPS avec la Ligue ARA\n\nPas de relation avec un club de proximité",
     "filieres": [
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
       "STAPS",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 45.7816645,
@@ -140,15 +138,11 @@
       "https://drive.google.com/file/d/1jWaMn_gqewkXSG7sSfHEf2kQFJ-AT9i3/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Aménagements d’horaires possibles",
-      "Autorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)",
-      "Sessions aménagées pour les examens",
-      "Toutes les formations sont concernées par ces aménagements"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -165,12 +159,14 @@
     "lien": "https://www.univ-lyon2.fr/formation/dispositifs-d-accompagnement/shn",
     "club_proximite": "Utilisation de la salle de musculation\n\nPas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences Humaines",
+      "Sciences Politiques",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 45.7206314,
@@ -179,14 +175,11 @@
       "https://drive.google.com/file/d/1WdEOWyAz69zntfYm9CylpeSrFiyv-JWF/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université Lumière Lyon 2",
-      "Aménagements des emplois du temps et dispense d’assiduité totale ou partielle si un aménagement n’est pas possible",
-      "Dispense d’assiduité pour les cours",
-      "Mise en place de preneur/euses de notes",
-      "Choix du mode de contrôle des connaissances : continu, terminal"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -203,25 +196,23 @@
     "lien": "https://www.univ-lyon3.fr/sport-de-haut-niveau?",
     "club_proximite": "Accès à la salle de musculation de l'université sur des créneaux réservés aux SHN\nMise à disposition d'un créneau de 2h dans la semaine sur les installations universitaires ouvert aux étudiants engagés dans les Championnats de France Universitaires (classés 4/6 et mieux)\n\nPas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences Humaines",
+      "Sciences Politiques",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 45.7551,
     "lng": 4.8308,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": [
-      "Possibilité de changement de groupe de TD",
-      "Absence justifiée en TD en cas de compétition, stage ou autre",
-      "Possibilité d'être dispensé d'assiduité sur certains TD",
-      "Possibilité de bénéficier du dispositif de la mineure SHN (en licence) qui permet de libérer du temps en enlevant toutes les matières mineures (pas de cours ni d'examens)",
-      "Possibilité de passer des épreuves de remplacement si absence à un examen",
-      "Toutes les formations dispensées à l'Université Lyon 3 sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -238,12 +229,13 @@
     "lien": "https://www.ucly.fr/vie-etudiante/services-aux-etudiants/sportifs-de-haut-niveau-et-artistes/",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques"
     ],
     "distanciel": true,
     "lat": 45.7515705,
@@ -252,15 +244,11 @@
       "https://drive.google.com/file/d/145FSB4kqAb-AfbKhmLG-b6w9LSsifj2w/view?usp=sharing"
     ],
     "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Procédure SHN Université Catholique de Lyon (UCLY)",
-      "Adaptation du temps de formation : Autorisation d'absence, changement de groupe de TD ou TP",
-      "Dispense d'un enseignement",
-      "Pour les sportifs Elite, Sénior et Relève : Prêt d'un ordinateur portable",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -277,28 +265,28 @@
     "lien": "https://sport.uca.fr/dispositif-shbn",
     "club_proximite": "Pas de collaboration avec un club mais l'université est en lien avec les entraineurs de l'ASM et du Stade Clermontois.\n\nLes étudiants ont un accès aux installations de l'université avec des créneaux réservés pour les joueurs et joueuses universitaires\n\nPour bénéficier de ces avantages, il faut participer aux Championnats de France universitaires",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 45.7719719,
     "lng": 3.0917595,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Aménagement du parcours de formation en fonction des contraintes d'entrainement et de compétition",
-      "Possibilité de dispense d’assiduité pour les sportifs « listés » à condition de justifier d’un entraînement, compétition, stage, sélection",
-      "Toutes les formations de l'université sont concernées"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -315,13 +303,16 @@
     "lien": "",
     "club_proximite": "Accès aux équipements sportifs du campus\n\nL'université fonctionne prioritairement avec le tennis club d'Annecy Le Vieux et peut être en lien avec le tennis club d'Annecy ou de Pringy.\nIl y a une convention avec le tennis club de Pringy pour la mise en place de séance de tennis le jeudi après-midi dans le cadre du service des sports. Accès également à la salle de musculation de l'université pour les SHN.",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 45.5585,
@@ -331,15 +322,13 @@
       "https://drive.google.com/file/d/1WP8YXLPxOHYWwSW8kxajbC5Z7NZ2L7D7/view?usp=drive_link"
     ],
     "amenagement_tags": [
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Contrat SHN Université de Savoie Mont-Blanc",
-      "Etalement du cursus",
-      "Aménagements des sessions d’examens",
-      "Soutien enseignant (dans la limite de 10h/ semestre)",
-      "Dispense d’assiduité",
-      "Autorisation de changement de groupe de TP/TD"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -356,29 +345,27 @@
     "lien": "https://ufr-staps.ube.fr/accueil-des-sportifs-de-haut-niveau-a-lufr-staps?",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": true,
     "lat": 47.3133052,
     "lng": 5.0688626,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Dispenses d’assiduité justifiées",
-      "Autorisation d’absence lors des compétitions, stages, convocations fédérales",
-      "Possibilité d’examens à distance selon les contraintes sportives",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -395,14 +382,17 @@
     "lien": "http://u-sports.umlp.fr/pages/fr/menu617/inscription-administrative/sportifs-de-haut-niveau-18666.html?",
     "club_proximite": "L'université propose des cours de tennis dans le cadre des pratiques du SUAPS (appelé Campus sport).\n\nLes sportifs peuvent également participer aux cours relatifs à la préparation physique en salle de musculation.",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 47.2360829,
@@ -411,17 +401,11 @@
       "https://drive.google.com/file/d/1Rtz1Pa1HtsOXLZTcRtrHUOScJbpqkp4T/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université de Franche-Comté",
-      "Aménagement de l’enseignement",
-      "Dispense d’assiduité",
-      "Adaptation de la période de stage",
-      "Aménagement des Modalités de Contrôle des Connaissances et des Compétences (Les dates d’examens peuvent être aménagées en fonction du calendrier sportif prévisionnel fourni par le SHNU au début de chaque semestre, et il est possible de délocaliser tout ou partie des examens)",
-      "Toutes les formations que propose l'université sont concernées par ces aménagements"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -438,21 +422,28 @@
     "lien": "https://www.univ-ubs.fr/fr/vie-des-campus/campus/sport/sportif-ve-de-haut-niveau.html?",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 47.7420037,
     "lng": -3.3844049,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
+    ]
   },
   {
     "id": 12,
@@ -468,32 +459,26 @@
     "lien": "https://www.univ-brest.fr/suaps/fr/page/sportif-de-haut-niveau-shn-et-excellence-sportive-universitaire-esu",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.3991502,
     "lng": -4.5034647,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": [
-      "Statut SHN :",
-      "Priorité dans les choix d'horaires de groupe (TP) et (TD)",
-      "Proposition de dédoubler l'année",
-      "Possibilité de bénéficier d'absences justifiées",
-      "Posibilité d'aménagement sur les sessions d'examen",
-      "Statut ESN :",
-      "Priorité dans les choix d'horaire de groupe (TD) et (TP)",
-      "Possibilité de bénéficier d'absences justifiées",
-      "Possibilité d'aménagement sur les sessions d'examen",
-      "Toutes les formations que propose l'université sont concernées pas ces aménagements (sauf les aménagements d'examens pour les cursus santé)"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus"
     ]
   },
   {
@@ -510,28 +495,26 @@
     "lien": "https://siuaps.univ-rennes.fr/le-sport-de-haut-niveau",
     "club_proximite": "Collaboration avec la Ligue de Bretagne, utilisation de terrains au TC St Grégoire, location dans le club de Cesson-Sévigné (utilisation de créneaux pour la Section Sportive Universitaire de Rennes)\nAccès aux infrastructures sportives de l'université \"gratuitement\", une fois que la Contribution Vie Étudiante et Campus (CVEC) a été payée. Mise à disposition de 4 courts extérieurs, universitaires en béton poreux sur le campus de Beaulieu, avec également 2 entraîneurs disponibles qui assurent 4h d'entraînement par semaine.",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "BUT"
     ],
     "distanciel": true,
     "lat": 48.1193848,
     "lng": -1.701487,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Etalement du cursus",
-      "Choix des groupe de TD",
-      "Toutes les formations rattachées à l'université de Rennes et à l'université de Rennes 2 sont concernées"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -548,24 +531,22 @@
     "lien": "https://www.univ-rennes2.fr/formation/sportifs-haut-niveau",
     "club_proximite": "Collaboration avec la Ligue de Bretagne, utilisation de terrains au TC St Grégoire, location dans le club de Cesson-Sévigné (utilisation de créneaux pour la Section Sportive Universitaire de Rennes)\nAccès aux infrastructures sportives de l'université \"gratuitement\", une fois que la Contribution Vie Étudiante et Campus (CVEC) a été payée. Mise à disposition de 4 courts extérieurs, universitaires en béton poreux sur le campus de Beaulieu, avec également 2 entraîneurs disponibles qui assurent 4h d'entraînement par semaine.",
     "filieres": [
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "Économie / Gestion / AES"
+      "Arts, Lettres et Langues",
+      "Histoire-Géographie",
+      "Sciences Humaines",
+      "STAPS"
     ],
     "distanciel": true,
     "lat": 48.117928,
     "lng": -1.6697794,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Etalement du cursus",
-      "Choix des groupe de TD",
-      "Toutes les formations rattachées à l'université de Rennes et à l'université de Rennes 2 sont concernées"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -581,9 +562,7 @@
     "amenagements": "Convention Sportifs de Haut Niveau Sciences Po Rennes\n\nAménagement des études (autorisation d'absence, inscription ou changement temporaire ou définitif de groupe, adaptation des périodes et lieux de stage)\nAdaptation pédagogiques (organisation de sessions d'examens particulières)\nDédoublement des années de formation\nCésure possible en fonction des objectifs sportifs\nAménagement des modalités de contrôle de connaissance ou de soutenance\nTutorat individualisé par un autre étudiant\nAménagement du stage (congés et autorisations d'absences)",
     "lien": "https://www.sciencespo-rennes.fr/sportif-haut-niveau",
     "club_proximite": "Convention pour accéder aux installations sportives\nEntraînement en autonomie au club de Saint-Jacques de la Lande",
-    "filieres": [
-      "Droit / Sciences politiques"
-    ],
+    "filieres": [],
     "distanciel": false,
     "lat": 48.1213745,
     "lng": -1.6684829,
@@ -591,16 +570,13 @@
       "https://drive.google.com/file/d/1FcKl6QdLpvsf6NYsvBDFbU3HbQ43EE63/view?usp=sharing"
     ],
     "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé",
-      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Convention Sportifs de Haut Niveau Sciences Po Rennes",
-      "Aménagement des études (autorisation d'absence, inscription ou changement temporaire ou définitif de groupe, adaptation des périodes et lieux de stage)",
-      "Adaptation pédagogiques (organisation de sessions d'examens particulières)",
-      "Césure possible en fonction des objectifs sportifs",
-      "Aménagement des modalités de contrôle de connaissance ou de soutenance"
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -617,20 +593,25 @@
     "lien": "https://fst.universita.corsica/article.php?id_art=2376&id_rub=831&id_site=29&lang=fr",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines"
     ],
     "distanciel": false,
     "lat": 42.2984,
     "lng": 9.1828,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
+    ]
   },
   {
     "id": 17,
@@ -646,17 +627,18 @@
     "lien": "https://www.insa-centrevaldeloire.fr/fr/formation/les-filieres-specifiques/sport-haut-niveau-shn",
     "club_proximite": "Partenariats avec les clubs locaux et les structures régionales pour permettre un entrainement régulier et encadré. Pour assurer l’optimisation de l’entrainement, sont également proposés gratuitement : Un accès en salle de musculation (Fitness Park), une séance hebdomadaire de préparation mentale, un accès à la balnéothérapie, une intervention avec un diététicien, un staff médical à disposition, une préparation physique\n\nPas d'organisation avec un club de proximité mais les sportifs ont accès aux installations de la Ligue avec un entraîneur du Pôle à leur disposition",
     "filieres": [
-      "Sciences / Ingénierie / Technologie"
+      "Ingénieur",
+      "Maths-Informatique"
     ],
     "distanciel": false,
     "lat": 47.5843965,
     "lng": 1.3258033,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
+    ]
   },
   {
     "id": 18,
@@ -672,24 +654,26 @@
     "lien": "https://www.univ-tours.fr/campus/accueil-sport-1/accueil-sport/3-1-informations-generales",
     "club_proximite": "Possibilité d'accès à la salle de musculation pendant les cours du SUAPS et avec l'accord de l'enseignant référent\n\nPas d'organisation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 47.383661,
     "lng": 0.6735173,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps"
-    ],
-    "amenagement_other_tags": [
-      "Possibilité d'allongement du cursus universitaire par la signature d'un contrat pédagogique",
-      "Possibilité d'autorisation d'absence pour la participation aux stages et aux compétitions officielles de niveau national, y compris FFSportU"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -706,24 +690,24 @@
     "lien": "https://www.univ-orleans.fr/index.php/filter/index.php/fr/polytech/admissions/sportifs-et-artistes-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 47.8416678,
     "lng": 1.9366943,
     "amenagement_tags": [
-      "Dispense d'assiduité des cours"
-    ],
-    "amenagement_other_tags": [
-      "Possibilité de changer de groupe de TD",
-      "Possibilité de décaler un examen (en cas de compétition ou de stage important)",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP"
     ]
   },
   {
@@ -740,26 +724,25 @@
     "lien": "https://www.uha.fr/fr/vie-universitaire-1/sport/sportifs-de-haut-niveau.html",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
+      "STAPS",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 47.7305753,
     "lng": 7.3109492,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Choix de groupe de TP",
-      "Examens de remplacement",
-      "Preneur de notes",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -776,27 +759,27 @@
     "lien": "https://sport.unistra.fr/fr/UcaWeb/Sport/3",
     "club_proximite": "Pas de collaboration avec un club de proximité\nAccès à la salle de musculation du Centre sportif universitaire",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.5831481,
     "lng": 7.7728728,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Liste A et B :  Aménagement des études"
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -813,26 +796,28 @@
     "lien": "https://www.univ-lorraine.fr/la-vie-a-luniversite-de-lorraine/sportifs-de-haut-niveau/dossier-de-demande-de-statut-eshn/",
     "club_proximite": "Pas de collaboration avec un club de proximité pour les entraînements sportifs\n\nLe SUAPS propose un créneau d'entrainement pour les joueurs classés le jeudi après-midi, et des terrains extérieurs sont accessibles (réservations payantes). Un entraîneur peut être mise à disposition à raison d'1h30 hebdomadaire de niveau compétition à Nancy",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 49.1153364,
     "lng": 6.2131984,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Possibilité d’être dispensé de cours obligatoires et de préparer des U.E de l’année supérieure",
-      "Aménagements possibles dans la plupart des formations, hormis en Parcours d’Accès Spécifique Santé (PASS) et en Licence avec Accès Santé (LAS)"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -849,14 +834,17 @@
     "lien": "https://www.univ-reims.fr/suaps/minisite_231/les-sportifs-de-bon-et-de-haut-niveau/sportifs-de-bon-et-haut-niveau,27940,45181.html",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 49.2534,
@@ -865,15 +853,11 @@
       "https://drive.google.com/file/d/1vEnt8we9pehEaXeG3gWD6NBzgJpjVxgj/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université de Reims Champagne-Ardenne",
-      "Statut ESHN Niveau Or : Dispense d’assiduité aux TD, TP et CM",
-      "Statut ESHN Niveau Argent : Dispense d’assiduité aux TD, TP et CM"
     ]
   },
   {
@@ -890,17 +874,17 @@
     "lien": "https://www.utt.fr/le-sport-a-l-utt/la-formation-par-le-sport",
     "club_proximite": "Partenariat avec le Service des Sports de la Ville de Troyes (qui gère les installations sportives), formalisé par une convention. Cela permet de réserver les terrains le jeudi après-midi, de 13h à 18h (terrains extérieurs et couverts). Il ne s’agit donc pas d’un partenariat direct avec le club ASPTT Troyes mais il propose un tarif privilégié aux étudiants.\n\nMême relation avec le Département (via le Centre Sportif de l'Aube) qui possède 3 terrains couverts et dont le Comité de l'Aube utilise toute l'année. Les terrains peuvent être utilisés sur demande, l'université les réserve principalement le jeudi entre 14h et 16h.\n\nIl est proposé ponctuellement des séances d’entraînement par un professeur de l'université. Il s’agit d’environ une douzaine de séances par an tous niveaux confondus.\n\nConcernant la licence fédérale, pour la pratique libre aucune licence n’est obligatoire et pour les cours à l'ASPTT Troyes la licence est nécessaire.",
     "filieres": [
-      "Sciences / Ingénierie / Technologie"
+      "Ingénieur",
+      "Maths-Informatique"
     ],
     "distanciel": false,
     "lat": 48.269078,
     "lng": 4.0664959,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Justification d'absence en cas de compétition"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -917,26 +901,23 @@
     "lien": "https://www.uphf.fr/formation/choisir-sa-formation/sport-haut-niveau-luniversite",
     "club_proximite": "Pas de relation avec un club de proximité\n\nAccès privilégié aux installations sportives",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": true,
     "lat": 50.3234557,
     "lng": 3.514554,
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
-      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Aménagement du rythme d'études : Année d'étude en 2 ans",
-      "Choix de groupe de CM, TD &TP",
-      "Accès privilégié aux logements de la résidence universitaire sur critère sportif",
-      "Licence L3P en distanciel"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -953,25 +934,25 @@
     "lien": "https://www.univ-artois.fr/vie-etudiante/sport/sportifs-de-haut-et-de-bon-niveau",
     "club_proximite": "TC Lens > Convention de mise à disposition de matériel pour les séances hebdomadaires organisées par le SUAPS\nTC Douai > Convention pour encadrement séances d'initiation au padel ponctuellement dans le cadre de projets CVEC organisés par le SUAPS\n\nAccès aux terrains de ces deux clubs et à ceux de l'université. 4 intervenants assurent les entraînements, pour un total de 8,75 heures hebdomadaires",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 50.2835005,
     "lng": 2.793544,
     "amenagement_tags": [
-      "Flexibilité des dates d'examens",
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Placement dès le début du semestre dans un groupe de TD, TP prenant en compte les contraintes liées aux entraînements, stages et compétitions",
-      "Bénéfice d’aménagements des épreuves",
-      "Toutes les formations sont concernées par ces aménagements"
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -988,29 +969,29 @@
     "lien": "https://sport.univ-lille.fr/fileadmin/user_upload/illustrations/contenus/campus/sport/Dossier_Statut_SHN_SBN_2024_25_FORMULAIRE-1.pdf",
     "club_proximite": "Les étudiants ont des facilités d'accès à la Ligue des Hauts-de-France et au club de Lomme pour s'entraîner. Il y a une convention entre l'université de Lille et la Ligue des Hauts-de-France depuis cette année. Les étudiants ont accès aux terrains de la FSSEP quand ils sont disponibles, un planning est affiché à l'entrée des installations. Pas d'entraîneur mis à leur disposition (avant, il y avait un volume d'entrainement d’environ 6h qui a été supprimé par manque d'effectif et d'aide de la FFT)",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 50.6285707,
     "lng": 3.125956,
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Possibilité de bénéficier d'absences justifiées",
-      "Solliciter des accompagnements adaptés et personnalisés",
-      "Bénéficier d'aménagement des épreuves",
-      "Etalement des études possible",
-      "Toutes les formations de l'université sont concernées par ces aménagements (même si tous les aménagements ne sont pas possibles pour chaque formation, par exemple pas de possibilité de décaler les examens pour les étudiants de LAS et PASS)"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1058,27 +1039,25 @@
     "lien": "https://suaps.univ-littoral.fr/sportifs-de-hauts-niveaux/obtenir-le-statut-de-sportif-de-haut-niveau/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 51.0365306,
     "lng": 2.3695964,
     "amenagement_tags": [
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Aménagement d’horaires",
-      "Dispense d’assiduité ou dispense de pratique (notamment en STAPS)",
-      "Droit au redoublement dans les filières en tension comme en STAPS",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1095,21 +1074,27 @@
     "lien": "https://www.cyu.fr/campus/campus-sportif/vous-etes-sportif-de-haut-niveau",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 49.0394375,
     "lng": 2.0755603,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
+    ]
   },
   {
     "id": 31,
@@ -1125,22 +1110,23 @@
     "lien": "https://sport.pantheonsorbonne.fr/haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité\n\nAccès aux installations sportives de l'université",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 48.8486358,
     "lng": 2.3436034,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Un suivi personnalisé",
-      "Aménager et décaler si besoin le passage des examens en cas de compétition (sur justificatif) au cas par cas",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1157,20 +1143,14 @@
     "lien": "https://www.sciencespo.fr/students/fr/etudier/sportif-haut-niveau-ou-artiste-haut-niveau/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 48.8538978,
     "lng": 2.3290212,
     "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
       "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Aide aux inscriptions pédagogiques",
-      "Justification d'absence sur présentation de justificatifs (compétitions, stages de formation)",
-      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -1187,21 +1167,21 @@
     "lien": "https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/aps-assocs-etu/sportives-et-sportifs-de-haut",
     "club_proximite": "Pas de collaboration avec un club de proximité\n\nAccès aux installations sportives de l'université",
     "filieres": [
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Sciences",
+      "Sciences Humaines"
     ],
     "distanciel": true,
     "lat": 48.8487592,
     "lng": 2.3453784,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Aménagements d'études",
-      "Autorisations exceptionnelles d'absences aux enseignements et aux stages (non répétées de manière excessive)",
-      "Possibilité de suivre des enseignements à distance",
-      "Possibilité de reporter le stage"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Choix des groupes de TD/TP",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1218,14 +1198,16 @@
     "lien": "https://www.univ-spn.fr/sport-de-haut-niveau/",
     "club_proximite": "Convention annuelle avec le club de l'AJ Drancy (5mn du campus de Bobigny, 5 terrains couverts, 2 padel, 4 extérieurs) avec la possibilité de s'entrainer 5 heures par semaine. Réservé aux étudiants du pôle sportif. Possibilité de venir avec son entraineur ou un autre partenaire. D'autres conventions pourraient être signées avec le TC la Courneuve et le comité de SSD si besoin.\n\nPartenariat avec le STAPS Bobigny et la FFT dans le cadre de la formation DEJEPS Tennis et CQPET. Des cours de tennis sont proposés les lundis et vendredi au club de Bobigny Arthur Ashe. En convention avec la ville de Bobigny (actuellement mise à disposition gratuite de 4h le lundi et 2h le vendredi sur la période universitaire. Deux cours par semaine sont donnés par un enseignant prof EPS et un DE tennis.\nLes étudiants sont licenciés dans leurs clubs respectifs mais obligatoirement à l'AS de l'université (AS SUPN) pour les compétitions universitaires. Accès favorisé aux structures sportives",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 48.956638,
@@ -1235,17 +1217,12 @@
       "https://drive.google.com/file/d/1rIYttND-a4yfnpnJWdZiQIxSJqgsQlR9/view?usp=drive_link"
     ],
     "amenagement_tags": [
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Pôle sportif section tennis Université Sorbonne Paris Nord",
-      "Aménagement du cursus",
-      "Aménagement des horaires",
-      "Aménagement des périodes d’examen (report possibles)",
-      "Une optimisation de la vie étudiante",
-      "Dispense de pratique en sport (STAPS)",
-      "Plus le niveau de jeu est élevé et les absences fréquentes, et plus les aménagements sont importants et la durée des études augmentée. Étude des aménagements au cas par cas selon le niveau de jeu et la fréquence de déplacements",
-      "Toutes les formations sont concernées par ces aménagements, excepté médecine"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1262,22 +1239,16 @@
     "lien": "https://sportassas.assas-universite.fr/fr/sportifs-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Droit",
+      "Éco-Gestion",
+      "Sciences Politiques"
     ],
     "distanciel": true,
     "lat": 48.8457553,
     "lng": 2.3210314,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
+      "Aménagement d’horaires/Dispense d’assiduité",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Possibilité d'autorisation d'absence pour les travaux dirigés lors des compétitions importantes",
-      "Hébergement, éventuellement possible, en résidence universitaire",
-      "Accès à la formation en apprentissage spécialement conçue pour les Sportifs de Haut Niveau (à partir de la L3)",
-      "Certaines formations en distanciel"
     ]
   },
   {
@@ -1294,21 +1265,22 @@
     "lien": "https://dauphine.psl.eu/formations/licences/dauphine-talents",
     "club_proximite": "Relation avec le Tennis Club de Paris (TCP) avec une mise à disposition de terrain de tennis et de padel hebdomadaire, club house et salle de musculation à disposition gratuitement. 1h30 de tennis/semaine pour les SHN + encadrement des compétitions universitaires (IDF, France, Europe) et événementiels (Union College of London). Les sportifs doivent obligatoirement être Licenciés au TCP pour bénéficier des entraînements\n\nTarifs préférentiels pour de nombreuses infrastructures : Adhérents de PSL Sport (Dauphine), Urban Soccer (Puteaux), Aquaboulevard Paris, Forest Hill (Marnes-la-Coquette, tennis et padel)\n\nAccès à la salle de musculation de l'université",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences Humaines",
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 48.87,
     "lng": 2.2733,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Aménagement des cours sur six semestres au lieu de quatre",
-      "Un aménagement possible pour les examens de contrôle continu"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1325,12 +1297,15 @@
     "lien": "https://www.univ-evry.fr/vie-de-campus/sport/sport-de-haut-niveau.html",
     "club_proximite": "Accès aux installations sportives. Un enseignant d'EPS est mis à disposition entre 1h30 à 2h le jeudi sur le second semestre\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
+      "STAPS",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.6233961,
@@ -1339,15 +1314,11 @@
       "https://drive.google.com/file/d/1oBv36hiZJ3KVS2x4q53Nuvs0Jv5T6xWr/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Convention SHN Université d'Evry",
-      "Toutes les formations sont concernées par ces aménagements"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1364,12 +1335,15 @@
     "lien": "https://sports.univ-gustave-eiffel.fr/accueil/shn-/-sbn",
     "club_proximite": "Dans le cadre du SUAPS, des séances sont proposées au club de Champs-sur-Marne et au club de Torcy. Les cours sont réservés et des enseignants de l'université sont mis à disposition. Les cours du SUAPS sont ouverts à tous les étudiants de l'université inscrits au SUAPS.\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
+      "STAPS",
+      "BUT"
     ],
     "distanciel": true,
     "lat": 48.8419,
@@ -1378,17 +1352,12 @@
       "https://drive.google.com/file/d/1WKrvySTCnhPVAYZZR2TR505kKYG2yq4R/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé",
-      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Charte ESBHN Université Gustave Eiffel",
-      "Aménagement des cursus adaptés aux contraintes sportives",
-      "Autorisation d'absences ponctuelles aux TD",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1405,7 +1374,8 @@
     "lien": "https://www.esiee.fr/actualites/les-sportives-et-sportifs-de-haut-niveau",
     "club_proximite": "Dans le cadre du SUAPS, des séances sont proposées au club de Champs-sur-Marne et au club de Torcy. Les cours sont réservés et des enseignants de l'université sont mis à disposition. Les cours du SUAPS sont ouverts à tous les étudiants de l'université inscrits au SUAPS.\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Sciences / Ingénierie / Technologie"
+      "Ingénieur",
+      "Maths-Informatique"
     ],
     "distanciel": true,
     "lat": 48.839418,
@@ -1414,17 +1384,12 @@
       "https://drive.google.com/file/d/1HTbf9PQBcMtnOcixxE29ZvyIhXrdgmjt/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé",
-      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN ESIEE Paris",
-      "Aménagement des cursus adaptés aux contraintes sportives",
-      "Autorisation d'absences ponctuelles aux TD",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1441,27 +1406,26 @@
     "lien": "https://www.univ-paris8.fr/Sportives-et-sportifs-de-haut-niveau",
     "club_proximite": "Collaboration avec le Saint Denis Union Sport (SDUS) : Utilisation des terrains 8h par semaine pour de la formation qualifiante (EC libre tennis) et/ou du loisirs, cours donnés par une prof du SUAPS, ancienne 1/6 sans diplôme d'état\n\nAccès aux terrains de tennis de l'université sur inscription",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences Humaines",
+      "Sciences Politiques",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.9474,
     "lng": 2.364,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Dispense d’assiduité ponctuelle aux CM/TD/TP pour stages ou compétitions, sous réserve de produire les justificatifs",
-      "Valider un Enseignement Complémentaire (EC) Sport Niveau 1 avec la note de 20/20",
-      "Veiller à l’aménagement des contrôles continus, pour cause de stages ou compétitions, sous réserve de produire les justificatifs",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1478,14 +1442,18 @@
     "lien": "https://u-pariscite.fr/sport/sportif-de-haut-niveau/",
     "club_proximite": "Guide de l'étudiant SHN Université Paris Cité\n\nPas de collaboration avec un club de proximité\nLes étudiants qui ont choisi la spécialité tennis dispose de TD et des TP en tennis à hauteur de 4h/semaine",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.8514684,
@@ -1495,20 +1463,12 @@
       "https://drive.google.com/file/d/15YD-3_fGd1krKEN2ubXfyzu7LXfsGGkR/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université Paris Cité",
-      "SHN :",
-      "Dispense d’assiduité pour l’UE Sport et complète en fonction des UFR",
-      "Choix du contrôle des examens (continu, mixte ou terminal)",
-      "Possibilité de session d’examens dérogatoire en plus de la session de seconde chance",
-      "Validation d’acquis pour des UE transverses",
-      "Validation d’UE proposées par des structures sportives officielles",
-      "SBN :",
-      "Dispense d’assiduité pour l’UE Sport"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1525,13 +1485,16 @@
     "lien": "https://www.universite-paris-saclay.fr/vie-de-campus/sport/sportifs-de-haut-niveau-shn-et-sportifs-de-haut-niveau-universitaire-shnu-de-luniversite-paris-saclay",
     "club_proximite": "Relation avec la Ligue IDF pour la mise en place d'un double cursus Licence STAPS/DE FFT\nAccès aux terrains de tennis de l'université\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.712167,
@@ -1540,13 +1503,11 @@
       "https://drive.google.com/file/d/1Bd6ZTI6pw5ZmuV1qlJc0TUvSnR6oba1k/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Sessions d'examens spécifiques (en cas de compétition la même semaine). Les examens sont obligatoirement en présentiel mais peuvent être décalés"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1563,13 +1524,17 @@
     "lien": "https://suaps.parisnanterre.fr/athletes-de-haut-niveau-et-dexcellence",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.9042269,
@@ -1579,14 +1544,9 @@
       "https://drive.google.com/file/d/1wxp1fgKA2vbzO_KSvolqjs-OwsliCeo4/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université Paris Nanterre",
-      "Aménagements d’horaires",
-      "Dispense d’assiduité",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1603,14 +1563,17 @@
     "lien": "https://www.u-pec.fr/fr/vie-de-campus/sport/l-accueil-des-sportifs-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.7882159,
@@ -1619,15 +1582,10 @@
       "https://drive.google.com/file/d/1v8vHqIDL5WfJTbbLHCgrx-4mnex75ayh/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Choix du groupe de TD",
-      "Dispense des cours en présentiel",
-      "Adaptations pour les partiels",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
     ]
   },
   {
@@ -1644,21 +1602,27 @@
     "lien": "https://www.uvsq.fr/le-sport-de-haut-niveau",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.7997,
     "lng": 2.1409,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus"
+    ]
   },
   {
     "id": 46,
@@ -1674,28 +1638,29 @@
     "lien": "https://www.unicaen.fr/vie-de-campus/vie-sportive/sport-de-haut-niveau/",
     "club_proximite": "Relations avec les clubs d'USO Mondeville et du Tennis Club de Caen, les étudiants peuvent aller s'entraîner sur les terrains de ces structures. Mise à disposition de la salle de musculation et de la piscine (CESU). Il est possible d'utiliser les terrains de tennis de l'université (7 terrains)",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 49.1911,
     "lng": -0.3619,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Changement de groupe de TD et TP",
-      "Toutes les formations de l'université sont concernées par ces aménagements sauf les formations en médecine"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1712,14 +1677,17 @@
     "lien": "https://staps.univ-rouen.fr/sportifs-de-haut-niveau-de-l-ufr-staps-de-rouen--402482.kjsp",
     "club_proximite": "Accès à la salle de musculation, accès aux terrains de l'ASRUC (Association Sportive Rouen Université Club) et de l'université. Un entraîneur est mis à disposition à l'université\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 49.3849168,
@@ -1729,13 +1697,10 @@
       "https://drive.google.com/file/d/1Lqhi9gCukRTUZhHJs5luUAvDIc-NiNov/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université de Rouen Normandie",
-      "Possibilité de changer de groupe de TD de manière temporaire ou définitive",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1752,20 +1717,26 @@
     "lien": "https://www.univ-lehavre.fr/fr/vie-de-campus/vie-sportive/soutien-aux-sportifs-de-haut-et-bon-niveau/",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 49.4961896,
     "lng": 0.127048,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé"
+    ]
   },
   {
     "id": 49,
@@ -1781,20 +1752,18 @@
     "lien": "",
     "club_proximite": "Utilisation de la salle de sport de l'université de Caen\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Sciences / Ingénierie / Technologie"
+      "Ingénieur",
+      "Maths-Informatique"
     ],
     "distanciel": false,
     "lat": 49.2147928,
     "lng": -0.3675902,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Aménagements des horaires"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1811,18 +1780,19 @@
     "lien": "https://enscbp.bordeaux-inp.fr/fr/sportifs-de-bon-haut-niveau",
     "club_proximite": "Partenariat avec le CNUT de Bordeaux géré par l'Université de Bordeaux",
     "filieres": [
-      "Sciences / Ingénierie / Technologie"
+      "Ingénieur",
+      "Maths-Informatique"
     ],
     "distanciel": false,
     "lat": 44.81,
     "lng": -0.6014,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens"
-    ],
-    "amenagement_other_tags": [
-      "Statut ESBN : Autorisations d'absence justifiée pour compétition + Déplacement d'examen",
-      "Toutes les formations de Bordeaux INP sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1839,21 +1809,28 @@
     "lien": "https://www.univ-larochelle.fr/vie-etudiante/sport/sport-de-haut-niveau/",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 46.1476264,
     "lng": -1.1560269,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
+    ]
   },
   {
     "id": 52,
@@ -1869,21 +1846,19 @@
     "lien": "https://etu.u-bordeaux-montaigne.fr/fr/vie-de-campus/sport/sportifs-de-haut-et-bon-niveau.html",
     "club_proximite": "Un entraîneur propose un entraînement de 2h hebdomadaire au Tennis Club de Gredignan\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie",
-      "STAPS"
+      "Arts, Lettres et Langues",
+      "Histoire-Géographie",
+      "Sciences Humaines",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 44.7949425,
     "lng": -0.6173657,
     "amenagement_tags": [
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Aménagements d’horaires",
-      "Dispense d’assiduité (au cours et non aux examens) si l’aménagement d’horaire n'est pas possible",
-      "Organisation d’examens en contrôle continu à des dates différentes",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1900,28 +1875,27 @@
     "lien": "https://www.u-bordeaux.fr/campus/sport/haut-niveau",
     "club_proximite": "Accès aux installations extérieures des clubs alentours\nLes étudiants du pole/ CNUT peuvent accéder aux installations du centre de Ligue sur les plages libres\nEn plus des 4 entraînements de tennis et 3 de physique hebdomadaire, les sportifs peuvent bénéficier des stages ou rassemblements organisés par le pôle élite de la Ligue\nAccès aux 2 salles de musculation de l'université sur les plages de pratique libre ainsi qu'au centre nautique de Talence\nOffre de stage de préparation physique et d'accompagnement en tournoi\nBac de cryothérapie dans l'enceinte du centre de Ligue\nSéance de suivi individualisée, encadrée par un kiné, dans la salle de musculation du centre de Ligue (récup/prévention des blessures)\nOption tennis/padel disponible en Licence STAPS",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
+      "Sciences Politiques",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 44.8312782,
     "lng": -0.5708167,
     "amenagement_tags": [
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Aménagements hebdomadaires",
-      "Dispense de TD",
-      "Prises de notes en cas d'absence aux cours",
-      "Toutes les formations de l'université sont concernées par ces aménagements, hormis PASS (médecine)"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -1938,14 +1912,17 @@
     "lien": "https://www.unilim.fr/u-pratique/vie-a-luniversite/sport/sportif-de-haut-niveau/",
     "club_proximite": "Possibilité d’avoir accès aux équipements sportifs du SUAPS ou autres installations universitaires appropriées\n\nPas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 45.8260427,
@@ -1954,16 +1931,12 @@
       "https://drive.google.com/file/d/1zz-F0faSrWothk5AMNb-HWW535NxCY_e/view?usp=sharing"
     ],
     "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN 2025-2026 Université de Limoges",
-      "Pour les sportifs des catégories Or et Argent :",
-      "Aménagements possibles des études : Autorisation d’absence pour les cours (TP/TD), changements temporaires ou définitifs de groupe (TP ou TD), adaptation des périodes de stages, dispenses d’épreuves sportives en lien avec le sport de l’étudiant(e) (STAPS), possibilité d’utiliser les campus connectés",
-      "Aménagement possible des examens",
-      "Accompagnements par le référent du sport de haut niveau de l’université : Méthodologie (gestion des priorités, des emplois du temps ou autres), échanges individualisés (conseils, préparation physique), anticipation des contraintes (conflits d’agendas entre calendrier sportif et universitaire), lien avec la structure d’entraînement",
-      "Aménagements valables pour les SHN/SBN en Licence STAPS (Entraînement Sportif)"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -1980,23 +1953,22 @@
     "lien": "https://sport.univ-pau.fr/fr/le-suaps/statuts-haut-niveau-et-elite-sportive-universitaire.html",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.3146145,
     "lng": -0.3653306,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours"
-    ],
-    "amenagement_other_tags": [
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité"
     ]
   },
   {
@@ -2013,31 +1985,26 @@
     "lien": "https://suaps.univ-poitiers.fr/accueil/pratiquer-en-haut-niveau/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 46.5684757,
     "lng": 0.3838585,
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Niveau 1 (SHN) :",
-      "Echanges de TD/TP",
-      "Organisation de l'année possible sur plusieurs années",
-      "Accompagnement préparation physique possible",
-      "Niveau 2 (SBN) :",
-      "Echange de TD/TP sur 2 créneaux de 2 heures par semaine",
-      "Dispense assiduité exceptionelle pour certains évènements",
-      "Accompagnement préparation physique individualisée possible"
     ]
   },
   {
@@ -2054,13 +2021,15 @@
     "lien": "https://www.umontpellier.fr/campus/sport",
     "club_proximite": "Entraînement au CNUT de Montpellier : 5 entraînements tennis (2h) + 2 séances de préparation physique (1h). Au total 33 semaines d'entraînement : 31 de septembre à mai (hors vacances scolaires) + 2 en juin (CFU Indiv) + 1 en juillet (Qualif aux Europe)\n\nDurant l'année : 7 suivis tournoi (Open et Univ) + 8 séances individuelles de préparation mentale + structure médicale + suivi universitaire\n\nPrise en charge du matériel (balles) + garantie pluie le vendredi matin + dotation Lacoste\n\nAu CRUT : 2 ou 3 entraînements de 2h tennis + 2 Séances de préparation physique. Durant l'année : 4 suivis tournoi (Open et Univ) + 8 Séances individuelles de préparation mentale + structure médicale",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.6331162,
@@ -2070,16 +2039,13 @@
       "https://drive.google.com/file/d/1j80CBvJrRVCfEp3gIlhLcm4mmSgOFRAL/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé",
-      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université de Montpellier",
-      "Aménagement des enseignements et des modalités de contrôle des connaissances",
-      "Autorisation d'absences régulières pour raisons sportives (entraînements, stages, compétitions)"
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -2096,27 +2062,25 @@
     "lien": "https://www.univ-perp.fr/formation/accompagnement-a-la-reussite/sportifs-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": true,
     "lat": 42.6821739,
     "lng": 2.8990979,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Flexibilité dans l'organisation du temps de formation",
-      "Mise en place de sessions spéciales d'examens pour les SHN (examens organisés en distanciel pour certaines composantes)",
-      "Toutes les formations sont concernées par ces aménagements (plus contraignant en STAPS)"
     ]
   },
   {
@@ -2133,9 +2097,9 @@
     "lien": "https://www.univ-montp3.fr/fr/campus/sports-et-pratiques-physiques/sport-et-haut-niveau",
     "club_proximite": "Entraînement au CNUT de Montpellier : 5 entraînements tennis (2h) + 2 séances de préparation physique (1h). Au total 33 semaines d'entraînement : 31 de septembre à mai (hors vacances scolaires) + 2 en juin (CFU Indiv) + 1 en juillet (Qualif aux Europe)\n\nDurant l'année : 7 suivis tournoi (Open et Univ) + 8 séances individuelles de préparation mentale + structure médicale + suivi universitaire\n\nPrise en charge du matériel (balles) + garantie pluie le vendredi matin + dotation Lacoste\n\nAu CRUT : 2 ou 3 entraînements de 2h tennis + 2 Séances de préparation physique. Durant l'année : 4 suivis tournoi (Open et Univ) + 8 Séances individuelles de préparation mentale + structure médicale",
     "filieres": [
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Droit",
+      "Histoire-Géographie",
+      "Sciences Humaines"
     ],
     "distanciel": false,
     "lat": 43.6325304,
@@ -2144,13 +2108,11 @@
       "https://drive.google.com/file/d/1NFiqFASitr5yBq_zfi79rbEzifpRJvl4/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Tutorat individualisé",
-      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -2167,25 +2129,19 @@
     "lien": "https://www.ut-capitole.fr/accueil/campus/sport/etre-sportif-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "Droit",
+      "Éco-Gestion",
+      "Sciences Politiques",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.5943374,
     "lng": 1.4503779,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Absences à caractère exceptionnel pour raison sportive",
-      "Possibilité de déplacer les examens de première session en cas de compétitions ou sélections pour des stages",
-      "Toutes les formations sont concernées par ces aménagements"
     ]
   },
   {
@@ -2202,24 +2158,21 @@
     "lien": "https://www.univ-tlse2.fr/accueil/vie-campus/sport/les-sportifs-de-haut-niveau-1",
     "club_proximite": "",
     "filieres": [
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Arts, Lettres et Langues",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Sciences Humaines",
+      "BUT"
     ],
     "distanciel": true,
     "lat": 43.5777,
     "lng": 1.404,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "ESHN et ESBNN :",
-      "Aménagement du cursus",
-      "Cours en enseignement à distance",
-      "ESBNR :",
-      "Cours en enseignement à distance"
     ]
   },
   {
@@ -2236,31 +2189,23 @@
     "lien": "https://www.univ-tlse3.fr/sport/departement-du-sport-de-haut-niveau",
     "club_proximite": "Lien\n\nLes sportifs peuvent s'inscrire (gratuitement) dans les activités proposées par le service des sports. Des places sont réservées sur les cours de musculation, pour les sportifs sous contrat au DSHN. \n\nLes sportifs n'ont pas d'accès libre aux installations sportives de l'Université (déjà très utilisées par STAPS et le SUAPS), ni d'un club aux alentours.",
     "filieres": [
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.5611,
     "lng": 1.4631,
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
-      "Reconnaissance d'une expérience professionnelle pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "SHN :",
-      "Mise en place d'un parrain",
-      "Aménagement du cursus sur la durée",
-      "Cours de soutien",
-      "Changement de groupe TP/TD",
-      "Aménagement de la pratique des cours APS",
-      "SBN :",
-      "Aménagement cursus sur la durée",
-      "Changement de groupe TD/TP",
-      "Accès à des créneaux de musculation",
-      "Toutes les filières de l'établissement sont concernées, sauf la 1ère année de médecine"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé"
     ]
   },
   {
@@ -2277,14 +2222,17 @@
     "lien": "https://www.univ-amu.fr/fr/public/sportifs-de-haut-niveau",
     "club_proximite": "La possibilité d’accéder aux centres d’entrainement et de performance sportive (salle de musculation) ouverts sur l'Université d'Aix-Marseille sous réserve du niveau sportif (convention avec la Ligue PACA)\n\nLa possibilité d’accéder aux installations sportives universitaires sur des créneaux ouverts à la pratique libre et/ou dans le cadre de créneaux SUAPS et/ou par voie de conventionnement avec la structure d’entrainement\n\nPour les sportifs classés 4/6 et plus, ils peuvent bénéficier de deux entraînements hebdomadaires : Un à Aix-en-Provence sur les installations de la Ligue PACA avec un entraineur de la Ligue qui est mis à disposition ; un autre à Marseille avec un enseignant SUAPS de l'université amU\n\nIl existe deux clubs de tennis universitaires hébergés par Aix-Marseille Université. Les étudiants tennis peuvent venir pratiquer librement s'ils justifient d'un classement de 4/6 et plus.",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": true,
     "lat": 43.3043,
@@ -2294,21 +2242,13 @@
       "https://drive.google.com/file/d/1NknBTW70evg-lLmy9723wrmgb19B_14a/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
       "Tutorat individualisé",
-      "Reconnaissance des crédits (ECTS ou équivalence) pour des périodes de stages/compétitions"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université d'Aix Marseille",
-      "Pour l’ensemble des SHN (liste Or, Argent et Bronze) :",
-      "Un accompagnement personnalisé dans la mise en oeuvre des aménagements d’études",
-      "Possibilité de décaler les examens en raison d'imprévus liés au double projet",
-      "Pour les SHN (liste Or et Argent) :",
-      "La possibilité de bénéficier d’un régime longues études",
-      "Le bénéfice d’un accompagnement pour la constitution d’un dossier de CESURE",
-      "L’adaptation des modalités de stage",
-      "Toutes les filières de l'établissement sont concernées"
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -2325,21 +2265,26 @@
     "lien": "https://univ-avignon.fr/campus/sportif-de-haut-niveau/",
     "club_proximite": "",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.9494689,
     "lng": 4.8193184,
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
+    ]
   },
   {
     "id": 65,
@@ -2355,14 +2300,17 @@
     "lien": "https://sport.univ-cotedazur.fr/fr/UcaWeb/Sport/",
     "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.7170132,
@@ -2371,13 +2319,9 @@
       "https://docs.google.com/document/d/1igAbYHcnO1Jj8Z7SBRfxNWVwCDddXg1o/edit?usp=sharing&ouid=100579976006583483622&rtpof=true&sd=true"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHNU Université Côte d'Azur"
     ]
   },
   {
@@ -2394,11 +2338,14 @@
     "lien": "https://www.unimes.fr/fr/formations/etudes-et-scolarite/amenagement-d-etudes/sportifs-de-haut-niveau.html",
     "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences",
+      "Sciences Humaines",
+      "STAPS",
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.8388058,
@@ -2407,13 +2354,9 @@
       "https://drive.google.com/file/d/1AYycX_kXaT4FhLQQG6mnz2IYouxjChfW/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université de Nîmes",
-      "Aide pédagogique"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP"
     ]
   },
   {
@@ -2430,13 +2373,16 @@
     "lien": "https://www.univ-tln.fr/Sportifs-de-Haut-Niveau-Universitaire-SHNU.html",
     "club_proximite": "Pas de convention cadre mais un partenariat avec des clubs environnants permettant aux étudiants d'avoir des lieux de stage\n\nAccès libre aux 2 terrains de l'université toute la journée",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 43.1354075,
@@ -2445,15 +2391,12 @@
       "https://drive.google.com/file/d/1Nl3Zd_-_l2bdYSELwrL4dkWJADmvLdYL/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Flexibilité des dates d'examens",
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Charte SHN Université de Toulon",
-      "Autorisations d’absences et dispenses d’assiduité",
-      "Autorisations d’absences",
-      "Toutes les formations sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires",
+      "Collaboration avec un club de proximité"
     ]
   },
   {
@@ -2470,9 +2413,7 @@
     "lien": "https://www.sciencespo.fr/students/fr/etudier/sportif-haut-niveau-ou-artiste-haut-niveau/",
     "club_proximite": "Association sportive Tennis et accès aux installations de l'université\n\nPas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 43.529246,
@@ -2481,13 +2422,8 @@
       "https://drive.google.com/file/d/1kcOm8qH6mtQ7RhOW7X6YEwCUMI6_ORKa/view?usp=sharing"
     ],
     "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": [
-      "Règlement des études Sciences Po Aix-en-Provence",
-      "Ils bénéficient d’aménagements dans le déroulement de leur scolarité",
-      "Les aménagements sont individualisés suivant l'athlète de haut niveau et au cas par cas",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -2504,26 +2440,25 @@
     "lien": "https://mon-ent-etudiant.univ-lemans.fr/fr/mon-actu/agenda2023/juin2023/le-sport-de-haut-niveau-mis-a-l-honneur.html?search-keywords=sportif+de+haut+niveau",
     "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 48.017927,
     "lng": 0.1584525,
     "amenagement_tags": [
-      "Aménagements d'emploi du temps",
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens"
-    ],
-    "amenagement_other_tags": [
-      "Changement de groupe TD/TP",
-      "Dispense de contrôle continu",
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP"
     ]
   },
   {
@@ -2540,32 +2475,27 @@
     "lien": "https://www.univ-nantes.fr/vie-de-campus/culture-sport/sport-de-haut-niveau",
     "club_proximite": "Pas de relation avec un club de proximité (mais travail en collaboration avec la Ligue Pays de la Loire)\n\nUn enseignant de l'université encadre un créneau d'entraînement le jeudi de 13h30 à 16h sur une installation municipale",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": 47.2454573,
     "lng": -1.5519856,
     "amenagement_tags": [
-      "Dispense d'assiduité des cours",
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Groupe 1 (SHN, Elite et Senior) et Groupe 2 (Relève, Espoirs et Collectifs Nationaux) :",
-      "Choix de groupe TD-TP",
-      "Cours de soutien individualisé",
-      "Autorisation ponctuelle d'absences pour entraînement et compétitions",
-      "Groupe 3 (Sport Universitaire) :",
-      "Autorisations ponctuelle d'absences pour entraînement et compétitions",
-      "Toutes les formations de Nantes Université sont concernées par ce dispositif (Pôles humanités, sociétés, santé, sciences et technologie et l'INSPE). C'est parfois plus difficile pour les établissements  composantes qui sont \"rattachés\" à Nantes Université depuis 4 ans (Centrale, Beaux arts, ENSA, IFSI ...)"
     ]
   },
   {
@@ -2582,25 +2512,28 @@
     "lien": "https://www.univ-angers.fr/fr/vie-des-campus/sport/sportifs-de-haut-niveau.html",
     "club_proximite": "Accès privilégié à la salle de musculation du Centre de Sport Universitaire et des autres activités proposées par le SUAPS\n\nGratuité de la licence pour participer aux compétitions universitaire (dans le cadre de la Fédération Française du Sport Universitaire)\n\nPas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": true,
     "lat": 47.4803871,
     "lng": -0.601219,
     "amenagement_tags": [
-      "Flexibilité des dates d'examens",
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
-      "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Toutes les formations de l'université sont concernées par ces aménagements"
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -2617,23 +2550,25 @@
     "lien": "https://suaps.univ-reunion.fr/haut-niveau",
     "club_proximite": "Pas de relation avec un club de proximité\nAccès aux installations sportives de l'université\nAccès à un plan alimentaire spécifique, à un préparateur physique et à un préparateur mental",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "Sciences Humaines",
       "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
+      "BUT"
     ],
     "distanciel": false,
     "lat": -20.9019193,
     "lng": 55.4843818,
     "amenagement_tags": [
-      "Étalement du cursus"
-    ],
-    "amenagement_other_tags": [
-      "Catégorie B : Aménagements, autorisation d'absences",
-      "Toutes les formations de l'université sont concernées par ces aménagements (hormis le droit)"
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Étalement du cursus",
+      "Accès aux installations sportives universitaires"
     ]
   },
   {
@@ -2650,11 +2585,13 @@
     "lien": "https://unc.nc/pole-dexcellences-sport-universitaire-pesu/",
     "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "Sciences sociales / Psychologie / Sociologie"
+      "Arts, Lettres et Langues",
+      "Droit",
+      "Éco-Gestion",
+      "Histoire-Géographie",
+      "Maths-Informatique",
+      "Sciences",
+      "STAPS"
     ],
     "distanciel": false,
     "lat": -22.2633801,
@@ -2663,13 +2600,8 @@
       "https://www.unc.nc/wp-content/uploads/2025/02/BAT-V5-Plaquette-3-volets-PESU-UNC.pdf"
     ],
     "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
       "Tutorat individualisé"
-    ],
-    "amenagement_other_tags": [
-      "Plaquette Pôle Excellence Sport Universitaire Université de la Nouvelle-Calédonie",
-      "Contrat d'étude personnalise et adapté aux besoins de chaque étudiant",
-      "Accès au logement étudiant",
-      "Accompagnement à la recherche de stages et à la mobilité"
     ]
   },
   {
