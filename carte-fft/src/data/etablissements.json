@@ -995,37 +995,6 @@
     ]
   },
   {
-    "id": 28,
-    "type": "universite",
-    "nom": "Université de Picardie Jules Verne",
-    "nom_complet": "Université de Picardie Jules Verne",
-    "region": "HDF",
-    "referent": "Julie ANCELET",
-    "email": "suaps@u-picardie.fr\nshn@u-picardie.fr",
-    "telephone": "03 64 26 83 46\n03 22 82 72 72",
-    "criteres": "Sportifs inscrits sur Listes Ministérielles des Sportifs de Haut Niveau\nAppartenance à un centre de formation de niveau national \nNiveau national dans la discipline",
-    "amenagements": "",
-    "lien": "https://www.u-picardie.fr/sportifs-haut-niveau",
-    "club_proximite": "",
-    "filieres": [
-      "Droit / Sciences politiques",
-      "Économie / Gestion / AES",
-      "Médecine / Santé / Pharmacie / Maïeutique",
-      "Sciences / Ingénierie / Technologie",
-      "Lettres / Langues / Arts / Histoire",
-      "STAPS",
-      "Sciences sociales / Psychologie / Sociologie",
-      "IUT / BUT"
-    ],
-    "distanciel": false,
-    "lat": 49.8741955,
-    "lng": 2.268363,
-    "amenagement_tags": [
-      "Aucun de ces éléments mentionnés"
-    ],
-    "amenagement_other_tags": []
-  },
-  {
     "id": 29,
     "type": "universite",
     "nom": "Université du Littoral Côte d'Opale",
