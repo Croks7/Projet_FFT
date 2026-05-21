@@ -78,9 +78,23 @@ export default function DetailPanel({ etablissement: e, onClose }) {
           </Section>
         )}
 
-        <Section title="Critères SHN / SBN">
-          <MultilineText text={e.criteres} />
-        </Section>
+        {e.criteres_shn ? (
+          <>
+            <Section title="Critères statut SHN">
+              <MultilineText text={e.criteres_shn} />
+            </Section>
+            <Section title="Critères statut SBN">
+              <MultilineText text={e.criteres_sbn} />
+              {e.classement_sbn && e.classement_sbn !== '/' && (
+                <p><strong>Classement minimum requis :</strong> {e.classement_sbn}</p>
+              )}
+            </Section>
+          </>
+        ) : (
+          <Section title="Critères SHN / SBN">
+            <MultilineText text={e.criteres} />
+          </Section>
+        )}
 
         <Section title="Aménagements proposés">
           <div className="filieres-list">
