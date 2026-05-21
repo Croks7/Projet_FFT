@@ -38,7 +38,6 @@ export default function Filters({ filters, setFilters, regions }) {
   const activeCount = [
     filters.region,
     filters.filiere,
-    filters.niveau,
     filters.type,
     ...(filters.amenagements || []),
   ].filter(Boolean).length
@@ -75,19 +74,10 @@ export default function Filters({ filters, setFilters, regions }) {
           </select>
         </div>
 
-        <div className="filter-group">
-          <label>Niveau sportif accepté</label>
-          <select value={filters.niveau} onChange={e => update('niveau', e.target.value)}>
-            <option value="">SHN et SBN</option>
-            <option value="SHN">SHN uniquement</option>
-            <option value="SBN">Inclut SBN</option>
-          </select>
-        </div>
-
         {activeCount > 0 && (
           <button
             className="reset-btn"
-            onClick={() => setFilters({ region: '', filiere: '', niveau: '', type: '', amenagements: [] })}
+            onClick={() => setFilters({ region: '', filiere: '', type: '', amenagements: [] })}
           >
             Réinitialiser ({activeCount})
           </button>

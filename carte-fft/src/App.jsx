@@ -28,7 +28,6 @@ export default function App() {
   const [filters, setFilters] = useState({
     region: '',
     filiere: '',
-    niveau: '',
     type: '',
     amenagements: [],
   })
@@ -46,8 +45,6 @@ export default function App() {
       if (filters.region && e.region !== filters.region) return false
       if (filters.type && e.type !== filters.type) return false
       if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
-      if (filters.niveau === 'SHN' && !e.criteres?.toUpperCase().includes('SHN')) return false
-      if (filters.niveau === 'SBN' && !e.criteres?.toUpperCase().includes('SBN')) return false
       if (filters.amenagements?.length > 0) {
         if (!filters.amenagements.every(tag => e.amenagement_tags?.includes(tag))) return false
       }
