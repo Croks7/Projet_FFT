@@ -113,12 +113,12 @@ function EtabForm({ etab, onSave, onCancel }) {
           </div>
           <div className="admin-grid-2">
             <label>
-              Latitude
-              <input type="number" step="any" value={form.lat} onChange={e => set('lat', e.target.value)} placeholder="ex : 45.7640" />
+              Latitude (entre -90 et 90)
+              <input type="number" step="any" min="-90" max="90" value={form.lat} onChange={e => set('lat', e.target.value)} placeholder="ex : 45.7640" />
             </label>
             <label>
-              Longitude
-              <input type="number" step="any" value={form.lng} onChange={e => set('lng', e.target.value)} placeholder="ex : 4.8357" />
+              Longitude (entre -180 et 180)
+              <input type="number" step="any" min="-180" max="180" value={form.lng} onChange={e => set('lng', e.target.value)} placeholder="ex : 4.8357" />
             </label>
           </div>
         </fieldset>
