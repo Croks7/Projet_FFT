@@ -2896,5 +2896,29 @@
       "Toutes les évaluations se font en ligne sous format contrôle continu (projets, cas pratiques, exercices). Un mémoire de master est à rendre.",
       "Pas de stage"
     ]
+  },
+  {
+    "type": "universite",
+    "nom": "Test",
+    "region": "COR",
+    "referent": "Oscar CROCHU",
+    "email": "",
+    "telephone": "",
+    "criteres_shn": "",
+    "criteres_sbn": "",
+    "classement_sbn": "",
+    "amenagements": "",
+    "amenagement_tags": [],
+    "filieres": [
+      "Maths-Informatique"
+    ],
+    "club_proximite": "",
+    "lien": "",
+    "lien_doc": [],
+    "distanciel": false,
+    "lat": 42.111,
+    "lng": 90250,
+    "nom_complet": "Test",
+    "id": 1006
   }
 ]
