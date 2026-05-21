@@ -37,7 +37,8 @@
     "lng": 4.4257212,
     "id": 0,
     "nom_complet": "Université Jean Monnet Saint-Étienne",
-    "amenagements": "Guide du sportif étudiant AURA 2025\n\nDispense d'assiduité sur certaines matières\nAutorisation d'absence aux cours pour contraintes sportives\nPossibilité de tutorat individualisé par un étudiant\nPossibilité de rattrapage des examens\nReconnaissance des compétences de sportif de haut niveau dans le cursus (option sport de 0,4 point par semestre)"
+    "amenagements": "Guide du sportif étudiant AURA 2025\n\nDispense d'assiduité sur certaines matières\nAutorisation d'absence aux cours pour contraintes sportives\nPossibilité de tutorat individualisé par un étudiant\nPossibilité de rattrapage des examens\nReconnaissance des compétences de sportif de haut niveau dans le cursus (option sport de 0,4 point par semestre)",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 1,
@@ -83,7 +84,8 @@
     ],
     "criteres_shn": "Statut SHN : Listé Ministériels, sportifs Espoirs et Collectifs Nationaux, sportifs membres d’une structure labélisée du Projet de Performance Fédéral de leur fédération",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 ou être en seconde série négative. Admission possible aux SBN sur justification du niveau sportif et des contraintes d'entraînement ou de compétition (classement ou niveau attesté par la Fédération, attestation du club ou de l'entraîner précisant la charge d'entraînement et les compétitions prévues, courte lettre de motivation pour expliquer la démarche du double projet",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 2,
@@ -114,7 +116,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Attestation fédérale justifiant un niveau national  et être classé au moins 2/6 (certains sportifs en dessous de ce classement peuvent être acceptés selon les places disponibles)",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 3,
@@ -151,7 +154,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste ministérielle des Sportifs de Haut Niveau, sportifs Espoirs ou Collectifs Nationaux ou être membre d'un pôle labellisé par la commission nationale du sport",
     "criteres_sbn": "Statut SBN : Avoir un niveau national reconnu, statut accordé aux sportifs dont la pratique compétitive et les quantités d’entrainements nécessitent un aménagement des études (être classé à minima 0)",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 4,
@@ -190,7 +194,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste des sportif/ves de haut niveau (Relève, Sénior, Elite ou Reconversion), Liste des Collectifs Nationaux, Liste des Espoirs ; Liste des sportif/ves appartenant à des structures labélisées par le ministère des Sports (Pôle France, Pôle Espoir) ; Liste des juges et arbitres de haut niveau",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 5,
@@ -225,7 +230,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur la liste ministérielle des Sportifs de Haut Niveau ou sur la liste des sportifs Espoirs ou Collectifs Nationaux ; Sportifs sous convention avec un club professionnel",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 (étude au cas par cas pour les 1/6 et 2/6)",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 6,
@@ -263,7 +269,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs sur les Listes Ministérielles ; Sportifs en structure d'entraînement labellisé",
     "criteres_sbn": "Statut SBN : Décision prise par la commission selon la nécessité du sportif, son niveau et son volume d'entraînements et de déplacements en compétitions",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 7,
@@ -303,7 +310,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs listés (élite, sénior, jeune et reconversion), Espoirs et Collectifs Nationaux, Sportifs sous convention de formation, Pôle France, Pôle espoir labellisé, Juges et arbitres inscrits sur la liste de haut niveau",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 8,
@@ -347,7 +355,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Accordé si le sportif fait partie des meilleurs sportifs nationaux de sa catégorie (être classé à minima 0 ou être en seconde série négative)",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 9,
@@ -386,7 +395,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 10,
@@ -428,7 +438,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit dans une des 4 catégories de la liste des sportifs de haut-niveau arrêtée par le ministère chargé des sports : Élite, Senior, Relève ou Reconversion ; Être inscrit sur une des autres listes suivantes arrêtées par le ministère chargé des sports : Sportifs des Collectifs Nationaux, Sportifs Espoirs, Entraineurs de haut niveau, Juges et arbitres de haut niveau ; Appartenir à une structure reconnue par le ministère chargé des sports dans les projets de performance fédérale de la discipline",
     "criteres_sbn": "Statut SBN : L’étudiant sportif possède un niveau sportif certifié par le représentant technique officiel de la ligue de sa discipline (CTS ou CTF) qui justifie un aménagement de ses études universitaires",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 11,
@@ -467,7 +478,8 @@
     ],
     "criteres_shn": "Statut SHN : Les étudiants reconnus Sportifs de Haut Niveau dans les catégories Espoir, Jeune, Senior, Élite ou Reconversion",
     "criteres_sbn": "Statut SBN : Être classé à minima 4/6. Les étudiants doivent justifier d’un niveau national (participation aux championnats de France universitaire ou championnats interrégionaux en fédéral). Pour obtenir ce statut, l'étudiant doit avoir un niveau de pratique sportive élevée impliquant des contraintes d'entraînement et de compétition de nature à porter atteinte au bon déroulement des études",
-    "classement_sbn": "4/6"
+    "classement_sbn": "4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 12,
@@ -505,7 +517,8 @@
     ],
     "criteres_shn": "Statut SHN : Les sportives et sportifs inscrits sur la liste ministérielle des sportifs de haut-niveau dans les catégories Élite, Sénior, Relève et Reconversion ; Les sportives et sportifs inscrits sur la liste des sportifs Espoirs et sur la liste des sportifs des Collectifs Nationaux ; Les sportives et sportifs ne figurant pas sur les listes ministérielles mais appartenant à des structures reconnues dans le Projet de Performance Fédéral de leur fédération",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6 (voire 3/6)",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements (sauf les aménagements d'examens pour les cursus santé)"
   },
   {
     "id": 13,
@@ -543,7 +556,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau (listés ministériels) ; Sportifs listés Espoirs ou Collectifs Nationaux ; Appartenir à une structure d'entrainement reconnue dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Avoir un rythme d'entraînement supérieur à 10 heures par semaine (programme d'entraînement et de compétition demandé)",
-    "classement_sbn": "4/6"
+    "classement_sbn": "4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 14,
@@ -577,7 +591,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau (listés ministériels) ; Sportifs listés Espoirs ou Collectifs Nationaux ; Appartenir à une structure d'entrainement reconnue dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Avoir un rythme d'entraînement supérieur à 10 heures par semaine (programme d'entraînement et de compétition demandé)",
-    "classement_sbn": "4/6"
+    "classement_sbn": "4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 15,
@@ -609,7 +624,8 @@
     ],
     "criteres_shn": "Statut SHN : Les sportives et sportifs inscrits sur la liste ministérielle des sportifs de haut niveau dans les catégories Élite, Sénior, Relève et Reconversion ; Les sportifs inscrits sur la liste des sportifs espoirs et sur la liste des sportifs collectifs nationaux",
     "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Avoir un rythme d'entraînement supérieur à 10 heures par semaine (programme d'entraînement et de compétition demandé)",
-    "classement_sbn": "4/6"
+    "classement_sbn": "4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 16,
@@ -645,7 +661,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Participation au championnat de France ou classement national",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 17,
@@ -674,7 +691,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste Ministérielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Classement national dans la discipline. Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 18,
@@ -712,7 +730,8 @@
     ],
     "criteres_shn": "Statut SHN : Etre inscrit sur les listes du Ministère des sports dans les catégories Élite, Senior, Relève, Reconversion ou sur les listes Espoirs ou Collectifs Nationaux ; Appartenir à des structures d’entraînement reconnues dans le parcours de performance fédéral (PPF)",
     "criteres_sbn": "Statut SBN : Pratiquer de façon intensive et régulière (au moins 8 à 10 heures par semaine) une activité physique sportive, et évoluer et avoir avoir obtenu des résultats significatifs à des niveaux internationaux, nationaux ou parfois interrégionaux dans des compétitions fédérales, scolaires ou universitaires. Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 19,
@@ -748,7 +767,8 @@
     ],
     "criteres_shn": "Statut SHN :  Sportifs inscrits sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 ; Étude au cas par cas selon le niveau du sportif (résultats fédéraux sur les deux dernières années, classement, investissement dans les compétitons universitaires) ainsi que le volume de pratique (volume d'entrainement supérieur à 10 heures hebdomadaire)",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 20,
@@ -785,7 +805,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur les listes des Sportifs de Haut Niveau du Ministère ; Sportifs inscrits dans les Pôles et centres régionnaux d'entrainement rattachés au PPF (niveau national)",
     "criteres_sbn": "Statut SBN : Niveau interrégional/régional, étude au cas par cas",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 21,
@@ -824,7 +845,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs de Haut Niveau inscrits sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 22,
@@ -864,7 +886,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes ministérielles (Espoirs, Relève, Sénior, Élite, Reconversion) ; Appartenir à un club ou une structure reconnue dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 ou seconde série négative",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
   },
   {
     "id": 23,
@@ -906,7 +929,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportif inscrit sur la liste ministérielle des Sportifs de Haut Niveau ; Sportif inscrit sur la liste des Sportifs Espoirs ou Collectifs Nationaux ; Sportif non listé mais appartenant à une structure d’entraînement labélisée par le ministère chargé des sports (pôle France, France Jeune, Espoir) ; Sportif non listé mais de niveau international dans une discipline rattachée à une fédération",
     "criteres_sbn": "Statut SBN : Sportif de niveau national, régional ou inter-régional. Pas de critère de classement précis, étude au cas par cas selon l'exigence sportive (au moins 8h d'entraînement par semaine) ou être à un niveau national en championnat par équipe",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, avec plus de difficultés pour les aménagements d'examens en médecine"
   },
   {
     "id": 24,
@@ -935,7 +959,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur Listes Ministérielles : Élite, Senior, Relève, Reconversion",
     "criteres_sbn": "Statut SBN : Sportifs licenciés dans un club fédéral avec un niveau de pratique régional ou national. Être classé à minima 5/6 et avoir un volume d'entraînement supérieur à 8h hebdomadaire",
-    "classement_sbn": "5/6"
+    "classement_sbn": "5/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 25,
@@ -970,7 +995,8 @@
     ],
     "criteres_shn": "Statut SHN : Appartenir aux listes ministérielles",
     "criteres_sbn": "Statut SBN : Avoir un niveau de pratique sportive de niveau national et faire au minimum 4 entraînements par semaine",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 26,
@@ -1007,7 +1033,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportif/ve de haut niveau inscrit(e) sur la liste ministérielle regroupant les catégories Élite, Senior, Relève et Reconversion ; Être inscrit(e) sur la liste des sportifs et sportives Espoirs ou sur la liste des sportifs et sportives Collectifs Nationaux ; Appartenir à une structure d'entraînement reconnue dans le parcours de performance fédéral (PPF)",
     "criteres_sbn": "Statut SBN : Niveau national ou présentant un fort potentiel, demande évaluée au regard de critères définis par la commission (nombre d'entraînement, nombre de déplacements)",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 27,
@@ -1048,7 +1075,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur Listes Ministérielles (Élite, Senior, Relève et Reconversion) ; Sportifs inscrits sur la liste des Espoirs et Collectifs Nationaux ; Sportifs appartenant à une structure reconnue dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Sportifs présentant un fort potentiel et des contraintes d'entraînement importantes. Être classé à mini 0 pour les garçons et 2/6 pour les filles",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements (même si tous les aménagements ne sont pas possibles pour chaque formation, par exemple pas de possibilité de décaler les examens pour les étudiants de LAS et PASS)"
   },
   {
     "id": 29,
@@ -1085,7 +1113,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur les listes SHN du Ministère de la Jeunesse et des Sports ; Sportifs intégrés à un Pôle (Elite, France ou Espoir)",
     "criteres_sbn": "Statut SBN : Participer à des compétitions ou des Championnats de Niveau National (ou au plus haut niveau régional dans certains cas), présenter une charge d’entraînement conséquente (volume minimum de 4 entraînements par semaine) et être considéré comme un espoir potentiel par sa fédération sportive, attestation à l’appui (soit 2/6 en tennis)",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 30,
@@ -1123,7 +1152,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les Listes Ministérielles des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Sportifs ayant une pratique sportive assidue (contraintes d’entraînement et de compétitions), aménagements généralement accordés pour des sportifs 2nde série qui en font la demande",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 31,
@@ -1158,7 +1188,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes du ministère des Sports ; Appartenir à des structures d'entrainement labélisées par le ministère chargé des sports (les Pôles Frances Jeunes, Espoirs, Centre de Formation)",
     "criteres_sbn": "Statut SBN : Athlète de très bon niveau régional dont le niveau sportif est reconnu par les fédérations intéressées (liste « nationaux »). Être classé à minima 0",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 32,
@@ -1184,7 +1215,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Étudiants ayant une pratique intensive d'au moins 20 heures par semaine",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 33,
@@ -1217,7 +1249,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes du ministère des sports (élite, sénior, jeune, espoir)",
     "criteres_sbn": "Statut SBN : Être pratiquant de niveau national",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
   },
   {
     "id": 34,
@@ -1260,7 +1293,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportif figurant ou ayant figuré sur la liste officielle des Sportifs de Haut Niveau du Ministère des Sports (y compris dans un pays étranger)",
     "criteres_sbn": "Statut SBN : Sportif de bon niveau (national, sélections régionales jeunes) ; Les étudiants ayant une pratique sportive élevée (contraintes d’entraînements et de compétitions). De manière général, le pôle sportif accepte les garçons jusqu'à 4/6 et les filles jusqu'à 5/6",
-    "classement_sbn": "5/6"
+    "classement_sbn": "5/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
   },
   {
     "id": 35,
@@ -1288,7 +1322,8 @@
     ],
     "criteres_shn": "Statut SHN : Listé ministériel (Elite, Sénior, Espoirs, Relève, Reconversion, Collectifs Nationaux)",
     "criteres_sbn": "Statut SBN : Être classé à minima 3/6",
-    "classement_sbn": "3/6"
+    "classement_sbn": "3/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 36,
@@ -1322,7 +1357,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur la liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Être classé à minima 1/6 (certains 2/6 et 3/6 peuvent être acceptés)",
-    "classement_sbn": "1/6"
+    "classement_sbn": "1/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 37,
@@ -1362,7 +1398,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau (Liste ministérielle)",
     "criteres_sbn": "Statut SBN : Pas de critères précis, pratique intensive et un niveau de pratique à haut niveau ou proche du haut niveau",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 38,
@@ -1403,7 +1440,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur la liste des Sportifs de Haut Niveau du Ministère des Sports (Relève, Senior, Elite, Reconversion), sur les listes Espoirs et Collectif Nationaux ; Être membre d’une structure sportive inscrite au Projet de Performance Fédérale",
     "criteres_sbn": "Statut SBN : Sur décision de la commission, pas de critères précis",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 39,
@@ -1437,7 +1475,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur la liste des Sportifs de Haut Niveau du Ministère des Sports (Relève, Senior, Elite, Reconversion), sur les listes Espoirs et Collectif Nationaux ou être membre d’une structure sportive inscrite au Projet de Performance Fédérale",
     "criteres_sbn": "Statut SBN : Être classé à minima en 2ème série",
-    "classement_sbn": "15"
+    "classement_sbn": "15",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 40,
@@ -1475,7 +1514,8 @@
     ],
     "criteres_shn": "Statut SHN : Les étudiants sportifs inscrits sur les listes ministérielles (Élite, Senior, Relève, Collectifs Nationaux et Espoirs) ; Les étudiants sportifs ne figurant pas sur les listes ministérielles mais appartenant à des structures d’entraînement labellisées par le ministère des sports (Pôle France, Pôle France Jeunes, Pôle Espoir)",
     "criteres_sbn": "Statut SBN : Les étudiants représentants le meilleur niveau national ou a minima régional français dans leur spécialité sportive ; La commission statue au regard de plusieurs critères : le palmarès sportif de l’étudiant (participer à des compétitions internationales et/ou faire partie des 15 meilleurs français de sa catégorie au niveau national et/ou avoir au minimum 3 ans de podiums régionaux sur la compétition majeure de la discipline (compétitions inter‐régionales), et/ou avoir été inscrit sur les listes ministérielles dans les 3 ans qui précèdent la demande), le nombre d’entraînements (5 entraînements par semaine minimum), les contraintes liées aux compétitions (déplacements nombreux, compétitions régulières), Les dossiers sont étudiés à partir d'un classement négatifs, soit -2/6",
-    "classement_sbn": "-2/6"
+    "classement_sbn": "-2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 41,
@@ -1520,7 +1560,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 1/6",
-    "classement_sbn": "1/6"
+    "classement_sbn": "1/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 42,
@@ -1561,7 +1602,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes du Ministère des sports",
     "criteres_sbn": "Statut SBN : Être classé à minima -4/6",
-    "classement_sbn": "-4/6"
+    "classement_sbn": "-4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 43,
@@ -1602,7 +1644,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur Liste Ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 44,
@@ -1643,7 +1686,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 (statut accordé à certains sportifs en dessous de ce classement)",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 45,
@@ -1681,7 +1725,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 46,
@@ -1722,7 +1767,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6 ou sur décision de la commission en fonction de l'exigence sportive",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
   },
   {
     "id": 47,
@@ -1764,7 +1810,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle ou appartenir au Projet de Performance Fédéral ; Être classé à minima en seconde série négative (entre 0 et -15) et avoir un volume d'entraînement supérieur à 15 heures hebdomadaires (fortes contraintes d'entraînement et de compétitions)",
     "criteres_sbn": "Statut SBN : Être classé à minima en seconde série positive (entre 15 et 1/6) et avoir un volume d'entraînement supérieur à 10 heures hebdomadaire",
-    "classement_sbn": "15"
+    "classement_sbn": "15",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 48,
@@ -1801,7 +1848,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Avoir un niveau national ou interrégional",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, avec plus de difficultés pour les aménagements en droit"
   },
   {
     "id": 49,
@@ -1831,7 +1879,8 @@
     ],
     "criteres_shn": "Statut SHN : Obtention du statut sur dossier et sur décision de la commission selon les contraintes d'entraînements et les déplacements en tournois",
     "criteres_sbn": "Statut SBN : Pas de critères particuliers, sur décision de la commission",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 50,
@@ -1862,7 +1911,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle ou être classe en 2ème série negative ; Anciens sportifs listés ministérielles ou être classé en 2ème série positive et avoir des entraînements au quotidien",
     "criteres_sbn": "Statut SBN : Sportifs avec des contraintes d'entrainement fortes (3 entraînements minimum/semaine, haut niveau régional) ou être classé en 3ème série (au cas par cas selon l'historique sportif)",
-    "classement_sbn": "3ème série"
+    "classement_sbn": "3ème série",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 51,
@@ -1901,7 +1951,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle arrêtée par le Ministère de la Jeunesse et Sports",
     "criteres_sbn": "Statut SBN : Sportifs ayant une pratique sportive assidue (contraintes d’entraînement et de compétitions). Être classé à minima en 2ème série (15)",
-    "classement_sbn": "15"
+    "classement_sbn": "15",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 52,
@@ -1932,7 +1983,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur Liste Ministérielle ; Sportifs appartenant à un centre ou pôle de formation",
     "criteres_sbn": "Statut SBN : Si non listé, passage en commission auprès d'enseignants certifiés en sport de haut niveau. Etude de chaque dossier au cas par cas en fonction du parcours de l'étudiant",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 53,
@@ -1971,7 +2023,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur Liste Ministérielle ou être classé à minima en seconde série négative",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
   },
   {
     "id": 54,
@@ -2014,7 +2067,8 @@
     ],
     "criteres_shn": "Statut SHN : Les sportifs et sportives de haut niveau inscrits sur la liste ministérielle regroupant les catégories Élite, Senior, Relève et Reconversion ; Les sportifs et sportives inscrits sur la liste des sportifs et sportives Espoirs et sur la liste des sportifs Collectifs Nationaux ; Les sportifs et sportives ne figurant pas sur la liste ministérielle mais appartenant à des structures d'entraînement reconnues dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Les sportifs et sportives de niveau national ; les sportives et sportifs identifiés comme Haut Potentiel Sportif par les fédérations sportives délégataires (2/6 pour le tennis)",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 55,
@@ -2048,7 +2102,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur Liste Ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6 et justifier d'un niveau de pratique intensive",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 56,
@@ -2086,7 +2141,8 @@
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur la liste ministérielle des Sportifs de Haut Niveau ; Sportifs appartenant à des structures sportives rattachées au Projet de Performance Fédérale",
     "criteres_sbn": "Statut SBN : Sportifs ayant une pratique sportive assidue (contraintes d’entraînement et de compétitions), être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 57,
@@ -2129,7 +2185,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes ministérielles en catégorie Élite, Senior, Relève et Reconversion ou sur la liste des sportifs Espoirs et Collectifs Nationaux ; Appartenir à une structure d'entraînement inscrite dans le Projet de Performance Fédéral (CNUT de Montpellier)",
     "criteres_sbn": "Statut SBN : Être classé à minima 1/6",
-    "classement_sbn": "1/6"
+    "classement_sbn": "1/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
   },
   {
     "id": 58,
@@ -2166,7 +2223,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les Listes Ministérielles des Sportifs de Haut Niveau (Élite, Sénior, Reconversion, Relève, Espoirs, Collectifs Nationaux) ou être membre d'un Pôle France",
     "criteres_sbn": "Statut SBN : Être classé à minima en 2ème série compris entre 0 et -2/6",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements avec plus de difficultés à les accorder en STAPS"
   },
   {
     "id": 59,
@@ -2200,7 +2258,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes ministérielles",
     "criteres_sbn": "Statut SBN : Être classé 0 à minima ; Statut accordé si le sportif s'entraîne  au CNUT de Montpellier et qu'il a un classement inférieur à 0",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 60,
@@ -2231,7 +2290,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste la liste ministérielle des Sportifs de Haut Niveau ou des sportifs Espoirs ; Être en Pôle France ou Pôle Espoir",
     "criteres_sbn": "Statut SBN : Avoir un bon niveau national (pour les sportifs non listés et non conventionnés). Sélection sur dossier étudié par une commission qui tient compte du niveau de pratique, des contraintes d'entraînement et de compétition. Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 61,
@@ -2264,7 +2324,8 @@
     ],
     "criteres_shn": "Statut SBN : Tous les Sportifs de Haut Niveau inscrits sur les listes du ministère des sports",
     "criteres_sbn": "Statut SBN :  Étudiants proches du haut niveau, inscrits dans un processus impliquant un entraînement quotidien et de nombreux déplacements sportifs ; Étudiants de bon niveau inter-régional fédéral et les étudiants de bon niveau national universitaire impliqués dans les équipes sportives de l'université. Être classé à minima 2/6",
-    "classement_sbn": "2/6"
+    "classement_sbn": "2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 62,
@@ -2299,7 +2360,8 @@
     ],
     "criteres_shn": "Statut SHN : Tout sportif inscrit sur les listes ministérielles en tant que Sportif de Haut Niveau dans la catégorie : Elite, Séniors, Relève, Reconversion ; Les sportifs et sportives inscrits sur la liste Espoirs ou Collectifs Nationaux et les sportifs et sportives appartenant à des structures d'entraînement reconnues dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Être classé à minima 0",
-    "classement_sbn": "0"
+    "classement_sbn": "0",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, sauf la 1ère année de médecine"
   },
   {
     "id": 63,
@@ -2344,7 +2406,8 @@
     ],
     "criteres_shn": "Statut SHN : Les étudiants inscrits sur liste ministérielle de Sportifs de Haut Niveau (SHN) regroupant les catégories Elite, Sénior, Relève et Reconversion, les étudiants inscrits sur liste ministérielle des sportifs Espoirs et Collectifs Nationaux ; Les étudiants sportifs ne figurant pas sur les listes ministérielles et appartenant à des structures du Projet de Performance Fédéral validées par le Ministère chargé des sports (programme excellence et programme accession)",
     "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Les étudiants représentant l’élite nationale et inter-régionale qui présentent des contraintes fortes d’entraînements et de compétitions. La Commission Haut Niveau statuera au regard de certains critères : La fréquence d’entrainements hebdomadaire et les contraintes temporelles liées à la distance au lieu d’étude, les contraintes liées aux compétitions (déplacements régionaux, nationaux et internationaux fréquents), compétitions régulières",
-    "classement_sbn": "4/6"
+    "classement_sbn": "4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 64,
@@ -2381,7 +2444,8 @@
     ],
     "criteres_shn": "Sportif(ve) figurant ou ayant figuré sur la liste officielle des Sportifs de Haut Niveau du Ministère des Sports (y compris dans un pays étranger)",
     "criteres_sbn": "Sportif(ve) de bon niveau reconnu (national, sélections régionales jeunes), être classé à minima 4/6",
-    "classement_sbn": "4/6"
+    "classement_sbn": "4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, avec plus de difficultés sur certaines filières (sciences)"
   },
   {
     "id": 65,
@@ -2421,7 +2485,8 @@
     ],
     "criteres_shn": "Statut SHN : Être Sportif de Haut Niveau inscrit sur la Liste Ministérielle du Ministère des Sports",
     "criteres_sbn": "Statut SBN : Être classé à minima en 2ème série négative (-2/6) et justifier d'un nombre d'entraînements par semaine, d'un niveau de pratique et de résultats sportifs",
-    "classement_sbn": "-2/6"
+    "classement_sbn": "-2/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 66,
@@ -2458,7 +2523,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste des Sportifs de Haut Niveau (Relève, Sénior, Elite ou Reconversion) ; Liste des sportifs Espoirs ou Collectifs Nationaux ; Liste des sportifs appartenant à une structure labélisée par le ministère des Sports (Pôle France, Pôle Espoir)",
     "criteres_sbn": "Statut SBN : Être classé à minima 3/6",
-    "classement_sbn": "3/6"
+    "classement_sbn": "3/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 67,
@@ -2500,7 +2566,8 @@
     ],
     "criteres_shn": "Statut SHN : Être Sportif de Haut Niveau inscrit sur la Liste Ministérielle du Ministère des Sports",
     "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Être un sportif d'élite inter-régionale et participer à des compétitions de niveau national (minimum 5 entraînements par semaine)",
-    "classement_sbn": "4/6"
+    "classement_sbn": "4/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 68,
@@ -2529,7 +2596,8 @@
     ],
     "criteres_shn": "Statut SHN : Les Sportifs de Haut Niveau inscrits sur les listes nationales ou régionales",
     "criteres_sbn": "Statut SBN : Sur décision de la commission, pas de critères précis",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 69,
@@ -2566,7 +2634,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Critères internes à l'université (Niveau de performance, charge et horaires d'entraînement, déplacements…), être classé à minima 1/6",
-    "classement_sbn": "1/6"
+    "classement_sbn": "1/6",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 70,
@@ -2605,7 +2674,8 @@
     ],
     "criteres_shn": "Statut SHN : Être Sportif de Haut Niveau inscrit en catégorie Elite, Sénior, Espoir, Relève ou Collectifs Nationaux",
     "criteres_sbn": "Statut SBN : Être classé à minima 15 pour les filles et 5/6 pour les garçons",
-    "classement_sbn": "15"
+    "classement_sbn": "15",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 71,
@@ -2645,7 +2715,8 @@
     ],
     "criteres_shn": "Statut SHN : Inscrits sur les listes nationales du ministère des Sports",
     "criteres_sbn": "Statut SBN : Étudiants justifiant d’un niveau de pratique national ou régional, de contraintes liées aux compétitions (déplacements fréquents, compétitions régulières), d’une contrainte d’entraînement importante, d'une expérience en compétition et d'un projet sportif",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 72,
@@ -2682,7 +2753,8 @@
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur Liste Ministérielle (Élite, Sénior, Relève, Reconversion, Espoir, Collectifs Nationaux)",
     "criteres_sbn": "Statut SBN : Avoir une pratique intense et engagée pour participer à un championnat national ou international ; Être champion de la Réunion (ou vice) et être qualifié pour les Championnats de France (Europe ou Monde)",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en droit"
   },
   {
     "id": 73,
@@ -2717,7 +2789,8 @@
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Non déterminé",
-    "classement_sbn": "Non déterminé"
+    "classement_sbn": "Non déterminé",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 1000,
