@@ -96,6 +96,12 @@ export default function DetailPanel({ etablissement: e, onClose }) {
           </Section>
         )}
 
+        {e.formations_concernees && (
+          <Section title="Formations concernées par les aménagements">
+            <MultilineText text={e.formations_concernees} />
+          </Section>
+        )}
+
         <Section title="Aménagements proposés">
           <div className="filieres-list">
             {e.amenagement_tags?.map(tag => (

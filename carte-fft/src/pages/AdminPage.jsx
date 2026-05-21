@@ -23,6 +23,7 @@ const EMPTY = {
   criteres: '',
   amenagement_tags: [],
   filieres: [],
+  formations_concernees: '',
   formation: '',
   club_proximite: '',
   lien: '',
@@ -164,6 +165,16 @@ function EtabForm({ etab, onSave, onCancel }) {
             </label>
           )}
         </fieldset>
+
+        {/* ── Formations concernées ── */}
+        {isUniv && (
+          <fieldset>
+            <legend>Formations concernées par les aménagements</legend>
+            <label>
+              <textarea rows={2} value={form.formations_concernees || ''} onChange={e => set('formations_concernees', e.target.value)} placeholder="Ex : Toutes les formations proposées sont concernées..." />
+            </label>
+          </fieldset>
+        )}
 
         {/* ── Aménagements ── */}
         <fieldset>
