@@ -12,7 +12,6 @@ const ALL_FILIERES = [
   'Sciences Humaines',
   'Sciences Politiques',
   'STAPS',
-  'BUT',
 ]
 
 export const ALL_AMENAGEMENTS = [

@@ -70,10 +70,10 @@ export default function DetailPanel({ etablissement: e, onClose }) {
           </Section>
         )}
 
-        {e.filieres?.length > 0 && (
+        {e.filieres?.filter(f => f !== 'BUT').length > 0 && (
           <Section title="Filières disponibles">
             <div className="filieres-list">
-              {e.filieres.map(f => <span key={f} className="filiere-tag">{f}</span>)}
+              {e.filieres.filter(f => f !== 'BUT').map(f => <span key={f} className="filiere-tag">{f}</span>)}
             </div>
           </Section>
         )}

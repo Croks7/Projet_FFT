@@ -16,13 +16,13 @@ export default function EtablissementList({ etablissements, onSelect }) {
           </div>
           <h3>{e.nom}</h3>
           {REGIONS[e.region] && <p className="etab-region">{REGIONS[e.region]}</p>}
-          {e.filieres?.length > 0 && (
+          {e.filieres?.filter(f => f !== 'BUT').length > 0 && (
             <div className="filieres-list">
-              {e.filieres.slice(0, 3).map(f => (
+              {e.filieres.filter(f => f !== 'BUT').slice(0, 3).map(f => (
                 <span key={f} className="filiere-tag">{f}</span>
               ))}
-              {e.filieres.length > 3 && (
-                <span className="filiere-tag more">+{e.filieres.length - 3}</span>
+              {e.filieres.filter(f => f !== 'BUT').length > 3 && (
+                <span className="filiere-tag more">+{e.filieres.filter(f => f !== 'BUT').length - 3}</span>
               )}
             </div>
           )}
