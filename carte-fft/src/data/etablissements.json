@@ -130,7 +130,7 @@
     "telephone": "07 85 96 66 48",
     "amenagements": "Aménagements d’horaires possibles\nAutorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)\nDispense d'assiduité\nÉtalement d’une année en 2 ans ou d’une licence en 4 ans\nSessions aménagées pour les examens\nTutorat individualisé\n\nToutes les formations sont concernées par ces aménagements",
     "lien": "https://suaps.univ-lyon1.fr/inscriptions-pratique/haut-niveau?",
-    "club_proximite": "L'université a signé la déclisaison régionale de la convention C3D STAPS avec la Ligue ARA\n\nPas de relation avec un club de proximité",
+    "club_proximite": "L'université a signé la déclisaison régionale de la convention C3D STAPS avec la Ligue ARA. Accès aux infrastructures de l'université\n\nPas de relation avec un club de proximité",
     "filieres": [
       "Ingénieur",
       "Maths-Informatique",
@@ -244,7 +244,7 @@
     "telephone": "06 18 48 82 96",
     "amenagements": "Procédure SHN Université Catholique de Lyon (UCLY)\n\nTutorat étudiant\nAdaptation du temps de formation : Autorisation d'absence, changement de groupe de TD ou TP\nÉtalement du cursus\nOrganisation de sessions ou de modalités particulières d'examen (écrit, oral ou à distance), étalement sur plusieurs session ou dispenses d'épreuves\nDispense d'un enseignement\nPour les sportifs Elite, Sénior et Relève : Prêt d'un ordinateur portable\n\nToutes les formations de l'université sont concernées par ces aménagements",
     "lien": "https://www.ucly.fr/vie-etudiante/services-aux-etudiants/sportifs-de-haut-niveau-et-artistes/",
-    "club_proximite": "",
+    "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -452,7 +452,7 @@
     "telephone": "02 97 01 02 12 - 06 62 82 77 64",
     "amenagements": "",
     "lien": "https://www.univ-ubs.fr/fr/vie-des-campus/campus/sport/sportif-ve-de-haut-niveau.html?",
-    "club_proximite": "",
+    "club_proximite": "Accès aux infrastructures de l'université (réservation de créneaux tennis) et accès à la salle de musculation\n\nPas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -638,7 +638,7 @@
     "telephone": "04 20 20 21 62 - 06 13 02 54 67",
     "amenagements": "",
     "lien": "https://fst.universita.corsica/article.php?id_art=2376&id_rub=831&id_site=29&lang=fr",
-    "club_proximite": "",
+    "club_proximite": "Accès aux installations universitaires\n\nPas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -675,7 +675,7 @@
     "telephone": "06 13 86 72 90",
     "amenagements": "Aménagement d’études qui permet de faciliter l’emploi du temps. Pour les nouveaux arrivants, une aides aux études est faite par des tuteurs étudiants de deuxième année ainsi que des cours de rattrapage si besoins. Le suivi scolaire par le responsable de la filière est permanent.",
     "lien": "https://www.insa-centrevaldeloire.fr/fr/formation/les-filieres-specifiques/sport-haut-niveau-shn",
-    "club_proximite": "Partenariats avec les clubs locaux et les structures régionales pour permettre un entrainement régulier et encadré. Pour assurer l’optimisation de l’entrainement, sont également proposés gratuitement : Un accès en salle de musculation (Fitness Park), une séance hebdomadaire de préparation mentale, un accès à la balnéothérapie, une intervention avec un diététicien, un staff médical à disposition, une préparation physique\n\nPas d'organisation avec un club de proximité mais les sportifs ont accès aux installations de la Ligue avec un entraîneur du Pôle à leur disposition",
+    "club_proximite": "Partenariats avec les clubs locaux et les structures régionales pour permettre un entrainement régulier et encadré. Pour assurer l’optimisation de l’entrainement, sont également proposés gratuitement : Un accès en salle de musculation (Fitness Park), une séance hebdomadaire de préparation mentale, un accès à la balnéothérapie, une intervention avec un diététicien, un staff médical à disposition, une préparation physique\n\nLes sportifs ont accès aux installations de la Ligue avec un entraîneur du Pôle à leur disposition",
     "filieres": [
       "Ingénieur",
       "Maths-Informatique"
@@ -705,7 +705,7 @@
     "telephone": "06 15 07 46 92",
     "amenagements": "Possibilité d'allongement du cursus universitaire par la signature d'un contrat pédagogique\nPossibilité d'organisation de l'emploi du temps et des examens (SHN uniquement, et suivant les composantes) pour la prise en compte des impératifs de l'entraînement et des déplacements (par exemple : choix de groupe de TD, aménagement d'horaires, absence ponctuelle...)\nPossibilité d'autorisation d'absence pour la participation aux stages et aux compétitions officielles de niveau national, y compris FFSportU",
     "lien": "https://www.univ-tours.fr/campus/accueil-sport-1/accueil-sport/3-1-informations-generales",
-    "club_proximite": "Possibilité d'accès à la salle de musculation pendant les cours du SUAPS et avec l'accord de l'enseignant référent\n\nPas d'organisation avec un club de proximité",
+    "club_proximite": "Possibilité d'accès à la salle de musculation pendant les cours du SUAPS et avec l'accord de l'enseignant référent\n\nPas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1127,7 +1127,7 @@
     "telephone": "06 67 85 36 25\n01 34 25 61 94",
     "amenagements": "",
     "lien": "https://www.cyu.fr/campus/campus-sportif/vous-etes-sportif-de-haut-niveau",
-    "club_proximite": "",
+    "club_proximite": "Accès à la salle de musculation du centre sportif des Chênes\nPas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1454,7 +1454,7 @@
     "telephone": "06 59 63 29 23",
     "amenagements": "Charte SHN ESIEE Paris\n\nAménagement de la durée du cursus\nAménagement des cursus adaptés aux contraintes sportives\nOrganisation spécifique de l'emploi du temps, priorité dans le choix des groupes de Travaux Dirigés (TD) et Travaux Pratiques (TP)\nAménagement de la convention de stage (autorisation d'absence, allongement de la durée)\nMise à disposition d'un enseignement tuteur\nSoutien pédagogique (10h de tutorat dans la discipline de leur choix)\nAutorisation d'absences ponctuelles aux TD\nAménagement des examens (choix du mode de contrôle des connaissances entre contrôle continu et examen terminal, possibilités de modalités spécifiques avec un examen écrit, oral, sur dossier ou à distance)\n\nToutes les formations de l'université sont concernées par ces aménagements",
     "lien": "https://www.esiee.fr/actualites/les-sportives-et-sportifs-de-haut-niveau",
-    "club_proximite": "Dans le cadre du SUAPS, des séances sont proposées au club de Champs-sur-Marne et au club de Torcy. Les cours sont réservés et des enseignants de l'université sont mis à disposition. Les cours du SUAPS sont ouverts à tous les étudiants de l'université inscrits au SUAPS.\n\nPas de collaboration avec un club de proximité",
+    "club_proximite": "Dans le cadre du SUAPS, des séances sont proposées au club de Champs-sur-Marne et au club de Torcy. Les cours sont réservés et des enseignants de l'université sont mis à disposition. Les cours du SUAPS sont ouverts à tous les étudiants de l'université inscrits au SUAPS.",
     "filieres": [
       "Ingénieur",
       "Maths-Informatique"
@@ -1528,7 +1528,7 @@
     "telephone": "/",
     "amenagements": "Charte SHN Université Paris Cité\n\nSHN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport et complète en fonction des UFR\nChoix des groupes de TD\nChoix du contrôle des examens (continu, mixte ou terminal)\nPossibilité de session d’examens dérogatoire en plus de la session de seconde chance\nValidation d’acquis pour des UE transverses\nValidation d’UE proposées par des structures sportives officielles\nAide aux devoirs avec Tuteurs Preneurs de notes\n\nSBN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport\nChoix des groupes de TD",
     "lien": "https://u-pariscite.fr/sport/sportif-de-haut-niveau/",
-    "club_proximite": "Guide de l'étudiant SHN Université Paris Cité\n\nPas de collaboration avec un club de proximité\nLes étudiants qui ont choisi la spécialité tennis dispose de TD et des TP en tennis à hauteur de 4h/semaine",
+    "club_proximite": "Pas de collaboration avec un club de proximité\nLes étudiants qui ont choisi la spécialité tennis dispose de TD et des TP en tennis à hauteur de 4h/semaine",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1700,7 +1700,7 @@
     "telephone": "06 77 37 45 78",
     "amenagements": "",
     "lien": "https://www.uvsq.fr/le-sport-de-haut-niveau",
-    "club_proximite": "",
+    "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1824,7 +1824,7 @@
     "telephone": "06 82 14 46 80",
     "amenagements": "",
     "lien": "https://www.univ-lehavre.fr/fr/vie-de-campus/vie-sportive/soutien-aux-sportifs-de-haut-et-bon-niveau/",
-    "club_proximite": "",
+    "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1925,7 +1925,7 @@
     "telephone": "05 46 45 18 94",
     "amenagements": "",
     "lien": "https://www.univ-larochelle.fr/vie-etudiante/sport/sport-de-haut-niveau/",
-    "club_proximite": "",
+    "club_proximite": "Accès aux installations sportives du SUAPS\n\nPas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -2304,7 +2304,7 @@
     "telephone": "06 78 48 74 42",
     "amenagements": "ESHN et ESBNN :\nAccompagnement privilégié et tutorat spécifique\nAménagement du cursus\nCours en enseignement à distance\nChoix des groupes de TD\nReport d'examen\n\nESBNR :\nCours en enseignement à distance",
     "lien": "https://www.univ-tlse2.fr/accueil/vie-campus/sport/les-sportifs-de-haut-niveau-1",
-    "club_proximite": "",
+    "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Éco-Gestion",
@@ -2338,7 +2338,7 @@
     "telephone": "05 61 55 84 15",
     "amenagements": "SHN :\nDispense d'assiduité d'un ou plusieurs cours\nMise en place d'un parrain\nAménagement du cursus sur la durée\nCours de soutien\nChangement de groupe TP/TD\nSession spéciale d'examen, aménagement des stages \nAménagement de la pratique des cours APS \n\nSBN :\nAménagement cursus sur la durée\nChangement de groupe TD/TP\nSession spéciale d'examen\nAccès à des créneaux de musculation \n\nToutes les filières de l'établissement sont concernées, sauf la 1ère année de médecine",
     "lien": "https://www.univ-tlse3.fr/sport/departement-du-sport-de-haut-niveau",
-    "club_proximite": "Lien\n\nLes sportifs peuvent s'inscrire (gratuitement) dans les activités proposées par le service des sports. Des places sont réservées sur les cours de musculation, pour les sportifs sous contrat au DSHN. \n\nLes sportifs n'ont pas d'accès libre aux installations sportives de l'Université (déjà très utilisées par STAPS et le SUAPS), ni d'un club aux alentours.",
+    "club_proximite": "Les sportifs peuvent s'inscrire (gratuitement) dans les activités proposées par le service des sports. Des places sont réservées sur les cours de musculation, pour les sportifs sous contrat au DSHN. \n\nLes sportifs n'ont pas d'accès libre aux installations sportives de l'Université (déjà très utilisées par STAPS et le SUAPS), ni d'un club aux alentours.",
     "filieres": [
       "Ingénieur",
       "Maths-Informatique",
@@ -2420,7 +2420,7 @@
     "telephone": "07 86 03 77 95\n04 90 16 29 00",
     "amenagements": "",
     "lien": "https://univ-avignon.fr/campus/sportif-de-haut-niveau/",
-    "club_proximite": "",
+    "club_proximite": "Mise à disposition des sportifs d'un conseiller bien-être et alimentation, psychologue, diététicien et réathlétisation\n\nAccès aux infrastructures sportives de l'université\n\nPas de relation avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
