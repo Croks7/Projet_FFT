@@ -86,7 +86,9 @@ export default function DetailPanel({ etablissement: e, onClose }) {
             <Section title="Critères statut SBN">
               <MultilineText text={e.criteres_sbn} />
               {e.classement_sbn && e.classement_sbn !== '/' && (
-                <p><strong>Classement minimum requis :</strong> {e.classement_sbn}</p>
+                <div style={{ marginTop: 8 }}>
+                  <span className="classement-sbn-tag">Classement min. requis : {e.classement_sbn}</span>
+                </div>
               )}
             </Section>
           </>
