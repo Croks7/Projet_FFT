@@ -7,8 +7,10 @@ import '../admin.css'
 const ALL_FILIERES = [
   'Arts, Lettres et Langues', 'Droit', 'Éco-Gestion', 'Histoire-Géographie',
   'Ingénieur', 'Maths-Informatique', 'Médecine', 'Sciences',
-  'Sciences Humaines', 'Sciences Politiques', 'STAPS', 'BUT',
+  'Sciences Humaines', 'Sciences Politiques', 'STAPS',
 ]
+
+const ALL_CLASSEMENTS = ['-4/6', '-2/6', '0', '1/6', '2/6', '3/6', '4/6', '5/6', '15', '3ème série', 'Non déterminé']
 
 const EMPTY = {
   type: 'universite',
@@ -155,7 +157,10 @@ function EtabForm({ etab, onSave, onCancel }) {
               </label>
               <label>
                 Classement minimum SBN
-                <input value={form.classement_sbn} onChange={e => set('classement_sbn', e.target.value)} placeholder="ex : 2/6 ou Non déterminé" />
+                <select value={form.classement_sbn} onChange={e => set('classement_sbn', e.target.value)}>
+                  <option value="">— Sélectionner —</option>
+                  {ALL_CLASSEMENTS.map(c => <option key={c} value={c}>{c}</option>)}
+                </select>
               </label>
             </>
           ) : (
