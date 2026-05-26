@@ -26,6 +26,7 @@ export const REGIONS = {
 
 export default function App() {
   const [filters, setFilters] = useState({
+    classement_sbn: [],
     region: '',
     filiere: '',
     type: '',
@@ -45,6 +46,7 @@ export default function App() {
       if (filters.region && e.region !== filters.region) return false
       if (filters.type && e.type !== filters.type) return false
       if (filters.filiere && !e.filieres?.includes(filters.filiere)) return false
+      if (filters.classement_sbn?.length > 0 && !filters.classement_sbn.includes(e.classement_sbn)) return false
       if (filters.amenagements?.length > 0) {
         if (!filters.amenagements.every(tag => e.amenagement_tags?.includes(tag))) return false
       }

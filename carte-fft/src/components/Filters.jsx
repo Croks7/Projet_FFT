@@ -25,9 +25,18 @@ export const ALL_AMENAGEMENTS = [
   "Collaboration avec un club de proximité",
 ]
 
+const ALL_CLASSEMENTS = ['-4/6', '-2/6', '0', '1/6', '2/6', '3/6', '4/6', '5/6', '15', '3ème série', 'Non déterminé']
+
 export default function Filters({ filters, setFilters, regions }) {
   const [amenOpen, setAmenOpen] = useState(false)
+  const [classOpen, setClassOpen] = useState(false)
   const update = (key, value) => setFilters(f => ({ ...f, [key]: value }))
+
+  const toggleClassement = (val) => {
+    const current = filters.classement_sbn || []
+    const next = current.includes(val) ? current.filter(v => v !== val) : [...current, val]
+    update('classement_sbn', next)
+  }
 
   const toggleAmenagement = (tag) => {
     const current = filters.amenagements || []
@@ -36,6 +45,7 @@ export default function Filters({ filters, setFilters, regions }) {
   }
 
   const activeCount = [
+    ...(filters.classement_sbn || []),
     filters.region,
     filters.filiere,
     filters.type,
@@ -77,7 +87,7 @@ export default function Filters({ filters, setFilters, regions }) {
         {activeCount > 0 && (
           <button
             className="reset-btn"
-            onClick={() => setFilters({ region: '', filiere: '', type: '', amenagements: [] })}
+            onClick={() => setFilters({ classement_sbn: [], region: '', filiere: '', type: '', amenagements: [] })}
           >
             Réinitialiser ({activeCount})
           </button>
@@ -100,6 +110,28 @@ export default function Filters({ filters, setFilters, regions }) {
                   onChange={() => toggleAmenagement(tag)}
                 />
                 {tag}
+              </label>
+            ))}
+          </div>
+        )}
+      </div>
+
+      <div className="amenagements-filter">
+        <button className="amenagements-toggle" onClick={() => setClassOpen(o => !o)}>
+          Classement SBN requis
+          {filters.classement_sbn?.length > 0 && <span className="amen-count">{filters.classement_sbn.length}</span>}
+          <span className="toggle-arrow">{classOpen ? '▲' : '▼'}</span>
+        </button>
+        {classOpen && (
+          <div className="amenagements-list">
+            {ALL_CLASSEMENTS.map(val => (
+              <label key={val} className="amen-option">
+                <input
+                  type="checkbox"
+                  checked={(filters.classement_sbn || []).includes(val)}
+                  onChange={() => toggleClassement(val)}
+                />
+                {val}
               </label>
             ))}
           </div>
