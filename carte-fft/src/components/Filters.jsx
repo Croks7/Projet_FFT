@@ -32,9 +32,18 @@ export default function Filters({ filters, setFilters, regions }) {
   const update = (key, value) => setFilters(f => ({ ...f, [key]: value }))
 
   const toggleClassement = (val) => {
+    const idx = ALL_CLASSEMENTS.indexOf(val)
+    const worst = ALL_CLASSEMENTS.slice(idx) // val + tous les moins bons
     const current = filters.classement_sbn || []
-    const next = current.includes(val) ? current.filter(v => v !== val) : [...current, val]
-    update('classement_sbn', next)
+    const isSelected = current.includes(val)
+    if (isSelected) {
+      // Décocher val et tous les moins bons
+      update('classement_sbn', current.filter(v => !worst.includes(v)))
+    } else {
+      // Cocher val et tous les moins bons
+      const next = [...new Set([...current, ...worst])]
+      update('classement_sbn', next)
+    }
   }
 
   const toggleAmenagement = (tag) => {
