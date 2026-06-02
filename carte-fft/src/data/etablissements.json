@@ -2757,17 +2757,19 @@
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en droit"
   },
   {
-    "id": 73,
     "type": "universite",
     "nom": "Université de la Nouvelle-Calédonie",
-    "nom_complet": "Université de la Nouvelle-Calédonie",
     "region": "NCA",
     "referent": "Eric MICHALAK",
     "email": "eric.michalak@unc.nc",
     "telephone": "06 87 78 84 09",
-    "amenagements": "Plaquette Pôle Excellence Sport Universitaire Université de la Nouvelle-Calédonie\n\nContrat d'étude personnalise et adapté aux besoins de chaque étudiant\nTutorat individualisé\nAccès au logement étudiant\nAccompagnement à la recherche de stages et à la mobilité",
-    "lien": "https://unc.nc/pole-dexcellences-sport-universitaire-pesu/",
-    "club_proximite": "Pas de relation avec un club de proximité",
+    "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
+    "criteres_sbn": "Statut SBN : Non déterminé",
+    "classement_sbn": "Non déterminé",
+    "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Tutorat individualisé"
+    ],
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -2777,20 +2779,16 @@
       "Sciences",
       "STAPS"
     ],
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "club_proximite": "Pas de relation avec un club de proximité",
+    "lien": "https://unc.nc/pole-dexcellences-sport-universitaire-pesu/",
+    "lien_doc": [],
     "distanciel": false,
     "lat": -22.2633801,
     "lng": 166.402645,
-    "lien_doc": [
-      "https://www.unc.nc/wp-content/uploads/2025/02/BAT-V5-Plaquette-3-volets-PESU-UNC.pdf"
-    ],
-    "amenagement_tags": [
-      "Aménagement d’horaires/Dispense d’assiduité",
-      "Tutorat individualisé"
-    ],
-    "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
-    "criteres_sbn": "Statut SBN : Non déterminé",
-    "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "id": 73,
+    "nom_complet": "Université de la Nouvelle-Calédonie",
+    "amenagements": "Plaquette Pôle Excellence Sport Universitaire Université de la Nouvelle-Calédonie\n\nContrat d'étude personnalise et adapté aux besoins de chaque étudiant\nTutorat individualisé\nAccès au logement étudiant\nAccompagnement à la recherche de stages et à la mobilité"
   },
   {
     "id": 1000,
