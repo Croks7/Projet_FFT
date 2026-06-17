@@ -8,7 +8,7 @@
     "telephone": "06 71 41 60 07",
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Niveau national dans leur activité sportive. Être classé à minima 0",
-    "classement_sbn": "0",
+    "classement_sbn": "-2/6",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
       "Aménagement des examens",
@@ -27,6 +27,7 @@
       "STAPS",
       "BUT"
     ],
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de relation avec un club de proximité (nombre d'étudiants SHN trop faible)",
     "lien": "https://www.univ-st-etienne.fr/fr/suaps/sportifs-de-haut-niveau.html",
     "lien_doc": [
@@ -37,8 +38,7 @@
     "lng": 4.4257212,
     "id": 0,
     "nom_complet": "Université Jean Monnet Saint-Étienne",
-    "amenagements": "Guide du sportif étudiant AURA 2025\n\nDispense d'assiduité sur certaines matières\nAutorisation d'absence aux cours pour contraintes sportives\nPossibilité de tutorat individualisé par un étudiant\nPossibilité de rattrapage des examens\nReconnaissance des compétences de sportif de haut niveau dans le cursus (option sport de 0,4 point par semestre)",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "amenagements": "Guide du sportif étudiant AURA 2025\n\nDispense d'assiduité sur certaines matières\nAutorisation d'absence aux cours pour contraintes sportives\nPossibilité de tutorat individualisé par un étudiant\nPossibilité de rattrapage des examens\nReconnaissance des compétences de sportif de haut niveau dans le cursus (option sport de 0,4 point par semestre)"
   },
   {
     "id": 1,
