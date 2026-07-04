@@ -24,6 +24,7 @@ const EMPTY = {
   classement_sbn: '',
   criteres: '',
   amenagement_tags: [],
+  amenagements: '',
   filieres: [],
   formations_concernees: '',
   formation: '',
@@ -197,6 +198,10 @@ function EtabForm({ etab, onSave, onCancel }) {
               </label>
             ))}
           </div>
+          <label style={{ marginTop: 12 }}>
+            Description détaillée des aménagements
+            <textarea rows={6} value={form.amenagements || ''} onChange={e => set('amenagements', e.target.value)} placeholder="Décrivez les aménagements proposés ligne par ligne..." />
+          </label>
         </fieldset>
 
         {/* ── Filières (universités uniquement) ── */}
