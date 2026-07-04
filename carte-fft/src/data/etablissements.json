@@ -448,7 +448,7 @@
     "email": "erwann.tortuyaux@univ-ubs.fr",
     "telephone": "02 97 01 02 12 - 06 62 82 77 64",
     "criteres_shn": "Statut SHN : Les étudiants reconnus Sportifs de Haut Niveau dans les catégories Espoir, Jeune, Senior, Élite ou Reconversion",
-    "criteres_sbn": "Statut SBN : Être classé à minima 4/6. Les étudiants doivent justifier d’un niveau national (participation aux championnats de France universitaire ou championnats interrégionaux en fédéral). Pour obtenir ce statut, l'étudiant doit avoir un niveau de pratique sportive élevée impliquant des contraintes d'entraînement et de compétition de nature à porter atteinte au bon déroulement des études",
+    "criteres_sbn": "Statut SBN : Être classé à minima 4/6. Les étudiants doivent justifier d’un niveau national (participation aux championnats de France universitaire ou championnats interrégionaux en fédéral). Pour obtenir ce statut, l’étudiant doit avoir un niveau de pratique sportive élevée impliquant des contraintes d’entraînement et de compétition de nature à porter atteinte au bon déroulement des études",
     "classement_sbn": "4/6",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
@@ -479,7 +479,7 @@
     "lng": -3.3844049,
     "id": 11,
     "nom_complet": "Université Bretagne Sud (Lorient)",
-    "amenagements": ""
+    "amenagements": "Aménagement des emplois du temps\nChoix des groupes de TD ou de TP ou changement de groupe en cas de convocation à un stage, à une compétition ou à un entraînement\nToute participation à un événement sportif (stage, compétition, entraînement), donne lieu à un justificatif d'absence aux enseignements, stages ou autres obligations pédagogiques\nPour les SHN, dispense d'assiduité possible au semestre ou à l'année\nÉtalement du cursus\nAménagement des examens (possibilité de les déplacer, sauf les examens terminaux)"
   },
   {
     "type": "universite",
@@ -637,7 +637,7 @@
     "referent": "Claire FONTANA",
     "email": "fontana_c@univ-corse.fr",
     "telephone": "04 20 20 21 62 - 06 13 02 54 67",
-    "amenagements": "",
+    "amenagements": "Adaptation au cas par cas au plus près des exigences du sportif\nEmploi du temps adapté aux contraintes sportives\nChoix prioritaire pour les groupes pédagogiques de TD et TP\nStatut particulier permettant la dispense de TD, voire de TP\nTutorat ou enseignement de soutien par étudiant\nAménagement des examens\nÉtalement du cursus",
     "lien": "https://fst.universita.corsica/article.php?id_art=2376&id_rub=831&id_site=29&lang=fr",
     "club_proximite": "Accès aux installations universitaires\n\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -1129,7 +1129,7 @@
     "referent": "Regis FRENOIS",
     "email": "regis.frenois@cyu.fr",
     "telephone": "06 67 85 36 25\n01 34 25 61 94",
-    "amenagements": "",
+    "amenagements": "Aménagement de l'emploi du temps\nDispense d'assiduité\nChoix du groupe de TD et TP\nÉtalement du cursus\nAménagement des examens",
     "lien": "https://www.cyu.fr/campus/campus-sportif/vous-etes-sportif-de-haut-niveau",
     "club_proximite": "Accès à la salle de musculation du centre sportif des Chênes\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -1702,7 +1702,7 @@
     "referent": "Emmanuel VILLARET",
     "email": "emmanuel.villaret@uvsq.fr",
     "telephone": "06 77 37 45 78",
-    "amenagements": "",
+    "amenagements": "Organisation spécifique de l'emploi du temps\nChoix des groupes TD et TP\nAutorisation d'absence \nCours à distance ou sur espaces numériques\nAménagement/allègement de la durée des cursus : année de césure, validation d’une année en 2 ans\nEvaluation en contrôle continu\nModification du calendrier des examens",
     "lien": "https://www.uvsq.fr/le-sport-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -1826,7 +1826,7 @@
     "referent": "Guenaelle DUBOC",
     "email": "suaps@univ-lehavre.fr",
     "telephone": "06 82 14 46 80",
-    "amenagements": "",
+    "amenagements": "Aménagements d’emploi du temps\nAménagements d’études (étalement du cursus)\nAménagement des examens\nChangement de groupe de TD et TP\nAutorisations d’absences\nHeures de tutorat dédiées",
     "lien": "https://www.univ-lehavre.fr/fr/vie-de-campus/vie-sportive/soutien-aux-sportifs-de-haut-et-bon-niveau/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -1927,7 +1927,7 @@
     "referent": "Bénoît CHASSAING",
     "email": "suapse@univ-lr.fr",
     "telephone": "05 46 45 18 94",
-    "amenagements": "",
+    "amenagements": "Allongement du cursus (si inscription sur les listes ministérielle)\nAménagement des horaires de TP et/ou de TD\nAménagement du calendrier des examens\nSoutien et tutorat\nSuivi médical prioritaire",
     "lien": "https://www.univ-larochelle.fr/vie-etudiante/sport/sport-de-haut-niveau/",
     "club_proximite": "Accès aux installations sportives du SUAPS\n\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -2422,7 +2422,7 @@
     "referent": "Eric MARIZY",
     "email": "eric.marizy@univ-avignon.fr",
     "telephone": "07 86 03 77 95\n04 90 16 29 00",
-    "amenagements": "",
+    "amenagements": "Aménagement d’horaires/Dispense d’assiduité\nAménagement des examens\nChoix des groupes de TD/TP\nÉtalement du cursus\nAccès aux installations sportives universitaires",
     "lien": "https://univ-avignon.fr/campus/sportif-de-haut-niveau/",
     "club_proximite": "Mise à disposition des sportifs d'un conseiller bien-être et alimentation, psychologue, diététicien et réathlétisation\n\nAccès aux infrastructures sportives de l'université\n\nPas de relation avec un club de proximité",
     "filieres": [

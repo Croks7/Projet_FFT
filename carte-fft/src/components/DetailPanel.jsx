@@ -110,6 +110,7 @@ export default function DetailPanel({ etablissement: e, onClose }) {
               <span key={tag} className="filiere-tag">{tag}</span>
             ))}
           </div>
+          {e.amenagements && <MultilineText text={e.amenagements} />}
         </Section>
 
         <Section title="Relation avec un club de proximité">
