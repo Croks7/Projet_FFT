@@ -1522,17 +1522,24 @@
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
-    "id": 41,
     "type": "universite",
     "nom": "Université Paris Cité",
-    "nom_complet": "Université Paris Cité",
     "region": "IDF",
     "referent": "Christophe PARADINAS",
     "email": "christophe.paradinas@u-paris.fr",
     "telephone": "/",
+    "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
+    "criteres_sbn": "Statut SBN : Être classé à minima 1/6",
+    "classement_sbn": "1/6",
+    "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
+    ],
     "amenagements": "Charte SHN Université Paris Cité\n\nSHN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport et complète en fonction des UFR\nChoix des groupes de TD\nChoix du contrôle des examens (continu, mixte ou terminal)\nPossibilité de session d’examens dérogatoire en plus de la session de seconde chance\nValidation d’acquis pour des UE transverses\nValidation d’UE proposées par des structures sportives officielles\nAide aux devoirs avec Tuteurs Preneurs de notes\n\nSBN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport\nChoix des groupes de TD",
-    "lien": "https://u-pariscite.fr/sport/sportif-de-haut-niveau/",
-    "club_proximite": "Pas de collaboration avec un club de proximité\nLes étudiants qui ont choisi la spécialité tennis dispose de TD et des TP en tennis à hauteur de 4h/semaine",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1547,25 +1554,19 @@
       "STAPS",
       "BUT"
     ],
-    "distanciel": false,
-    "lat": 48.8514684,
-    "lng": 2.341089,
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "club_proximite": "Pas de collaboration avec un club de proximité\nLes étudiants qui ont choisi la spécialité tennis dispose de TD et des TP en tennis à hauteur de 4h/semaine",
+    "lien": "https://u-pariscite.fr/sport/sportif-de-haut-niveau/",
     "lien_doc": [
+      "https://drive.google.com/file/d/15YD-3_fGd1krKEN2ubXfyzu7LXfsGGkR/view",
       "https://docs.google.com/document/d/1Zftb1jMR2vjcKGdXfbDu0mQ4p2AdiRej/edit?usp=sharing&ouid=100579976006583483622&rtpof=true&sd=true",
       "https://drive.google.com/file/d/15YD-3_fGd1krKEN2ubXfyzu7LXfsGGkR/view?usp=sharing"
     ],
-    "amenagement_tags": [
-      "Aménagement d’horaires/Dispense d’assiduité",
-      "Aménagement des examens",
-      "Choix des groupes de TD/TP",
-      "Étalement du cursus",
-      "Tutorat individualisé",
-      "Accès aux installations sportives universitaires"
-    ],
-    "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
-    "criteres_sbn": "Statut SBN : Être classé à minima 1/6",
-    "classement_sbn": "1/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "distanciel": false,
+    "lat": 48.8514684,
+    "lng": 2.341089,
+    "id": 41,
+    "nom_complet": "Université Paris Cité"
   },
   {
     "id": 42,
