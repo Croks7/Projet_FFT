@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import initialData from '../data/etablissements.json'
+import initialConfig from '../data/config.json'
 import { REGIONS } from '../App'
 import { ALL_AMENAGEMENTS } from '../components/Filters'
 import '../admin.css'
@@ -298,8 +299,9 @@ export default function AdminPage() {
   const [authError, setAuthError] = useState('')
 
   const [data, setData] = useState([...initialData])
+  const [config, setConfig] = useState({ ...initialConfig })
   const [hasChanges, setHasChanges] = useState(false)
-  const [editing, setEditing] = useState(null) // null = list, 'new' = new, object = edit
+  const [editing, setEditing] = useState(null) // null = list, 'new' = new, object = edit, 'bandeau' = bandeau
 
   const [search, setSearch] = useState('')
   const [typeFilter, setTypeFilter] = useState('')
@@ -326,7 +328,7 @@ export default function AdminPage() {
       const res = await fetch('/api/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ password, data }),
+        body: JSON.stringify({ password, data, config }),
       })
       const json = await res.json()
       if (!res.ok) throw new Error(json.error)
@@ -376,6 +378,47 @@ export default function AdminPage() {
             />
             {authError && <p className="admin-error">{authError}</p>}
             <button type="submit">Se connecter</button>
+          </form>
+        </div>
+      </div>
+    )
+  }
+
+  // ── Bandeau form ──
+  if (editing === 'bandeau') {
+    return (
+      <div className="admin-page">
+        <div className="admin-page-inner">
+          <form className="admin-form" onSubmit={e => { e.preventDefault(); setEditing(null) }}>
+            <div className="admin-form-header">
+              <button type="button" className="admin-btn-back" onClick={() => setEditing(null)}>← Retour</button>
+              <h2>Modifier le bandeau du site</h2>
+            </div>
+            <div className="admin-form-body">
+              <fieldset>
+                <legend>Bandeau bleu</legend>
+                <label>
+                  Titre
+                  <input
+                    value={config.bandeau_titre}
+                    onChange={e => { setConfig(c => ({ ...c, bandeau_titre: e.target.value })); setHasChanges(true) }}
+                    placeholder="Titre affiché dans le bandeau..."
+                  />
+                </label>
+                <label>
+                  Description
+                  <textarea
+                    rows={4}
+                    value={config.bandeau_description}
+                    onChange={e => { setConfig(c => ({ ...c, bandeau_description: e.target.value })); setHasChanges(true) }}
+                    placeholder="Texte de description affiché sous le titre..."
+                  />
+                </label>
+              </fieldset>
+            </div>
+            <div className="admin-form-footer">
+              <button type="submit" className="admin-btn-primary">Valider</button>
+            </div>
           </form>
         </div>
       </div>
@@ -442,6 +485,7 @@ export default function AdminPage() {
             <option value="universite">Universités</option>
             <option value="ecole_commerce">Écoles de commerce</option>
           </select>
+          <button className="admin-btn-secondary" onClick={() => setEditing('bandeau')}>Modifier le bandeau</button>
           <button className="admin-btn-primary" onClick={() => setEditing('new')}>+ Ajouter</button>
         </div>
 

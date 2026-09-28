@@ -4,6 +4,7 @@ import Filters from './components/Filters'
 import DetailPanel from './components/DetailPanel'
 import EtablissementList from './components/EtablissementList'
 import etablissements from './data/etablissements.json'
+import siteConfig from './data/config.json'
 import './App.css'
 
 export const REGIONS = {
@@ -60,11 +61,8 @@ export default function App() {
         <header className="hero">
           <div className="hero-inner">
             <div className="hero-content">
-              <p className="hero-description">
-                Outil mis à disposition par la Fédération Française de Tennis pour accompagner
-                ses meilleurs sportifs dans leur double projet sportif et académique.
-              </p>
-              <h1>Trouver des formations pour Sportif de Haut Niveau (SHN) et pour Sportif de Bon Niveau (SBN)</h1>
+              <p className="hero-description">{siteConfig.bandeau_description}</p>
+              <h1>{siteConfig.bandeau_titre}</h1>
             </div>
             <img src="/logo-fft.png" className="hero-logo" alt="FFT" />
           </div>
