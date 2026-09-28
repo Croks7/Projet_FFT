@@ -414,35 +414,48 @@ export default function AdminPage() {
                     placeholder="Texte de description affiché sous le titre..."
                   />
                 </label>
-                <div className="admin-grid-2">
-                  <label>
-                    Couleur du bandeau
-                    <div className="admin-color-row">
-                      <input
-                        type="color"
-                        value={config.bandeau_couleur || '#003f8a'}
-                        onChange={e => { setConfig(c => ({ ...c, bandeau_couleur: e.target.value })); setHasChanges(true) }}
-                      />
-                      <input
-                        type="text"
-                        value={config.bandeau_couleur || '#003f8a'}
-                        onChange={e => { setConfig(c => ({ ...c, bandeau_couleur: e.target.value })); setHasChanges(true) }}
-                        placeholder="#003f8a"
-                      />
-                    </div>
-                  </label>
-                  <label>
-                    URL du logo
+                <label>
+                  Couleur du bandeau
+                  <div className="admin-color-row">
                     <input
-                      value={config.bandeau_logo_url || ''}
-                      onChange={e => { setConfig(c => ({ ...c, bandeau_logo_url: e.target.value })); setHasChanges(true) }}
-                      placeholder="/logo-fft.png ou https://..."
+                      type="color"
+                      value={config.bandeau_couleur || '#003f8a'}
+                      onChange={e => { setConfig(c => ({ ...c, bandeau_couleur: e.target.value })); setHasChanges(true) }}
                     />
+                    <input
+                      type="text"
+                      value={config.bandeau_couleur || '#003f8a'}
+                      onChange={e => { setConfig(c => ({ ...c, bandeau_couleur: e.target.value })); setHasChanges(true) }}
+                      placeholder="#003f8a"
+                    />
+                  </div>
+                </label>
+                <label>
+                  Logo
+                  <div className="admin-logo-upload-row">
                     {config.bandeau_logo_url && (
-                      <img src={config.bandeau_logo_url} alt="Aperçu logo" className="admin-logo-preview" />
+                      <img src={config.bandeau_logo_url} alt="Logo actuel" className="admin-logo-preview" />
                     )}
-                  </label>
-                </div>
+                    <label className="admin-btn-upload">
+                      Choisir une image
+                      <input
+                        type="file"
+                        accept="image/*"
+                        style={{ display: 'none' }}
+                        onChange={e => {
+                          const file = e.target.files[0]
+                          if (!file) return
+                          const reader = new FileReader()
+                          reader.onload = ev => {
+                            setConfig(c => ({ ...c, bandeau_logo_url: ev.target.result }))
+                            setHasChanges(true)
+                          }
+                          reader.readAsDataURL(file)
+                        }}
+                      />
+                    </label>
+                  </div>
+                </label>
                 <div className="admin-bandeau-preview" style={{ background: config.bandeau_couleur || '#003f8a' }}>
                   <div className="admin-bandeau-preview-content">
                     <p>{config.bandeau_description}</p>
