@@ -304,7 +304,8 @@
 .admin-bandeau-preview-content p {
   font-size: 11px;
   opacity: 0.85;
-  margin: 0 0 4px;
+  margin: 4px 0 0;
+  line-height: 1.2;
 }
 .admin-bandeau-preview-content strong {
   font-size: 13px;

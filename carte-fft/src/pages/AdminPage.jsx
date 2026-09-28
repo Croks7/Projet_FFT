@@ -458,8 +458,8 @@ export default function AdminPage() {
                 </label>
                 <div className="admin-bandeau-preview" style={{ background: config.bandeau_couleur || '#003f8a' }}>
                   <div className="admin-bandeau-preview-content">
-                    <p>{config.bandeau_description}</p>
                     <strong>{config.bandeau_titre}</strong>
+                    <p>{config.bandeau_description}</p>
                   </div>
                   {config.bandeau_logo_url && (
                     <img src={config.bandeau_logo_url} alt="logo" className="admin-bandeau-preview-logo" />
