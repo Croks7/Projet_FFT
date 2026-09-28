@@ -24,8 +24,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de relation avec un club de proximité (nombre d'étudiants SHN trop faible)",
@@ -38,7 +37,7 @@
     "lng": 4.4257212,
     "id": 0,
     "nom_complet": "Université Jean Monnet Saint-Étienne",
-    "amenagements": "Guide du sportif étudiant AURA 2025\n\nDispense d'assiduité sur certaines matières\nAutorisation d'absence aux cours pour contraintes sportives\nPossibilité de tutorat individualisé par un étudiant\nPossibilité de rattrapage des examens\nReconnaissance des compétences de sportif de haut niveau dans le cursus (option sport de 0,4 point par semestre)"
+    "amenagements": "Dispense d'assiduité sur certaines matières\nAutorisation d'absence aux cours pour contraintes sportives\nPossibilité de tutorat individualisé par un étudiant\nPossibilité de rattrapage des examens\nReconnaissance des compétences de sportif de haut niveau dans le cursus (option sport de 0,4 point par semestre)"
   },
   {
     "id": 1,
@@ -49,7 +48,7 @@
     "referent": "Philippe GIROUD",
     "email": "philippe.giroud@univ-grenoble-alpes.fr",
     "telephone": "04 76 63 50 64",
-    "amenagements": "Charte SHN UGA\n\nAménagements scolaires\nÉtalement des études\nChoix prioritaires des groupes de TD et TP\nSoutien pédagogique\nAutorisation d'absences\nConservation de notes\nSessions spéciales d'examens\nAide à l'orientation et à l'insertion professionnelle\nFormations en distanciel",
+    "amenagements": "Aménagements scolaires\nÉtalement des études\nChoix prioritaires des groupes de TD et TP\nSoutien pédagogique\nAutorisation d'absences\nConservation de notes\nSessions spéciales d'examens\nAide à l'orientation et à l'insertion professionnelle\nFormations en distanciel",
     "lien": "https://www.univ-grenoble-alpes.fr/formation/modalites-de-formation/amenagement-d-etudes-pour-les-etudiants-a-besoins-specifiques/vous-etes-sportif-de-haut-niveau/le-statut-d-etudiant-sportif-de-haut-niveau-578279.kjsp?RH=1571925719902",
     "club_proximite": "Relation avec le Grenoble Université Club (GUC). Les étudiants intégrant les équipes universitaires ont un accès aux infrastructures. 4h d'entrainement/semaine sont proposés et pour ceux qui le souhaitent, ils peuvent aller au GUC s'entraîner davantage.",
     "filieres": [
@@ -63,8 +62,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": true,
     "lat": 45.1915609,
@@ -83,7 +81,7 @@
       "Collaboration avec un club de proximité"
     ],
     "criteres_shn": "Statut SHN : Listé Ministériels, sportifs Espoirs et Collectifs Nationaux, sportifs membres d’une structure labélisée du Projet de Performance Fédéral de leur fédération",
-    "criteres_sbn": "Statut SBN : Être classé à minima 0 ou être en seconde série négative. Admission possible aux SBN sur justification du niveau sportif et des contraintes d'entraînement ou de compétition (classement ou niveau attesté par la Fédération, attestation du club ou de l'entraîner précisant la charge d'entraînement et les compétitions prévues, courte lettre de motivation pour expliquer la démarche du double projet",
+    "criteres_sbn": "Statut SBN : Être classé à minima 0 ou être en seconde série négative. Admission possible aux SBN sur justification du niveau sportif et des contraintes d'entraînement ou de compétition (classement ou niveau attesté par la Fédération, attestation du club ou de l'entraîneur précisant la charge d'entraînement et les compétitions prévues, courte lettre de motivation pour expliquer la démarche du double projet",
     "classement_sbn": "0",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
@@ -117,7 +115,7 @@
     "lng": 4.8759894,
     "id": 2,
     "nom_complet": "INSA Lyon",
-    "amenagements": "Aménagements d’horaires\nDispense d’assiduité ponctuelle\nÉtalement du cursus\nExamens en distanciel sous conditions\nTutorat individualisé\n\nToutes les filières de l'INSA Lyon sont concernées par ces aménagements"
+    "amenagements": "Aménagements d’horaires\nDispense d’assiduité ponctuelle\nÉtalement du cursus\nExamens en distanciel sous conditions\nTutorat individualisé"
   },
   {
     "id": 3,
@@ -128,7 +126,7 @@
     "referent": "Sébastien MEYER",
     "email": "shn.staps@univ-lyon1.fr",
     "telephone": "07 85 96 66 48",
-    "amenagements": "Aménagements d’horaires possibles\nAutorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)\nDispense d'assiduité\nÉtalement d’une année en 2 ans ou d’une licence en 4 ans\nSessions aménagées pour les examens\nTutorat individualisé\n\nToutes les formations sont concernées par ces aménagements",
+    "amenagements": "Aménagements d’horaires possibles\nAutorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)\nDispense d'assiduité\nÉtalement d’une année en 2 ans ou d’une licence en 4 ans\nSessions aménagées pour les examens\nTutorat individualisé",
     "lien": "https://suaps.univ-lyon1.fr/inscriptions-pratique/haut-niveau?",
     "club_proximite": "L'université a signé la déclisaison régionale de la convention C3D STAPS avec la Ligue ARA. Accès aux infrastructures de l'université\n\nPas de relation avec un club de proximité",
     "filieres": [
@@ -136,8 +134,7 @@
       "Maths-Informatique",
       "Médecine",
       "Sciences",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 45.7816645,
@@ -166,7 +163,7 @@
     "referent": "Norbert MEYSSIREL",
     "email": "norbert.meyssirel@univ-lyon2.fr",
     "telephone": "06 08 98 74 19",
-    "amenagements": "Charte SHN Université Lumière Lyon 2\n\nAménagements des emplois du temps et dispense d’assiduité totale ou partielle si un aménagement n’est pas possible\nOrganisation spécifique de l’emploi du temps en prenant en compte les contraintes liées aux activités sportives (entrainements, compétitions et déplacements) et priorité dans le choix des groupes de travaux dirigés (TD)\nDispense d’assiduité pour les cours\nMise en place de preneur/euses de notes\nChoix du mode de contrôle des connaissances : continu, terminal",
+    "amenagements": "Aménagements des emplois du temps et dispense d’assiduité totale ou partielle si un aménagement n’est pas possible\nOrganisation spécifique de l’emploi du temps en prenant en compte les contraintes liées aux activités sportives (entrainements, compétitions et déplacements) et priorité dans le choix des groupes de travaux dirigés (TD)\nDispense d’assiduité pour les cours\nMise en place de preneur/euse de notes\nChoix du mode de contrôle des connaissances : continu, terminal",
     "lien": "https://www.univ-lyon2.fr/formation/dispositifs-d-accompagnement/shn",
     "club_proximite": "Utilisation de la salle de musculation\n\nPas de relation avec un club de proximité",
     "filieres": [
@@ -176,8 +173,7 @@
       "Histoire-Géographie",
       "Maths-Informatique",
       "Sciences Humaines",
-      "Sciences Politiques",
-      "BUT"
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 45.7206314,
@@ -206,7 +202,7 @@
     "referent": "Alexandre MILLOT",
     "email": "alexandre.millot@univ-lyon3.fr",
     "telephone": "04 78 78 77 31\n04 78 78 78 50\n04 78 78 70 40",
-    "amenagements": "Possibilité de changement de groupe de TD\nAbsence justifiée en TD en cas de compétition, stage ou autre\nPossibilité d'être dispensé d'assiduité sur certains TD\nPossibilité de bénéficier du dispositif de la mineure SHN (en licence) qui permet de libérer du temps en enlevant toutes les matières mineures (pas de cours ni d'examens)\nPossibilité de passer des épreuves de remplacement si absence à un examen\n\nToutes les formations dispensées à l'Université Lyon 3 sont concernées par ces aménagements",
+    "amenagements": "Possibilité de changement de groupe de TD\nAbsence justifiée en TD en cas de compétition, stage ou autre\nPossibilité d'être dispensé d'assiduité sur certains TD\nPossibilité de bénéficier du dispositif de la mineure SHN (en licence) qui permet de libérer du temps en enlevant toutes les matières mineures (pas de cours ni d'examens)\nPossibilité de passer des épreuves de remplacement si absence à un examen",
     "lien": "https://www.univ-lyon3.fr/sport-de-haut-niveau?",
     "club_proximite": "Accès à la salle de musculation de l'université sur des créneaux réservés aux SHN\nMise à disposition d'un créneau de 2h dans la semaine sur les installations universitaires ouvert aux étudiants engagés dans les Championnats de France Universitaires (classés 4/6 et mieux)\n\nPas de relation avec un club de proximité",
     "filieres": [
@@ -216,8 +212,7 @@
       "Histoire-Géographie",
       "Maths-Informatique",
       "Sciences Humaines",
-      "Sciences Politiques",
-      "BUT"
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 45.7551,
@@ -242,7 +237,7 @@
     "referent": "Gullaume RAMEIL",
     "email": "referent-shn-artiste@univ-catholyon.fr",
     "telephone": "06 18 48 82 96",
-    "amenagements": "Procédure SHN Université Catholique de Lyon (UCLY)\n\nTutorat étudiant\nAdaptation du temps de formation : Autorisation d'absence, changement de groupe de TD ou TP\nÉtalement du cursus\nOrganisation de sessions ou de modalités particulières d'examen (écrit, oral ou à distance), étalement sur plusieurs session ou dispenses d'épreuves\nDispense d'un enseignement\nPour les sportifs Elite, Sénior et Relève : Prêt d'un ordinateur portable\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Tutorat étudiant\nAdaptation du temps de formation : Autorisation d'absence, changement de groupe de TD ou TP\nÉtalement du cursus\nOrganisation de sessions ou de modalités particulières d'examen (écrit, oral ou à distance), étalement sur plusieurs session ou dispenses d'épreuves\nDispense d'un enseignement\nPour les sportifs Elite, Sénior et Relève : Prêt d'un ordinateur portable",
     "lien": "https://www.ucly.fr/vie-etudiante/services-aux-etudiants/sportifs-de-haut-niveau-et-artistes/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -281,7 +276,7 @@
     "referent": "Laura LASSAIGNE",
     "email": "laura.lassaigne@uca.fr",
     "telephone": "04 73 40 51 44",
-    "amenagements": "Aménagement du parcours de formation en fonction des contraintes d'entrainement et de compétition\nDes heures de soutien et de tutorat étudiant individualisé\nOrganisation spécifique de l'emploi du temps (prise en compte des contraintes liées aux entrainements, stages et compétitions) et priorité dans le choix des groupes des travaux pratiques et des travaux dirigés\nPossibilité de dispense d’assiduité pour les sportifs « listés » à condition de justifier d’un entraînement, compétition, stage, sélection\nAménagement des examens (modalités de contrôle des connaissances, adaptation du calendrier des examens)\nÉtalement de la durée des cursus\n\nToutes les formations de l'université sont concernées",
+    "amenagements": "Aménagement du parcours de formation en fonction des contraintes d'entrainement et de compétition\nDes heures de soutien et de tutorat étudiant individualisé\nOrganisation spécifique de l'emploi du temps (prise en compte des contraintes liées aux entrainements, stages et compétitions) et priorité dans le choix des groupes des travaux pratiques et des travaux dirigés\nPossibilité de dispense d’assiduité pour les sportifs « listés » à condition de justifier d’un entraînement, compétition, stage, sélection\nAménagement des examens (modalités de contrôle des connaissances, adaptation du calendrier des examens)\nÉtalement de la durée des cursus",
     "lien": "https://sport.uca.fr/dispositif-shbn",
     "club_proximite": "Pas de collaboration avec un club mais l'université est en lien avec les entraineurs de l'ASM et du Stade Clermontois.\n\nLes étudiants ont un accès aux installations de l'université avec des créneaux réservés pour les joueurs et joueuses universitaires\n\nPour bénéficier de ces avantages, il faut participer aux Championnats de France universitaires",
     "filieres": [
@@ -294,8 +289,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 45.7719719,
@@ -317,8 +311,8 @@
     "type": "universite",
     "nom": "Université de Savoie Mont Blanc",
     "region": "ARA",
-    "referent": "Yannick DUBY",
-    "email": "yannick.duby@univ-smb.fr",
+    "referent": "Jean-Baptiste EVROT",
+    "email": "jean-baptiste.evrot@univ-smb.fr",
     "telephone": "04 79 75 81 81",
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Accordé si le sportif fait partie des meilleurs sportifs nationaux de sa catégorie (être classé à minima 0 ou être en seconde série négative)",
@@ -341,8 +335,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Accès aux équipements sportifs du campus\n\nL'université fonctionne prioritairement avec le tennis club d'Annecy Le Vieux et peut être en lien avec le tennis club d'Annecy ou de Pringy.\nIl y a une convention avec le tennis club de Pringy pour la mise en place de séance de tennis le jeudi après-midi dans le cadre du service des sports. Accès également à la salle de musculation de l'université pour les SHN.",
@@ -355,7 +348,7 @@
     "lng": 5.9112,
     "id": 8,
     "nom_complet": "Université de Savoie Mont Blanc",
-    "amenagements": "Contrat SHN Université de Savoie Mont-Blanc\n\nTutorat enseignant\nEtalement du cursus\nAménagements des sessions d’examens\nSoutien enseignant (dans la limite de 10h/ semestre)\nPrise de note étudiant/Tutorat étudiant\nDispense d’assiduité\nAutorisation de changement de groupe de TP/TD"
+    "amenagements": "Tutorat enseignant\nEtalement du cursus\nAménagements des sessions d’examens\nSoutien enseignant (dans la limite de 10h/ semestre)\nPrise de note étudiant/Tutorat étudiant\nDispense d’assiduité\nAutorisation de changement de groupe de TP/TD"
   },
   {
     "id": 9,
@@ -366,7 +359,7 @@
     "referent": "François OUSSET",
     "email": "francois.ousset@u-bourgogne.fr",
     "telephone": "06 62 03 01 13",
-    "amenagements": "Étalement du cursus\nAménagements d’emploi du temps (priorisation des créneaux compatibles avec l’entraînement)\nDispenses d’assiduité justifiées\nAutorisation d’absence lors des compétitions, stages, convocations fédérales\nExamens décalés / sessions de rattrapage adaptées\nPossibilité d’examens à distance selon les contraintes sportives\nTutorat individualisé ou cours de soutien\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Étalement du cursus\nAménagements d’emploi du temps (priorisation des créneaux compatibles avec l’entraînement)\nDispenses d’assiduité justifiées\nAutorisation d’absence lors des compétitions, stages, convocations fédérales\nExamens décalés / sessions de rattrapage adaptées\nPossibilité d’examens à distance selon les contraintes sportives\nTutorat individualisé ou cours de soutien",
     "lien": "https://ufr-staps.ube.fr/accueil-des-sportifs-de-haut-niveau-a-lufr-staps?",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -380,8 +373,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": true,
     "lat": 47.3133052,
@@ -406,7 +398,7 @@
     "referent": "Stéphane FERAL",
     "email": "stephane.feral@univ-fcomte.fr",
     "telephone": "/",
-    "amenagements": "Charte SHN Université de Franche-Comté\n\nAménagement du cycle de formation\nÉtalement de la durée des études\nAménagement de l’enseignement\nDispense d’assiduité\nAdaptation de la période de stage\nAménagement de l’emploi du temps\nTutorat individuel\nAménagement des Modalités de Contrôle des Connaissances et des Compétences (Les dates d’examens peuvent être aménagées en fonction du calendrier sportif prévisionnel fourni par le SHNU au début de chaque semestre, et il est possible de délocaliser tout ou partie des examens)\n\nToutes les formations que propose l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagement du cycle de formation\nÉtalement de la durée des études\nAménagement de l’enseignement\nDispense d’assiduité\nAdaptation de la période de stage\nAménagement de l’emploi du temps\nTutorat individuel\nAménagement des Modalités de Contrôle des Connaissances et des Compétences (Les dates d’examens peuvent être aménagées en fonction du calendrier sportif prévisionnel fourni par le SHNU au début de chaque semestre, et il est possible de délocaliser tout ou partie des examens)",
     "lien": "http://u-sports.umlp.fr/pages/fr/menu617/inscription-administrative/sportifs-de-haut-niveau-18666.html?",
     "club_proximite": "L'université propose des cours de tennis dans le cadre des pratiques du SUAPS (appelé Campus sport).\n\nLes sportifs peuvent également participer aux cours relatifs à la préparation physique en salle de musculation.",
     "filieres": [
@@ -419,8 +411,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 47.2360829,
@@ -448,13 +439,14 @@
     "email": "erwann.tortuyaux@univ-ubs.fr",
     "telephone": "02 97 01 02 12 - 06 62 82 77 64",
     "criteres_shn": "Statut SHN : Les étudiants reconnus Sportifs de Haut Niveau dans les catégories Espoir, Jeune, Senior, Élite ou Reconversion",
-    "criteres_sbn": "Statut SBN : Être classé à minima 4/6. Les étudiants doivent justifier d’un niveau national (participation aux championnats de France universitaire ou championnats interrégionaux en fédéral). Pour obtenir ce statut, l’étudiant doit avoir un niveau de pratique sportive élevée impliquant des contraintes d’entraînement et de compétition de nature à porter atteinte au bon déroulement des études",
+    "criteres_sbn": "Statut SBN : Être classé à minima 4/6. Les étudiants doivent justifier d’un niveau national (participation aux championnats de France universitaire ou championnats interrégionaux en fédéral). Pour obtenir ce statut, l'étudiant doit avoir un niveau de pratique sportive élevée impliquant des contraintes d'entraînement et de compétition de nature à porter atteinte au bon déroulement des études",
     "classement_sbn": "4/6",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
       "Aménagement des examens",
       "Choix des groupes de TD/TP",
       "Étalement du cursus",
+      "Tutorat individualisé",
       "Accès aux installations sportives universitaires"
     ],
     "filieres": [
@@ -467,8 +459,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Accès aux infrastructures de l'université (réservation de créneaux tennis) et accès à la salle de musculation\n\nPas de collaboration avec un club de proximité",
@@ -479,7 +470,7 @@
     "lng": -3.3844049,
     "id": 11,
     "nom_complet": "Université Bretagne Sud (Lorient)",
-    "amenagements": "Aménagement des emplois du temps\nChoix des groupes de TD ou de TP ou changement de groupe en cas de convocation à un stage, à une compétition ou à un entraînement\nToute participation à un événement sportif (stage, compétition, entraînement), donne lieu à un justificatif d'absence aux enseignements, stages ou autres obligations pédagogiques\nPour les SHN, dispense d'assiduité possible au semestre ou à l'année\nÉtalement du cursus\nAménagement des examens (possibilité de les déplacer, sauf les examens terminaux)"
+    "amenagements": "Aménagement des emplois du temps\nChoix des groupes de TD ou de TP ou changement de groupe en cas de convocation à un stage, à une compétition ou à un entraînement\nToute participation à un événement sportif (stage, compétition, entraînement), donne lieu à un justificatif d’absence aux enseignements, stages ou autres obligations pédagogiques\nPour les SHN, dispense d’assiduité possible au semestre ou à l’année\nÉtalement du cursus\nAménagement des examens (possibilité de les déplacer, sauf les examens terminaux)"
   },
   {
     "type": "universite",
@@ -489,7 +480,7 @@
     "email": "erwan.legac@univ-brest.fr",
     "telephone": "06 12 91 12 02",
     "criteres_shn": "Statut SHN : Les sportives et sportifs inscrits sur la liste ministérielle des sportifs de haut-niveau dans les catégories Élite, Sénior, Relève et Reconversion ; Les sportives et sportifs inscrits sur la liste des sportifs Espoirs et sur la liste des sportifs des Collectifs Nationaux ; Les sportives et sportifs ne figurant pas sur les listes ministérielles mais appartenant à des structures reconnues dans le Projet de Performance Fédéral de leur fédération",
-    "criteres_sbn": "Statut SBN : Être classé à minima 2/6 (voire 3/6)",
+    "criteres_sbn": "Statut SBN : Être classé à minima 2/6 et sous condition de validation du référent pédagogique",
     "classement_sbn": "2/6",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
@@ -507,8 +498,8 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "Sciences Politiques",
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements (sauf les aménagements d'examens pour les cursus santé)",
     "club_proximite": "Pas de collaboration avec un club de proximité",
@@ -519,7 +510,7 @@
     "lng": -4.5034647,
     "id": 12,
     "nom_complet": "Université Bretagne Occidentale (Brest)",
-    "amenagements": "Statut SHN :\nPriorité dans les choix d'horaires de groupe (TP) et (TD)\nProposition de dédoubler l'année\nPossibilité de bénéficier d'absences justifiées \nPosibilité d'aménagement sur les sessions d'examen\n\nStatut ESN : \nPriorité dans les choix d'horaire de groupe (TD) et (TP)\nPossibilité de bénéficier d'absences justifiées \nPossibilité d'aménagement sur les sessions d'examen\n\nToutes les formations que propose l'université sont concernées pas ces aménagements (sauf les aménagements d'examens pour les cursus santé)"
+    "amenagements": "SHN :\nPriorité dans les choix d'horaires de groupe (TP) et (TD)\nProposition de dédoubler l'année\nPossibilité de bénéficier d'absences justifiées\nPosibilité d'aménagement sur les sessions d'examen\n\nSBN : \nPriorité dans les choix d'horaire de groupe (TD) et (TP)\nPossibilité de bénéficier d'absences justifiées"
   },
   {
     "id": 13,
@@ -530,7 +521,7 @@
     "referent": "Adrien GUILLORET",
     "email": "adrien.guilloret@univ-rennes2.fr",
     "telephone": "/",
-    "amenagements": "Aménagements d'horaires \nDispense d'assiduité\nEtalement du cursus\nExamens en distanciel\nTutorats individualisés\nChoix des groupe de TD\n\nToutes les formations rattachées à l'université de Rennes et à l'université de Rennes 2 sont concernées",
+    "amenagements": "Aménagements d'horaires \nDispense d'assiduité\nEtalement du cursus\nExamens en distanciel\nTutorats individualisés\nChoix des groupe de TD",
     "lien": "https://siuaps.univ-rennes.fr/le-sport-de-haut-niveau",
     "club_proximite": "Collaboration avec la Ligue de Bretagne, utilisation de terrains au TC St Grégoire, location dans le club de Cesson-Sévigné (utilisation de créneaux pour la Section Sportive Universitaire de Rennes)\nAccès aux infrastructures sportives de l'université \"gratuitement\", une fois que la Contribution Vie Étudiante et Campus (CVEC) a été payée. Mise à disposition de 4 courts extérieurs, universitaires en béton poreux sur le campus de Beaulieu, avec également 2 entraîneurs disponibles qui assurent 4h d'entraînement par semaine.",
     "filieres": [
@@ -540,8 +531,7 @@
       "Maths-Informatique",
       "Médecine",
       "Sciences",
-      "Sciences Humaines",
-      "BUT"
+      "Sciences Humaines"
     ],
     "distanciel": true,
     "lat": 48.1193848,
@@ -569,7 +559,7 @@
     "referent": "Adrien GUILLORET",
     "email": "adrien.guilloret@univ-rennes2.fr",
     "telephone": "/",
-    "amenagements": "Aménagements d'horaires \nDispense d'assiduité\nEtalement du cursus\nExamens en distanciel\nTutorats individualisés\nChoix des groupe de TD\n\nToutes les formations rattachées à l'université de Rennes et à l'université de Rennes 2 sont concernées",
+    "amenagements": "Aménagements d'horaires \nDispense d'assiduité\nEtalement du cursus\nExamens en distanciel\nTutorats individualisés\nChoix des groupe de TD",
     "lien": "https://www.univ-rennes2.fr/formation/sportifs-haut-niveau",
     "club_proximite": "Collaboration avec la Ligue de Bretagne, utilisation de terrains au TC St Grégoire, location dans le club de Cesson-Sévigné (utilisation de créneaux pour la Section Sportive Universitaire de Rennes)\nAccès aux infrastructures sportives de l'université \"gratuitement\", une fois que la Contribution Vie Étudiante et Campus (CVEC) a été payée. Mise à disposition de 4 courts extérieurs, universitaires en béton poreux sur le campus de Beaulieu, avec également 2 entraîneurs disponibles qui assurent 4h d'entraînement par semaine.",
     "filieres": [
@@ -604,10 +594,12 @@
     "referent": "Gwenaelle MEHAUTE",
     "email": "gwenaelle.mehaute@sciencespo-rennes.fr",
     "telephone": "06 70 77 13 56",
-    "amenagements": "Convention Sportifs de Haut Niveau Sciences Po Rennes\n\nAménagement des études (autorisation d'absence, inscription ou changement temporaire ou définitif de groupe, adaptation des périodes et lieux de stage)\nAdaptation pédagogiques (organisation de sessions d'examens particulières)\nDédoublement des années de formation\nCésure possible en fonction des objectifs sportifs\nAménagement des modalités de contrôle de connaissance ou de soutenance\nTutorat individualisé par un autre étudiant\nAménagement du stage (congés et autorisations d'absences)",
+    "amenagements": "Aménagement des études (autorisation d'absence, inscription ou changement temporaire ou définitif de groupe, adaptation des périodes et lieux de stage)\nAdaptation pédagogiques (organisation de sessions d'examens particulières)\nDédoublement des années de formation\nCésure possible en fonction des objectifs sportifs\nAménagement des modalités de contrôle de connaissance ou de soutenance\nTutorat individualisé par un autre étudiant\nAménagement du stage (congés et autorisations d'absences)",
     "lien": "https://www.sciencespo-rennes.fr/sportif-haut-niveau",
     "club_proximite": "Convention pour accéder aux installations sportives\nEntraînement en autonomie au club de Saint-Jacques de la Lande",
-    "filieres": [],
+    "filieres": [
+      "Sciences politiques"
+    ],
     "distanciel": false,
     "lat": 48.1213745,
     "lng": -1.6684829,
@@ -674,7 +666,7 @@
     "referent": "Dominique CHARLES",
     "email": "dominique.charles@insa-cvl.fr",
     "telephone": "06 13 86 72 90",
-    "amenagements": "Aménagement d’études qui permet de faciliter l’emploi du temps. Pour les nouveaux arrivants, une aides aux études est faite par des tuteurs étudiants de deuxième année ainsi que des cours de rattrapage si besoins. Le suivi scolaire par le responsable de la filière est permanent.",
+    "amenagements": "Aménagement d’études qui permet de faciliter l’emploi du temps. Pour les nouveaux arrivants, une aides aux études est faite par des tuteurs étudiants de deuxième année ainsi que des cours de rattrapage si besoins. Le suivi scolaire par le responsable de la filière est permanent",
     "lien": "https://www.insa-centrevaldeloire.fr/fr/formation/les-filieres-specifiques/sport-haut-niveau-shn",
     "club_proximite": "Partenariats avec les clubs locaux et les structures régionales pour permettre un entrainement régulier et encadré. Pour assurer l’optimisation de l’entrainement, sont également proposés gratuitement : Un accès en salle de musculation (Fitness Park), une séance hebdomadaire de préparation mentale, un accès à la balnéothérapie, une intervention avec un diététicien, un staff médical à disposition, une préparation physique\n\nLes sportifs ont accès aux installations de la Ligue avec un entraîneur du Pôle à leur disposition",
     "filieres": [
@@ -716,8 +708,7 @@
       "Maths-Informatique",
       "Médecine",
       "Sciences",
-      "Sciences Humaines",
-      "BUT"
+      "Sciences Humaines"
     ],
     "distanciel": false,
     "lat": 47.383661,
@@ -729,7 +720,7 @@
       "Étalement du cursus",
       "Accès aux installations sportives universitaires"
     ],
-    "criteres_shn": "Statut SHN : Etre inscrit sur les listes du Ministère des sports dans les catégories Élite, Senior, Relève, Reconversion ou sur les listes Espoirs ou Collectifs Nationaux ; Appartenir à des structures d’entraînement reconnues dans le parcours de performance fédéral (PPF)",
+    "criteres_shn": "Statut SHN : Etre inscrit sur les listes du Ministère des sports dans les catégories Élite, Senior, Relève, Reconversion ou sur les listes Espoirs ou Collectifs Nationaux ; Appartenir à des structures d’entraînement reconnues dans le projet de performance fédéral (PPF)",
     "criteres_sbn": "Statut SBN : Pratiquer de façon intensive et régulière (au moins 8 à 10 heures par semaine) une activité physique sportive, et évoluer et avoir avoir obtenu des résultats significatifs à des niveaux internationaux, nationaux ou parfois interrégionaux dans des compétitions fédérales, scolaires ou universitaires. Être classé à minima 2/6",
     "classement_sbn": "2/6",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
@@ -739,7 +730,7 @@
     "nom": "Université d'Orléans",
     "region": "CVL",
     "referent": "Nicolas QUEVAL",
-    "email": "nicolas.queval@univ-orleans.fr",
+    "email": "nicolas.queval@univ-orleans.fr\nhaut-niveau@univ-orleans.fr",
     "telephone": "/",
     "criteres_shn": "Statut SHN :  Sportifs inscrits sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 ; Étude au cas par cas selon le niveau du sportif (résultats fédéraux sur les deux dernières années, classement, investissement dans les compétitons universitaires) ainsi que le volume de pratique (volume d'entrainement supérieur à 10 heures hebdomadaire)",
@@ -747,7 +738,8 @@
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
       "Aménagement des examens",
-      "Choix des groupes de TD/TP"
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus"
     ],
     "filieres": [
       "Arts, Lettres et Langues",
@@ -756,10 +748,10 @@
       "Histoire-Géographie",
       "Ingénieur",
       "Maths-Informatique",
+      "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de collaboration avec un club de proximité",
@@ -770,7 +762,7 @@
     "lng": 1.9366943,
     "id": 19,
     "nom_complet": "Université d'Orléans",
-    "amenagements": "Dispenses d'assiduités aux TD ou TP\nPossibilité de changer de groupe de TD\nPossibilité de décaler un examen (en cas de compétition ou de stage important)\n\nToutes les formations de l'université sont concernées par ces aménagements"
+    "amenagements": "Dispenses d'assiduités aux TD ou TP\nPossibilité de changer de groupe de TD\nPossibilité de décaler un examen (en cas de compétition ou de stage important)"
   },
   {
     "id": 20,
@@ -781,7 +773,7 @@
     "referent": "Pascal ZIEGLER",
     "email": "pascal.ziegler@uha.fr",
     "telephone": "03 89 33 62 91",
-    "amenagements": "Aménagements d'horaires\nChoix de groupe de TP\nDispenses d'assiduité\nExamens de remplacement\nPreneur de notes\nTutorat pédagogique\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagements d'horaires\nChoix de groupe de TP\nDispenses d'assiduité\nExamens de remplacement\nPreneur de notes\nTutorat pédagogique",
     "lien": "https://www.uha.fr/fr/vie-universitaire-1/sport/sportifs-de-haut-niveau.html",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -793,8 +785,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 47.7305753,
@@ -814,9 +805,9 @@
     "type": "universite",
     "nom": "Université de Strasbourg",
     "region": "GDE",
-    "referent": "Olivier BRAUN",
-    "email": "obraun@unistra.fr",
-    "telephone": "06 07 49 07 53",
+    "referent": "Allan ALLAOUI LANGE",
+    "email": "allan.lange@unistra.fr",
+    "telephone": "03 68 85 13 83",
     "criteres_shn": "Statut SHN : Sportifs de Haut Niveau inscrits sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0",
     "classement_sbn": "0",
@@ -837,8 +828,8 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "Sciences Politiques",
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de collaboration avec un club de proximité\nAccès à la salle de musculation du Centre sportif universitaire",
@@ -849,7 +840,7 @@
     "lng": 7.7728728,
     "id": 21,
     "nom_complet": "Université de Strasbourg",
-    "amenagements": "Liste A et B :  Aménagement des études\nDispense d'assiduité\nChoix des groupes de TD et TP\nAménagements des examens (report d’examens pour cause de stage ou compétition)\nÉtalement de cursus\nObtention de crédits universitaires à travers l’UE libre Sport de Haut Niveau"
+    "amenagements": "Aménagement des études\nDispense d'assiduité\nChoix des groupes de TD et TP\nAménagements des examens (report d’examens pour cause de stage ou compétition)\nÉtalement de cursus\nObtention de crédits universitaires à travers l’UE libre Sport de Haut Niveau"
   },
   {
     "id": 22,
@@ -860,7 +851,7 @@
     "referent": "Tanguy ABSCHEIDT",
     "email": "tanguy.abscheidt@univ-lorraine.fr",
     "telephone": "06 87 72 93 32",
-    "amenagements": "Aménagement de la durée des cursus adaptés aux contraintes sportives\nExonération des droits d’inscription de la deuxième année en cas d’étalement de la première année en deux ans\nOrganisation spécifique de l’emploi du temps (prise en compte des entraînements, des compétitions et des déplacements) et priorité dans le choix des groupes des travaux pratiques et des travaux dirigés\nPossibilité d’être dispensé de cours obligatoires et de préparer des U.E de l’année supérieure\nAménagement des examens (choix du mode de contrôle des connaissances-continu, terminal, unités d’enseignement (UE) capitalisables, sessions spéciales), et conservation des notes ou des UE acquises\n\nAménagements possibles dans la plupart des formations, hormis en Parcours d’Accès Spécifique Santé (PASS) et en Licence avec Accès Santé (LAS)",
+    "amenagements": "Aménagement de la durée des cursus adaptés aux contraintes sportives\nExonération des droits d’inscription de la deuxième année en cas d’étalement de la première année en deux ans\nOrganisation spécifique de l’emploi du temps (prise en compte des entraînements, des compétitions et des déplacements) et priorité dans le choix des groupes des travaux pratiques et des travaux dirigés\nPossibilité d’être dispensé de cours obligatoires et de préparer des U.E de l’année supérieure\nAménagement des examens (choix du mode de contrôle des connaissances-continu, terminal, unités d’enseignement (UE) capitalisables, sessions spéciales), et conservation des notes ou des UE acquises",
     "lien": "https://www.univ-lorraine.fr/la-vie-a-luniversite-de-lorraine/sportifs-de-haut-niveau/dossier-de-demande-de-statut-eshn/",
     "club_proximite": "Pas de collaboration avec un club de proximité pour les entraînements sportifs\n\nLe SUAPS propose un créneau d'entrainement pour les joueurs classés le jeudi après-midi, et des terrains extérieurs sont accessibles (réservations payantes). Un entraîneur peut être mise à disposition à raison d'1h30 hebdomadaire de niveau compétition à Nancy",
     "filieres": [
@@ -873,8 +864,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 49.1153364,
@@ -901,7 +891,7 @@
     "referent": "Hervé FORGET",
     "email": "herve.forget@univ-reims.fr",
     "telephone": "06 86 57 71 54",
-    "amenagements": "Charte SHN Université de Reims Champagne-Ardenne\n\nStatut ESHN Niveau Or : Dispense d’assiduité aux TD, TP et CM\nÉtalement du cursus possible\nAménagement de l’emploi du temps et priorité dans le choix des groupes de TD, TP et CM\nAménagement des examens en cas de compétition\nSuivi personnalisé par un double tutorat administratif et pédagogique\n\nStatut ESHN Niveau Argent : Dispense d’assiduité aux TD, TP et CM\nAménagement de l’emploi du temps et priorité dans le choix des groupes de TD, TP et CM\nAménagement des examens en cas de compétition\nSuivi personnalisé par un double tutorat administratif et pédagogique\n\nStatut ESHN Niveau Bronze : Aménagement de l’emploi du temps et priorité dans le choix des groupes de TD, TP et CM",
+    "amenagements": "SHN : Dispense d’assiduité aux TD, TP et CM\nÉtalement du cursus possible\nAménagement de l’emploi du temps et priorité dans le choix des groupes de TD, TP et CM\nAménagement des examens en cas de compétition\nSuivi personnalisé par un double tutorat administratif et pédagogique\n\nSBN : Aménagement de l’emploi du temps et priorité dans le choix des groupes de TD, TP et CM",
     "lien": "https://www.univ-reims.fr/suaps/minisite_231/les-sportifs-de-bon-et-de-haut-niveau/sportifs-de-bon-et-haut-niveau,27940,45181.html",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -914,8 +904,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 49.2534,
@@ -984,8 +973,7 @@
       "Ingénieur",
       "Maths-Informatique",
       "Sciences",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": true,
     "lat": 50.3234557,
@@ -1007,10 +995,10 @@
     "nom": "Université d'Artois",
     "nom_complet": "Université d'Artois",
     "region": "HDF",
-    "referent": "Elise WESTELYNCK",
-    "email": "elise.westelynck@univ-artois.fr",
-    "telephone": "03 21 60 49 20",
-    "amenagements": "Placement dès le début du semestre dans un groupe de TD, TP prenant en compte les contraintes liées aux entraînements, stages et compétitions\nBénéfice d’aménagements des épreuves\nBénéfice d’épreuves de substitution pour les évaluations en contrôle continu (le rattrapage est déjà prévu pour les épreuves terminales)\nBénéfice d’un contrat pédagogique prévoyant l’étalement des études\n\nToutes les formations sont concernées par ces aménagements",
+    "referent": "Nicolas BLONDEL",
+    "email": "nicolas.blondel@univ-artois.fr",
+    "telephone": "03 21 60 60 58",
+    "amenagements": "Placement dès le début du semestre dans un groupe de TD, TP prenant en compte les contraintes liées aux entraînements, stages et compétitions\nBénéfice d’aménagements des épreuves\nBénéfice d’épreuves de substitution pour les évaluations en contrôle continu (le rattrapage est déjà prévu pour les épreuves terminales)\nBénéfice d’un contrat pédagogique prévoyant l’étalement des études",
     "lien": "https://www.univ-artois.fr/vie-etudiante/sport/sportifs-de-haut-et-de-bon-niveau",
     "club_proximite": "TC Lens > Convention de mise à disposition de matériel pour les séances hebdomadaires organisées par le SUAPS\nTC Douai > Convention pour encadrement séances d'initiation au padel ponctuellement dans le cadre de projets CVEC organisés par le SUAPS\n\nAccès aux terrains de ces deux clubs et à ceux de l'université. 4 intervenants assurent les entraînements, pour un total de 8,75 heures hebdomadaires",
     "filieres": [
@@ -1021,8 +1009,8 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "Sciences Politiques",
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 50.2835005,
@@ -1043,8 +1031,8 @@
     "type": "universite",
     "nom": "Université de Lille",
     "region": "HDF",
-    "referent": "Eric LEROY",
-    "email": "eric.leroy@univ-lille.fr",
+    "referent": "Eric LEROY\nMarie MERLIER",
+    "email": "eric.leroy@univ-lille.fr\nmarie.merlier@univ-lille.fr",
     "telephone": "06 85 91 91 43",
     "criteres_shn": "Statut SHN : Sportifs inscrits sur Listes Ministérielles (Élite, Senior, Relève et Reconversion) ; Sportifs inscrits sur la liste des Espoirs et Collectifs Nationaux ; Sportifs appartenant à une structure reconnue dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Sportifs présentant un fort potentiel et des contraintes d'entraînement importantes. Être classé à mini 0 pour les garçons et 2/6 pour les filles",
@@ -1068,8 +1056,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements (même si tous les aménagements ne sont pas possibles pour chaque formation, par exemple pas de possibilité de décaler les examens pour les étudiants de LAS et PASS)",
     "club_proximite": "Les étudiants ont des facilités d'accès à la Ligue des Hauts-de-France et au club de Lomme pour s'entraîner. Il y a une convention entre l'université de Lille et la Ligue des Hauts-de-France depuis cette année. Les étudiants ont accès aux terrains de la FSSEP quand ils sont disponibles, un planning est affiché à l'entrée des installations. Pas d'entraîneur mis à leur disposition (avant, il y avait un volume d'entrainement d’environ 6h qui a été supprimé par manque d'effectif et d'aide de la FFT)",
@@ -1080,7 +1067,7 @@
     "lng": 3.125956,
     "id": 27,
     "nom_complet": "Université de Lille",
-    "amenagements": "Possibilité de bénéficier d'absences justifiées\nDispense d'assiduité\nPossibilité d'un report exceptionnel, d'un étalement ou d'un allègement de la période de stage\nSolliciter des accompagnements adaptés et personnalisés \nBénéficier d'aménagement des épreuves \nEtalement des études possible\nAménagement des examens (épreuve de substitution ou dispense d'épreuve)\n\nToutes les formations de l'université sont concernées par ces aménagements (même si tous les aménagements ne sont pas possibles pour chaque formation, par exemple pas de possibilité de décaler les examens pour les étudiants de LAS et PASS)"
+    "amenagements": "Possibilité de bénéficier d'absences justifiées\nDispense d'assiduité\nPossibilité d'un report exceptionnel, d'un étalement ou d'un allègement de la période de stage\nSolliciter des accompagnements adaptés et personnalisés \nBénéficier d'aménagement des épreuves \nEtalement des études possible\nAménagement des examens (épreuve de substitution ou dispense d'épreuve)"
   },
   {
     "id": 29,
@@ -1091,7 +1078,7 @@
     "referent": "Eric DEVOS",
     "email": "eric.devos@univ-littoral.fr",
     "telephone": "/",
-    "amenagements": "Aménagement d’horaires\nDispense d’assiduité ou dispense de pratique (notamment en STAPS)\nÉtalement du cursus ou dédoublement de l’année \nÉpreuve de rattrapage en cas d’absence à un examen \nTutorat individualisé\nDroit au redoublement dans les filières en tension comme en STAPS\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagement d’horaires\nDispense d’assiduité ou dispense de pratique (notamment en STAPS)\nÉtalement du cursus ou dédoublement de l’année \nÉpreuve de rattrapage en cas d’absence à un examen \nTutorat individualisé\nDroit au redoublement dans les filières en tension comme en STAPS",
     "lien": "https://suaps.univ-littoral.fr/sportifs-de-hauts-niveaux/obtenir-le-statut-de-sportif-de-haut-niveau/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -1103,8 +1090,7 @@
       "Maths-Informatique",
       "Médecine",
       "Sciences",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 51.0365306,
@@ -1141,8 +1127,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 49.0394375,
@@ -1168,7 +1153,7 @@
     "referent": "Vanessa ERTUS",
     "email": "vanessa.ertus@univ-paris1.fr",
     "telephone": "01 89 68 52 16",
-    "amenagements": "Un suivi personnalisé\nAide à l’aménagement de l’emploi du temps annuel : Choix des groupes de TP/TD afin de les rendre compatibles avec le planning sportif\nAménager et décaler si besoin le passage des examens en cas de compétition (sur justificatif) au cas par cas\nMise en place du système de tutorat pour 1 ou 2 semestres en cas de besoin\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Un suivi personnalisé\nAide à l’aménagement de l’emploi du temps annuel : Choix des groupes de TP/TD afin de les rendre compatibles avec le planning sportif\nAménager et décaler si besoin le passage des examens en cas de compétition (sur justificatif) au cas par cas\nMise en place du système de tutorat pour 1 ou 2 semestres en cas de besoin",
     "lien": "https://sport.pantheonsorbonne.fr/haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité\n\nAccès aux installations sportives de l'université",
     "filieres": [
@@ -1191,7 +1176,7 @@
       "Accès aux installations sportives universitaires"
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes du ministère des Sports ; Appartenir à des structures d'entrainement labélisées par le ministère chargé des sports (les Pôles Frances Jeunes, Espoirs, Centre de Formation)",
-    "criteres_sbn": "Statut SBN : Athlète de très bon niveau régional dont le niveau sportif est reconnu par les fédérations intéressées (liste « nationaux »). Être classé à minima 0",
+    "criteres_sbn": "Statut SBN : Athlète de très bon niveau régional dont le niveau sportif est reconnu par la fédération. Être classé à minima 0",
     "classement_sbn": "0",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
@@ -1204,7 +1189,7 @@
     "referent": "/",
     "email": "sportifs.hautniveau@sciencespo.fr",
     "telephone": "/",
-    "amenagements": "Possibilité de demander un étalement du cursus à frais de scolarité constants\nAide aux inscriptions pédagogiques\nJustification d'absence sur présentation de justificatifs (compétitions, stages de formation)\n\nToutes les formations sont concernées par ces aménagements",
+    "amenagements": "Possibilité de demander un étalement du cursus à frais de scolarité constants\nAide aux inscriptions pédagogiques\nJustification d'absence sur présentation de justificatifs (compétitions, stages de formation)",
     "lien": "https://www.sciencespo.fr/students/fr/etudier/sportif-haut-niveau-ou-artiste-haut-niveau/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -1228,33 +1213,36 @@
     "nom": "Université de la Sorbonne",
     "nom_complet": "Université de la Sorbonne",
     "region": "IDF",
-    "referent": "David IZIDORE",
-    "email": "david.izidore@sorbonne-universite.fr",
-    "telephone": "06 81 74 73 91",
-    "amenagements": "Aménagements d'études\nTutorat pédagogique individualisé\nPriorité dans l'affectation aux groupes de TD et TP\nAutorisations exceptionnelles d'absences aux enseignements et aux stages (non répétées de manière excessive)\nPossibilité de suivre des enseignements à distance\nPossibilité de reporter le stage",
+    "referent": "/",
+    "email": "sciences-shn@sorbonne-universite.fr",
+    "telephone": "/",
+    "amenagements": "Aménagements d'études\nTutorat pédagogique individualisé\nPriorité dans l'affectation aux groupes de TD et TP\nAutorisations exceptionnelles d'absences aux enseignements et aux stages (non répétées de manière excessive)\nPossibilité de suivre des enseignements à distance\nAménagement des examens \nPossibilité de reporter le stage",
     "lien": "https://sciences.sorbonne-universite.fr/vie-de-campus-sciences/aps-assocs-etu/sportives-et-sportifs-de-haut",
     "club_proximite": "Pas de collaboration avec un club de proximité\n\nAccès aux installations sportives de l'université",
     "filieres": [
       "Arts, Lettres et Langues",
-      "Droit",
-      "Éco-Gestion",
       "Histoire-Géographie",
       "Sciences",
-      "Sciences Humaines"
+      "Sciences Humaines",
+      "Ingénieur",
+      "Maths/infos",
+      "Médecine"
     ],
     "distanciel": true,
     "lat": 48.8487592,
     "lng": 2.3453784,
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Choix des groupes de TD/TP",
+      "Étalement du cursus",
       "Tutorat individualisé",
       "Accès aux installations sportives universitaires"
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur les listes du ministère des sports (élite, sénior, jeune, espoir)",
     "criteres_sbn": "Statut SBN : Être pratiquant de niveau national",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, sous réserve de l’accord préalable du responsable de département, hormis les formations en santé/médecine"
   },
   {
     "id": 34,
@@ -1262,10 +1250,10 @@
     "nom": "Université Sorbonne Paris Nord",
     "nom_complet": "Université Sorbonne Paris Nord",
     "region": "IDF",
-    "referent": "Dominique DERVILLE",
-    "email": "dominique.derville@univ-paris13.fr",
+    "referent": "Marc CHEVALIER",
+    "email": "marc.chevalier@univ-paris13.fr",
     "telephone": "06 03 96 45 01",
-    "amenagements": "Pôle sportif section tennis Université Sorbonne Paris Nord\n\nAménagement du cursus\nAménagement des horaires\nAménagement des périodes d’examen (report possibles)\nUne optimisation de la vie étudiante\nHeures de tutorat individualisé pour les étudiants en difficulté\nDispense de pratique en sport (STAPS)\n\nPlus le niveau de jeu est élevé et les absences fréquentes, et plus les aménagements sont importants et la durée des études augmentée. Étude des aménagements au cas par cas selon le niveau de jeu et la fréquence de déplacements\n\nToutes les formations sont concernées par ces aménagements, excepté médecine",
+    "amenagements": "Aménagement du cursus\nAménagement des horaires\nAménagement des périodes d’examen (report possibles)\nUne optimisation de la vie étudiante\nHeures de tutorat individualisé pour les étudiants en difficulté\nDispense de pratique en sport (STAPS)\n\nPlus le niveau de jeu est élevé et les absences fréquentes, et plus les aménagements sont importants et la durée des études augmentée. Étude des aménagements au cas par cas selon le niveau de jeu et la fréquence de déplacements",
     "lien": "https://www.univ-spn.fr/sport-de-haut-niveau/",
     "club_proximite": "Convention annuelle avec le club de l'AJ Drancy (5mn du campus de Bobigny, 5 terrains couverts, 2 padel, 4 extérieurs) avec la possibilité de s'entrainer 5 heures par semaine. Réservé aux étudiants du pôle sportif. Possibilité de venir avec son entraineur ou un autre partenaire. D'autres conventions pourraient être signées avec le TC la Courneuve et le comité de SSD si besoin.\n\nPartenariat avec le STAPS Bobigny et la FFT dans le cadre de la formation DEJEPS Tennis et CQPET. Des cours de tennis sont proposés les lundis et vendredi au club de Bobigny Arthur Ashe. En convention avec la ville de Bobigny (actuellement mise à disposition gratuite de 4h le lundi et 2h le vendredi sur la période universitaire. Deux cours par semaine sont donnés par un enseignant prof EPS et un DE tennis.\nLes étudiants sont licenciés dans leurs clubs respectifs mais obligatoirement à l'AS de l'université (AS SUPN) pour les compétitions universitaires. Accès favorisé aux structures sportives",
     "filieres": [
@@ -1309,7 +1297,7 @@
     "referent": "Jean-François FROUSTEY",
     "email": "jean-francois.froustey@assas-universite.fr",
     "telephone": "01 44 41 58 54 - 06 45 25 55 67",
-    "amenagements": "Tutorat (en L1 de droit et d'économie-gestion) et suivi personnalisé\nOrganisation de l'emploi du temps pour la prise en compte des impératifs de l'entraînement et des déplacements\nPossibilité d'autorisation d'absence pour les travaux dirigés lors des compétitions importantes\nHébergement, éventuellement possible, en résidence universitaire\nAccès à la formation en apprentissage spécialement conçue pour les Sportifs de Haut Niveau (à partir de la L3)\nCertaines formations en distanciel",
+    "amenagements": "Tutorat (en L1 de droit et d'économie-gestion) et suivi personnalisé\nOrganisation de l'emploi du temps pour la prise en compte des impératifs de l'entraînement et des déplacements\nPossibilité d'autorisation d'absence pour les travaux dirigés lors des compétitions importantes\nHébergement éventuellement possible en résidence universitaire\nAccès à la formation en apprentissage spécialement conçue pour les Sportifs de Haut Niveau (à partir de la L3)\nCertaines formations en distanciel",
     "lien": "https://sportassas.assas-universite.fr/fr/sportifs-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -1340,7 +1328,7 @@
     "telephone": "06 35 36 03 59",
     "amenagements": "Aménagement des cours sur six semestres au lieu de quatre\nAménagement de l'emploi du temps (horaire hebdomadaire réduit)\nRenforcement du niveau d’anglais et une valorisation des talents\nUn aménagement possible pour les examens de contrôle continu",
     "lien": "https://dauphine.psl.eu/formations/licences/dauphine-talents",
-    "club_proximite": "Relation avec le Tennis Club de Paris (TCP) avec une mise à disposition de terrain de tennis et de padel hebdomadaire, club house et salle de musculation à disposition gratuitement. 1h30 de tennis/semaine pour les SHN + encadrement des compétitions universitaires (IDF, France, Europe) et événementiels (Union College of London). Les sportifs doivent obligatoirement être Licenciés au TCP pour bénéficier des entraînements\n\nTarifs préférentiels pour de nombreuses infrastructures : Adhérents de PSL Sport (Dauphine), Urban Soccer (Puteaux), Aquaboulevard Paris, Forest Hill (Marnes-la-Coquette, tennis et padel)\n\nAccès à la salle de musculation de l'université",
+    "club_proximite": "Relation avec le Tennis Club de Paris (TCP) avec une mise à disposition de terrain de tennis et de padel hebdomadaire, club house et salle de musculation à disposition gratuitement. 1h30 de tennis/semaine pour les SHN + encadrement des compétitions universitaires (IDF, France, Europe) et événementiels (Union College of London). Les sportifs doivent obligatoirement être Licenciés au TCP pour bénéficier des entraînements\n\nTarifs préférentiels pour de nombreuses infrastructures pour les adhérents de PSL Sport (Dauphine) : Urban Soccer (Puteaux), Aquaboulevard Paris, Forest Hill (Marnes-la-Coquette, tennis et padel)\n\nAccès à la salle de musculation de l'université",
     "filieres": [
       "Droit",
       "Éco-Gestion",
@@ -1373,7 +1361,7 @@
     "referent": "Jérome FOSCOLO",
     "email": "jerome.foscolo@univ-evry.fr",
     "telephone": "01 69 47 74 47",
-    "amenagements": "Convention SHN Université d'Evry\n\nSportif Haut Niveau National : Ils peuvent bénéficier d’un régime spécial d’études (Étalement de la formation, enseignements/UE aménagés, dispense d'assiduité et aménagement du calendrier des examens, dans la mesure du possible et création si besoin, d’une session décalée, mise en place d’un tutorat pédagogique)\n\nSportif Haut Niveau Universitaire : Ils peuvent obtenir des aménagements d’emploi du temps ou autorisation d’absence avec justificatifs (compétitions, stages). Ces étudiants ne peuvent pas bénéficier de reports d’examens\n\nToutes les formations sont concernées par ces aménagements",
+    "amenagements": "SHN : Ils peuvent bénéficier d’un régime spécial d’études (Étalement de la formation, enseignements/UE aménagés, dispense d'assiduité et aménagement du calendrier des examens, dans la mesure du possible et création si besoin, d’une session décalée, mise en place d’un tutorat pédagogique)\n\nSBN : Ils peuvent obtenir des aménagements d’emploi du temps ou autorisation d’absence avec justificatifs (compétitions, stages). Ces étudiants ne peuvent pas bénéficier de reports d’examens",
     "lien": "https://www.univ-evry.fr/vie-de-campus/sport/sport-de-haut-niveau.html",
     "club_proximite": "Accès aux installations sportives. Un enseignant d'EPS est mis à disposition entre 1h30 à 2h le jeudi sur le second semestre\n\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -1384,8 +1372,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 48.6233961,
@@ -1414,7 +1401,7 @@
     "referent": "Stéphane DOCET",
     "email": "stephane.docet@univ-eiffel.fr",
     "telephone": "01 71 40 81 90 - 06 20 57 48 11",
-    "amenagements": "Charte ESBHN Université Gustave Eiffel\n\nAménagement de la durée du cursus\nAménagement des cursus adaptés aux contraintes sportives\nOrganisation spécifique de l'emploi du temps, priorité dans le choix des groupes de Travaux Dirigés (TD) et Travaux Pratiques (TP)\nAménagement de la convention de stage (autorisation d'absence, allongement de la durée)\nMise à disposition d'un enseignement tuteur\nSoutien pédagogique (10h de tutorat dans la discipline de leur choix)\nAutorisation d'absences ponctuelles aux TD\nAménagement des examens (choix du mode de contrôle des connaissances entre contrôle continu et examen terminal, possibilités de modalités spécifiques avec un examen écrit, oral, sur dossier ou à distance)\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagement de la durée du cursus\nAménagement des cursus adaptés aux contraintes sportives\nOrganisation spécifique de l'emploi du temps, priorité dans le choix des groupes de Travaux Dirigés (TD) et Travaux Pratiques (TP)\nAménagement de la convention de stage (autorisation d'absence, allongement de la durée)\nMise à disposition d'un enseignement tuteur\nSoutien pédagogique (10h de tutorat dans la discipline de leur choix)\nAutorisation d'absences ponctuelles aux TD\nAménagement des examens (choix du mode de contrôle des connaissances entre contrôle continu et examen terminal, possibilités de modalités spécifiques avec un examen écrit, oral, sur dossier ou à distance)",
     "lien": "https://sports.univ-gustave-eiffel.fr/accueil/shn-/-sbn",
     "club_proximite": "Dans le cadre du SUAPS, des séances sont proposées au club de Champs-sur-Marne et au club de Torcy. Les cours sont réservés et des enseignants de l'université sont mis à disposition. Les cours du SUAPS sont ouverts à tous les étudiants de l'université inscrits au SUAPS.\n\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -1425,8 +1412,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": true,
     "lat": 48.8419,
@@ -1456,7 +1442,7 @@
     "referent": "Stéphane GERARD",
     "email": "stephane.gerard@esiee.fr",
     "telephone": "06 59 63 29 23",
-    "amenagements": "Charte SHN ESIEE Paris\n\nAménagement de la durée du cursus\nAménagement des cursus adaptés aux contraintes sportives\nOrganisation spécifique de l'emploi du temps, priorité dans le choix des groupes de Travaux Dirigés (TD) et Travaux Pratiques (TP)\nAménagement de la convention de stage (autorisation d'absence, allongement de la durée)\nMise à disposition d'un enseignement tuteur\nSoutien pédagogique (10h de tutorat dans la discipline de leur choix)\nAutorisation d'absences ponctuelles aux TD\nAménagement des examens (choix du mode de contrôle des connaissances entre contrôle continu et examen terminal, possibilités de modalités spécifiques avec un examen écrit, oral, sur dossier ou à distance)\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagement de la durée du cursus\nAménagement des cursus adaptés aux contraintes sportives\nOrganisation spécifique de l'emploi du temps, priorité dans le choix des groupes de Travaux Dirigés (TD) et Travaux Pratiques (TP)\nAménagement de la convention de stage (autorisation d'absence, allongement de la durée)\nMise à disposition d'un enseignement tuteur\nSoutien pédagogique (10h de tutorat dans la discipline de leur choix)\nAutorisation d'absences ponctuelles aux TD\nAménagement des examens (choix du mode de contrôle des connaissances entre contrôle continu et examen terminal, possibilités de modalités spécifiques avec un examen écrit, oral, sur dossier ou à distance)",
     "lien": "https://www.esiee.fr/actualites/les-sportives-et-sportifs-de-haut-niveau",
     "club_proximite": "Dans le cadre du SUAPS, des séances sont proposées au club de Champs-sur-Marne et au club de Torcy. Les cours sont réservés et des enseignants de l'université sont mis à disposition. Les cours du SUAPS sont ouverts à tous les étudiants de l'université inscrits au SUAPS.",
     "filieres": [
@@ -1478,7 +1464,7 @@
       "Collaboration avec un club de proximité"
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur la liste des Sportifs de Haut Niveau du Ministère des Sports (Relève, Senior, Elite, Reconversion), sur les listes Espoirs et Collectif Nationaux ou être membre d’une structure sportive inscrite au Projet de Performance Fédérale",
-    "criteres_sbn": "Statut SBN : Être classé à minima en 2ème série",
+    "criteres_sbn": "Statut SBN : Être classé à minima en 2nde série",
     "classement_sbn": "15",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
@@ -1491,7 +1477,7 @@
     "referent": "Laura HERTAUT",
     "email": "laura.hertaut@univ-paris8.fr",
     "telephone": "/",
-    "amenagements": "Permettre l’aménagement des emplois du temps semestriels : Choix des groupes de TP/TD\nDispense d’assiduité ponctuelle aux CM/TD/TP pour stages ou compétitions, sous réserve de produire les justificatifs\nÉtalement cursus sur plusieurs années (L1 en 2 ans ou Licence en 4 ou 5 ans)\nValider un Enseignement Complémentaire (EC) Sport Niveau 1 avec la note de 20/20\nSessions spécifiques d'examen : Contrôle terminal ou autres modalités de contrôle des connaissances en cours d'année\nVeiller à l’aménagement des contrôles continus, pour cause de stages ou compétitions, sous réserve de produire les justificatifs\nFaire bénéficier l’étudiant sportif de haut niveau d’un tutorat étudiant pour 1 ou 2 semestres, en cas de difficultés\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Permettre l’aménagement des emplois du temps semestriels : Choix des groupes de TP/TD\nDispense d’assiduité ponctuelle aux CM/TD/TP pour stages ou compétitions, sous réserve de produire les justificatifs\nÉtalement cursus sur plusieurs années (L1 en 2 ans ou Licence en 4 ou 5 ans)\nValider un Enseignement Complémentaire (EC) Sport Niveau 1 avec la note de 20/20\nSessions spécifiques d'examen : Contrôle terminal ou autres modalités de contrôle des connaissances en cours d'année\nVeiller à l’aménagement des contrôles continus, pour cause de stages ou compétitions, sous réserve de produire les justificatifs\nFaire bénéficier l’étudiant sportif de haut niveau d’un tutorat étudiant pour 1 ou 2 semestres, en cas de difficultés",
     "lien": "https://www.univ-paris8.fr/Sportives-et-sportifs-de-haut-niveau",
     "club_proximite": "Collaboration avec le Saint Denis Union Sport (SDUS) : Utilisation des terrains 8h par semaine pour de la formation qualifiante (EC libre tennis) et/ou du loisirs, cours donnés par une prof du SUAPS, ancienne 1/6 sans diplôme d'état\n\nAccès aux terrains de tennis de l'université sur inscription",
     "filieres": [
@@ -1501,8 +1487,7 @@
       "Histoire-Géographie",
       "Maths-Informatique",
       "Sciences Humaines",
-      "Sciences Politiques",
-      "BUT"
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 48.9474,
@@ -1517,7 +1502,7 @@
       "Collaboration avec un club de proximité"
     ],
     "criteres_shn": "Statut SHN : Les étudiants sportifs inscrits sur les listes ministérielles (Élite, Senior, Relève, Collectifs Nationaux et Espoirs) ; Les étudiants sportifs ne figurant pas sur les listes ministérielles mais appartenant à des structures d’entraînement labellisées par le ministère des sports (Pôle France, Pôle France Jeunes, Pôle Espoir)",
-    "criteres_sbn": "Statut SBN : Les étudiants représentants le meilleur niveau national ou a minima régional français dans leur spécialité sportive ; La commission statue au regard de plusieurs critères : le palmarès sportif de l’étudiant (participer à des compétitions internationales et/ou faire partie des 15 meilleurs français de sa catégorie au niveau national et/ou avoir au minimum 3 ans de podiums régionaux sur la compétition majeure de la discipline (compétitions inter‐régionales), et/ou avoir été inscrit sur les listes ministérielles dans les 3 ans qui précèdent la demande), le nombre d’entraînements (5 entraînements par semaine minimum), les contraintes liées aux compétitions (déplacements nombreux, compétitions régulières), Les dossiers sont étudiés à partir d'un classement négatifs, soit -2/6",
+    "criteres_sbn": "Statut SBN : Les étudiants représentants le meilleur niveau national ou à minima régional français dans leur spécialité sportive ; La commission statue au regard de plusieurs critères : le palmarès sportif de l’étudiant (participer à des compétitions internationales et/ou faire partie des 15 meilleurs français de sa catégorie au niveau national et/ou avoir au minimum 3 ans de podiums régionaux sur la compétition majeure de la discipline (compétitions inter‐régionales), et/ou avoir été inscrit sur les listes ministérielles dans les 3 ans qui précèdent la demande), le nombre d’entraînements (5 entraînements par semaine minimum), les contraintes liées aux compétitions (déplacements nombreux, compétitions régulières). Les dossiers sont étudiés à partir d'un classement négatif, soit -2/6",
     "classement_sbn": "-2/6",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
@@ -1539,7 +1524,7 @@
       "Tutorat individualisé",
       "Accès aux installations sportives universitaires"
     ],
-    "amenagements": "Charte SHN Université Paris Cité\n\nSHN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport et complète en fonction des UFR\nChoix des groupes de TD\nChoix du contrôle des examens (continu, mixte ou terminal)\nPossibilité de session d’examens dérogatoire en plus de la session de seconde chance\nValidation d’acquis pour des UE transverses\nValidation d’UE proposées par des structures sportives officielles\nAide aux devoirs avec Tuteurs Preneurs de notes\n\nSBN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport\nChoix des groupes de TD",
+    "amenagements": "SHN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport et complète en fonction des UFR\nChoix des groupes de TD\nChoix du contrôle des examens (continu, mixte ou terminal)\nPossibilité de session d’examens dérogatoire en plus de la session de seconde chance\nValidation d’acquis pour des UE transverses\nValidation d’UE proposées par des structures sportives officielles\nAide aux devoirs avec Tuteurs Preneurs de notes\n\nSBN :\nÉtalement de la licence sans considération de redoublement – spécifiquement pour la LAS\nAménagement de l’emploi du temps par semestre\nDispense d’assiduité pour l’UE Sport\nChoix des groupes de TD",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1551,8 +1536,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de collaboration avec un club de proximité\nLes étudiants qui ont choisi la spécialité tennis dispose de TD et des TP en tennis à hauteur de 4h/semaine",
@@ -1589,8 +1573,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 48.712167,
@@ -1619,7 +1602,7 @@
     "referent": "Serge COLLINET",
     "email": "scollinet@parisnanterre.fr",
     "telephone": "/",
-    "amenagements": "Charte SHN Université Paris Nanterre\nAménagements d’horaires\nDispense d’assiduité\nÉtalement du cursus\nAménagement des examens (déplacés en cas de compétitions)\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagements d’horaires\nDispense d’assiduité\nÉtalement du cursus\nAménagement des examens (déplacés en cas de compétitions)",
     "lien": "https://suaps.parisnanterre.fr/athletes-de-haut-niveau-et-dexcellence",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -1632,8 +1615,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 48.9042269,
@@ -1661,7 +1643,7 @@
     "referent": "/",
     "email": "suaps@u-pec.fr",
     "telephone": "/",
-    "amenagements": "Choix du groupe de TD \nDispense des cours en présentiel\nAménagements des examens (présentation en contrôle terminal)\nAdaptations pour les partiels\nAménagement d’emploi du temps\nÉtalement du cursus\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Choix du groupe de TD \nDispense des cours en présentiel\nAménagements des examens (présentation en contrôle terminal)\nAdaptations pour les partiels\nAménagement d’emploi du temps\nÉtalement du cursus",
     "lien": "https://www.u-pec.fr/fr/vie-de-campus/sport/l-accueil-des-sportifs-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -1674,8 +1656,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 48.7882159,
@@ -1716,8 +1697,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "Sciences Politiques",
-      "BUT"
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 48.7997,
@@ -1742,7 +1722,7 @@
     "referent": "Christian LE MOAL",
     "email": "christian.lemoal@unicaen.fr",
     "telephone": "06 86 28 61 44",
-    "amenagements": "Aménagement d'horaires\nDispense d'assiduité\nReport d'examens\nChangement de groupe de TD et TP\nÉtalement du cursus\nTutorat individualisé\n\nToutes les formations de l'université sont concernées par ces aménagements sauf les formations en médecine",
+    "amenagements": "Aménagement d'horaires\nDispense d'assiduité\nReport d'examens\nChangement de groupe de TD et TP\nÉtalement du cursus\nTutorat individualisé",
     "lien": "https://www.unicaen.fr/vie-de-campus/vie-sportive/sport-de-haut-niveau/",
     "club_proximite": "Relations avec les clubs d'USO Mondeville et du Tennis Club de Caen, les étudiants peuvent aller s'entraîner sur les terrains de ces structures. Mise à disposition de la salle de musculation et de la piscine (CESU). Il est possible d'utiliser les terrains de tennis de l'université (7 terrains)",
     "filieres": [
@@ -1755,8 +1735,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 49.1911,
@@ -1784,7 +1763,7 @@
     "referent": "Nicolas SIMON",
     "email": "nicolas.simon2@univ-rouen.fr",
     "telephone": "06 30 81 73 66",
-    "amenagements": "Charte SHN Université de Rouen Normandie\n\nDispense d'assiduité aux Travaux Dirigés (TD) et Travaux Pratiques (TP)\nPossibilité de changer de groupe de TD de manière temporaire ou définitive\nDispenses d'assiduité sur la pratique de l'Activité Physique et Sportive\nÉtalement du cursus possible\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Dispense d'assiduité aux Travaux Dirigés (TD) et Travaux Pratiques (TP)\nPossibilité de changer de groupe de TD de manière temporaire ou définitive\nDispenses d'assiduité sur la pratique de l'Activité Physique et Sportive\nÉtalement du cursus possible",
     "lien": "https://staps.univ-rouen.fr/sportifs-de-haut-niveau-de-l-ufr-staps-de-rouen--402482.kjsp",
     "club_proximite": "Accès à la salle de musculation, accès aux terrains de l'ASRUC (Association Sportive Rouen Université Club) et de l'université. Un entraîneur est mis à disposition à l'université\n\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -1797,8 +1776,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 49.3849168,
@@ -1809,8 +1787,10 @@
     ],
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Choix des groupes de TD/TP",
       "Étalement du cursus",
+      "Tutorat individualisé",
       "Accès aux installations sportives universitaires"
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle ou appartenir au Projet de Performance Fédéral ; Être classé à minima en seconde série négative (entre 0 et -15) et avoir un volume d'entraînement supérieur à 15 heures hebdomadaires (fortes contraintes d'entraînement et de compétitions)",
@@ -1838,8 +1818,7 @@
       "Ingénieur",
       "Maths-Informatique",
       "Sciences",
-      "Sciences Humaines",
-      "BUT"
+      "Sciences Humaines"
     ],
     "distanciel": false,
     "lat": 49.4961896,
@@ -1854,7 +1833,7 @@
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Avoir un niveau national ou interrégional",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, avec plus de difficultés pour les aménagements en droit"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
     "id": 49,
@@ -1896,7 +1875,7 @@
     "referent": "Dominique VESCHAMBRE",
     "email": "dominique.veschambre@bordeaux-inp.fr",
     "telephone": "06 88 31 52 41",
-    "amenagements": "Statut ESHN : Aménagement d'études et de l'emploi du temps à la demande de l'élève  + Accompagnement individualisé + Aménagement des examens + Autorisation d'absence\n\nStatut ESTBN : Aménagement d'emploi du temps + Déplacement d'examen + Etalement d'étude possible + Accompagnement individualisé + Autorisation d'absence\n\nStatut ESBN : Autorisations d'absence justifiée pour compétition + Déplacement d'examen\n\nToutes les formations de Bordeaux INP sont concernées par ces aménagements",
+    "amenagements": "SHN : Aménagement d'études et de l'emploi du temps à la demande de l'élève \nAccompagnement individualisé\nAménagement des examens\nAutorisation d'absence\nÉtalement du cursus\nChoix du groupe de TD/TP\n\nStatut SBN : Autorisations d'absence justifiée pour compétition\nDéplacement d'examen\nChoix du groupe de TD/TP",
     "lien": "https://enscbp.bordeaux-inp.fr/fr/sportifs-de-bon-haut-niveau",
     "club_proximite": "Partenariat avec le CNUT de Bordeaux géré par l'Université de Bordeaux",
     "filieres": [
@@ -1914,7 +1893,7 @@
       "Tutorat individualisé",
       "Collaboration avec un club de proximité"
     ],
-    "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle ou être classe en 2ème série negative ; Anciens sportifs listés ministérielles ou être classé en 2ème série positive et avoir des entraînements au quotidien",
+    "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle ou être classé en 2ème série négative ; Anciens sportifs listés ministériels classes en 2ème série positive et qui ont des entraînements au quotidien",
     "criteres_sbn": "Statut SBN : Sportifs avec des contraintes d'entrainement fortes (3 entraînements minimum/semaine, haut niveau régional) ou être classé en 3ème série (au cas par cas selon l'historique sportif)",
     "classement_sbn": "3ème série",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
@@ -1940,8 +1919,7 @@
       "Maths-Informatique",
       "Médecine",
       "Sciences",
-      "Sciences Humaines",
-      "BUT"
+      "Sciences Humaines"
     ],
     "distanciel": false,
     "lat": 46.1476264,
@@ -1968,14 +1946,13 @@
     "referent": "Alice LE MÉHAUTÉ",
     "email": "alice.le-mehaute@u-bordeaux-montaigne.fr",
     "telephone": "05 57 12 15 00",
-    "amenagements": "Aménagements d’horaires\nDispense d’assiduité (au cours et non aux examens) si l’aménagement d’horaire n'est pas possible\nÉtalement d'étude\nOrganisation d’examens en contrôle continu à des dates différentes\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagements d’horaires\nDispense d’assiduité (au cours et non aux examens) si l’aménagement d’horaire n'est pas possible\nÉtalement d'étude\nOrganisation d’examens en contrôle continu à des dates différentes",
     "lien": "https://etu.u-bordeaux-montaigne.fr/fr/vie-de-campus/sport/sportifs-de-haut-et-bon-niveau.html",
     "club_proximite": "Un entraîneur propose un entraînement de 2h hebdomadaire au Tennis Club de Gredignan\n\nPas de collaboration avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Histoire-Géographie",
-      "Sciences Humaines",
-      "BUT"
+      "Sciences Humaines"
     ],
     "distanciel": false,
     "lat": 44.7949425,
@@ -1987,7 +1964,7 @@
       "Accès aux installations sportives universitaires"
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur Liste Ministérielle ; Sportifs appartenant à un centre ou pôle de formation",
-    "criteres_sbn": "Statut SBN : Si non listé, passage en commission auprès d'enseignants certifiés en sport de haut niveau. Etude de chaque dossier au cas par cas en fonction du parcours de l'étudiant",
+    "criteres_sbn": "Statut SBN : Si non listé, passage en commission auprès d'enseignants certifiés en sport de haut niveau. Étude de chaque dossier au cas par cas en fonction du parcours de l'étudiant",
     "classement_sbn": "Non déterminé",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
@@ -2000,9 +1977,9 @@
     "referent": "Béatrice AUCOUTURIER\nRémi BARBARIN",
     "email": "beatrice.aucouturier@u-bordeaux.fr\nremi.barbarin@u-bordeaux.fr",
     "telephone": "06 71 70 10 55 (Aucouturier)\n06 88 02 47 50 (Barbarin)",
-    "amenagements": "Aménagements hebdomadaires\nDispense de TD\nÉtalement des études\nPrises de notes en cas d'absence aux cours\nAménagement des examens\nTutorat de groupe ou individualisé\nAnnée de césure\n\nToutes les formations de l'université sont concernées par ces aménagements, hormis PASS (médecine)",
+    "amenagements": "Aménagements hebdomadaires\nDispense de TD\nÉtalement des études\nPrises de notes en cas d'absence aux cours\nAménagement des examens\nTutorat de groupe ou individualisé\nAnnée de césure",
     "lien": "https://www.u-bordeaux.fr/campus/sport/haut-niveau",
-    "club_proximite": "Accès aux installations extérieures des clubs alentours\nLes étudiants du pole/ CNUT peuvent accéder aux installations du centre de Ligue sur les plages libres\nEn plus des 4 entraînements de tennis et 3 de physique hebdomadaire, les sportifs peuvent bénéficier des stages ou rassemblements organisés par le pôle élite de la Ligue\nAccès aux 2 salles de musculation de l'université sur les plages de pratique libre ainsi qu'au centre nautique de Talence\nOffre de stage de préparation physique et d'accompagnement en tournoi\nBac de cryothérapie dans l'enceinte du centre de Ligue\nSéance de suivi individualisée, encadrée par un kiné, dans la salle de musculation du centre de Ligue (récup/prévention des blessures)\nOption tennis/padel disponible en Licence STAPS",
+    "club_proximite": "Accès aux installations extérieures des clubs alentours\nLes étudiants du pole/ CNUT ont accès aux installations du centre de Ligue sur les plages libres\nEn plus des 4 entraînements de tennis et 3 de physique hebdomadaire, les sportifs peuvent bénéficier des stages ou rassemblements organisés par le pôle élite de la Ligue\nAccès aux 2 salles de musculation de l'université sur les plages de pratique libre ainsi qu'au centre nautique de Talence\nOffre de stage de préparation physique et d'accompagnement en tournoi\nBac de cryothérapie dans l'enceinte du centre de Ligue\nSéance de suivi individualisée, encadrée par un kiné, dans la salle de musculation du centre de Ligue (récup/prévention des blessures)\nOption tennis/padel disponible en Licence STAPS",
     "filieres": [
       "Droit",
       "Éco-Gestion",
@@ -2012,8 +1989,7 @@
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 44.8312782,
@@ -2040,7 +2016,7 @@
     "referent": "Alexandre MALEYRIE",
     "email": "alexandre.maleyrie@unilim.fr",
     "telephone": "05 55 45 76 85 - 06 15 92 60 44",
-    "amenagements": "Charte SHN 2025-2026 Université de Limoges\n\nPour les sportifs des catégories Or et Argent :\nAménagements possibles des études : Autorisation d’absence pour les cours (TP/TD), changements temporaires ou définitifs de groupe (TP ou TD), adaptation des périodes de stages, dispenses d’épreuves sportives en lien avec le sport de l’étudiant(e) (STAPS), possibilité d’utiliser les campus connectés\nAménagement possible des examens\nAllègements possibles : Adaptation de la pratique sportive (STAPS), étalement de la durée des études\nPossibilité de bénéficier de tutorat renforcé d’étudiants à raison de 5h maximum dans l’année\nAccompagnements par le référent du sport de haut niveau de l’université : Méthodologie (gestion des priorités, des emplois du temps ou autres), échanges individualisés (conseils, préparation physique), anticipation des contraintes (conflits d’agendas entre calendrier sportif et universitaire), lien avec la structure d’entraînement\nPossibilité de bénéficier des accompagnements universitaires : Ateliers de méthodologie (prise de notes, préparation aux révisions etc.), orientation/réorientation, construction du projet professionnel etc.\n\nPour les sportifs de la catégorie Bronze : Tous les aménagements sauf aménagements possible des examens et tutorat étudiant de 5h\n\nAménagements valables pour les SHN/SBN en Licence STAPS (Entraînement Sportif)",
+    "amenagements": "SHN :\nAménagements possibles des études : Autorisation d’absence pour les cours (TP/TD), changements temporaires ou définitifs de groupe (TP ou TD), adaptation des périodes de stages, dispenses d’épreuves sportives en lien avec le sport de l’étudiant(e) (STAPS), possibilité d’utiliser les campus connectés\nAménagement possible des examens\nAllègements possibles : Adaptation de la pratique sportive (STAPS), étalement de la durée des études\nPossibilité de bénéficier de tutorat renforcé d’étudiants à raison de 5h maximum dans l’année\nAccompagnements par le référent du sport de haut niveau de l’université : Méthodologie (gestion des priorités, des emplois du temps ou autres), échanges individualisés (conseils, préparation physique), anticipation des contraintes (conflits d’agendas entre calendrier sportif et universitaire), lien avec la structure d’entraînement\nPossibilité de bénéficier des accompagnements universitaires : Ateliers de méthodologie (prise de notes, préparation aux révisions etc.), orientation/réorientation, construction du projet professionnel etc.\n\nSBN : Tous les aménagements sauf aménagements possible des examens et tutorat étudiant de 5h",
     "lien": "https://www.unilim.fr/u-pratique/vie-a-luniversite/sport/sportif-de-haut-niveau/",
     "club_proximite": "Possibilité d’avoir accès aux équipements sportifs du SUAPS ou autres installations universitaires appropriées\n\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -2053,8 +2029,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 45.8260427,
@@ -2084,7 +2059,7 @@
     "referent": "Frederic MARCHET",
     "email": "frederic.marchet@univ-pau.fr",
     "telephone": "06 15 88 39 04",
-    "amenagements": "Aménagements d'horaires\nDispense d'assiduité\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagements d'horaires\nDispense d'assiduité",
     "lien": "https://sport.univ-pau.fr/fr/le-suaps/statuts-haut-niveau-et-elite-sportive-universitaire.html",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -2096,8 +2071,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 43.3146145,
@@ -2119,7 +2093,7 @@
     "referent": "Vincent DUHAGON",
     "email": "vincent.duhagon@univ-poitiers.fr",
     "telephone": "06 67 38 67 23",
-    "amenagements": "Niveau 1 (SHN) : \nEchanges de TD/TP\nDispense d'assiduité de droit sauf stages obligatoires\nOrganisation de l'année possible sur plusieurs années \nTutorat étudiant possible\nAccompagnement préparation physique possible \n\nNiveau 2 (SBN) : \nEchange de TD/TP sur 2 créneaux de 2 heures par semaine\nDispense assiduité exceptionelle pour certains évènements \nDispense d'assiduité partielle (une demi-journée par semaine)\nAccompagnement préparation physique individualisée possible",
+    "amenagements": "SHN : \nEchange de TD/TP\nDispense d'assiduité de droit sauf stages obligatoires\nOrganisation de l'année possible sur plusieurs années \nTutorat étudiant possible\nAccompagnement préparation physique possible \n\nSBN : \nEchange de TD/TP sur 2 créneaux de 2 heures par semaine\nDispense assiduité exceptionelle pour certains évènements \nDispense d'assiduité partielle (une demi-journée par semaine)\nAccompagnement préparation physique individualisée possible",
     "lien": "https://suaps.univ-poitiers.fr/accueil/pratiquer-en-haut-niveau/",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -2132,14 +2106,14 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 46.5684757,
     "lng": 0.3838585,
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
       "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé"
@@ -2153,8 +2127,8 @@
     "type": "universite",
     "nom": "Université de Montpellier",
     "region": "OCC",
-    "referent": "Pierre BESSON",
-    "email": "pierre.besson@umontpellier.fr",
+    "referent": "/",
+    "email": "/",
     "telephone": "/",
     "criteres_shn": "Statut SHN : Être inscrit sur les listes ministérielles en catégorie Élite, Senior, Relève et Reconversion ou sur la liste des sportifs Espoirs et Collectifs Nationaux ; Appartenir à une structure d'entraînement inscrite dans le Projet de Performance Fédéral (CNUT de Montpellier)",
     "criteres_sbn": "Statut SBN : Être classé à minima 1/6",
@@ -2176,8 +2150,7 @@
       "Maths-Informatique",
       "Médecine",
       "Sciences",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine",
     "club_proximite": "Entraînement au CNUT de Montpellier : 5 entraînements tennis (2h) + 2 séances de préparation physique (1h). Au total 33 semaines d'entraînement : 31 de septembre à mai (hors vacances scolaires) + 2 en juin (CFU Indiv) + 1 en juillet (Qualif aux Europe)\n\nDurant l'année : 7 suivis tournoi (Open et Univ) + 8 séances individuelles de préparation mentale + structure médicale + suivi universitaire\n\nPrise en charge du matériel (balles) + garantie pluie le vendredi matin + dotation Lacoste\n\nAu CRUT : 2 ou 3 entraînements de 2h tennis + 2 Séances de préparation physique. Durant l'année : 4 suivis tournoi (Open et Univ) + 8 Séances individuelles de préparation mentale + structure médicale",
@@ -2191,7 +2164,7 @@
     "lng": 3.8605852,
     "id": 57,
     "nom_complet": "Université de Montpellier",
-    "amenagements": "Charte SHN Université de Montpellier\n\nAménagement des enseignements et des modalités de contrôle des connaissances\nAménagement des stages en collaboration avec le laboratoire d’accueil ou l’entreprise\nOrganisation de l’emploi du temps\nÉtalement des études\nChoix des groupes de TD et TP\nAutorisation d'absences régulières pour raisons sportives (entraînements, stages, compétitions)\nPossibilité d'aménagements des examens (sessions différées ou évaluation à 100% en contrôle terminal)\nTutorat individuel"
+    "amenagements": "Aménagement des enseignements et des modalités de contrôle des connaissances\nAménagement des stages en collaboration avec le laboratoire d’accueil ou l’entreprise\nOrganisation de l’emploi du temps\nÉtalement des études\nChoix des groupes de TD et TP\nAutorisation d'absences régulières pour raisons sportives (entraînements, stages, compétitions)\nPossibilité d'aménagements des examens (sessions différées ou évaluation à 100% en contrôle terminal)\nTutorat individuel"
   },
   {
     "id": 58,
@@ -2202,7 +2175,7 @@
     "referent": "Marie-Krystel SALVADOR",
     "email": "mk.salvador@univ-perp.fr",
     "telephone": "04 68 66 17 07",
-    "amenagements": "Flexibilité dans l'organisation du temps de formation\nÉtalement de la formation\nAménagement de l'emploi du temps (changement de groupe possible)\nMise en place de sessions spéciales d'examens pour les SHN (examens organisés en distanciel pour certaines composantes)\nDispense d'assiduité\nTutorat collectif enseignant et tutorat prise de notes\n\nToutes les formations sont concernées par ces aménagements (plus contraignant en STAPS)",
+    "amenagements": "Flexibilité dans l'organisation du temps de formation\nÉtalement de la formation\nAménagement de l'emploi du temps (changement de groupe possible)\nMise en place de sessions spéciales d'examens pour les SHN (examens organisés en distanciel pour certaines composantes)\nDispense d'assiduité\nTutorat collectif enseignant et tutorat prise de notes",
     "lien": "https://www.univ-perp.fr/formation/accompagnement-a-la-reussite/sportifs-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
@@ -2214,8 +2187,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": true,
     "lat": 42.6821739,
@@ -2237,9 +2209,9 @@
     "nom": "Université Paul-Valéry Montpellier 3",
     "nom_complet": "Université Paul-Valéry Montpellier 3",
     "region": "OCC",
-    "referent": "Franck VALLS",
-    "email": "franck.valls@univ-montp3.fr",
-    "telephone": "06 12 36 14 56",
+    "referent": "Sylvie BELLE",
+    "email": "sylvie.belle@umpv.fr",
+    "telephone": "06 66 34 64 40",
     "amenagements": "Validation de l’UE EPS (2 ECTS/ semestre) sans présence aux cours mais sur inscription uniquement\nFacilitation d’aménagement d’emploi du temps et facilitation d’obtention de dispenses d’assiduités pour les TD\nMise en place d’un tutorat individuel sur demande\nPossibilité d’aménagement des examens\n\nToutes les formations de l'université sont concernées par ces aménagements",
     "lien": "https://www.univ-montp3.fr/fr/campus/sports-et-pratiques-physiques/sport-et-haut-niveau",
     "club_proximite": "Entraînement au CNUT de Montpellier : 5 entraînements tennis (2h) + 2 séances de préparation physique (1h). Au total 33 semaines d'entraînement : 31 de septembre à mai (hors vacances scolaires) + 2 en juin (CFU Indiv) + 1 en juillet (Qualif aux Europe)\n\nDurant l'année : 7 suivis tournoi (Open et Univ) + 8 séances individuelles de préparation mentale + structure médicale + suivi universitaire\n\nPrise en charge du matériel (balles) + garantie pluie le vendredi matin + dotation Lacoste\n\nAu CRUT : 2 ou 3 entraînements de 2h tennis + 2 Séances de préparation physique. Durant l'année : 4 suivis tournoi (Open et Univ) + 8 Séances individuelles de préparation mentale + structure médicale",
@@ -2273,16 +2245,15 @@
     "nom_complet": "Université Toulouse I Capitole",
     "region": "OCC",
     "referent": "Béatrice JANTORE",
-    "email": "beatrice.jantore@ut-capitole.fr",
+    "email": "shn@ut-capitole.fr",
     "telephone": "06 82 49 35 12",
-    "amenagements": "Étalement de la durée du cursus\nPossibilité de changer de groupes de TD\nDispense d'assiduité aux TD et évaluation à 100% en contrôle terminal\nAbsences à caractère exceptionnel pour raison sportive\nPossibilité de déplacer les examens de première session en cas de compétitions ou sélections pour des stages\n\nToutes les formations sont concernées par ces aménagements",
+    "amenagements": "Étalement de la durée du cursus\nPossibilité de changer de groupes de TD\nDispense d'assiduité aux TD et évaluation à 100% en contrôle terminal\nAbsences à caractère exceptionnel pour raison sportive\nPossibilité de déplacer les examens de première session en cas de compétitions ou sélections pour des stages",
     "lien": "https://www.ut-capitole.fr/accueil/campus/sport/etre-sportif-de-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
     "filieres": [
       "Droit",
       "Éco-Gestion",
-      "Sciences Politiques",
-      "BUT"
+      "Sciences Politiques"
     ],
     "distanciel": false,
     "lat": 43.5943374,
@@ -2307,15 +2278,14 @@
     "referent": "Yannick KINOO",
     "email": "yannick.kinoo@univ-tlse2.fr",
     "telephone": "06 78 48 74 42",
-    "amenagements": "ESHN et ESBNN :\nAccompagnement privilégié et tutorat spécifique\nAménagement du cursus\nCours en enseignement à distance\nChoix des groupes de TD\nReport d'examen\n\nESBNR :\nCours en enseignement à distance",
+    "amenagements": "SHN :\nAccompagnement privilégié et tutorat spécifique\nAménagement du cursus\nCours en enseignement à distance\nChoix des groupes de TD\nReport d'examen\n\nSBN :\nCours en enseignement à distance",
     "lien": "https://www.univ-tlse2.fr/accueil/vie-campus/sport/les-sportifs-de-haut-niveau-1",
     "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
       "Arts, Lettres et Langues",
       "Éco-Gestion",
       "Histoire-Géographie",
-      "Sciences Humaines",
-      "BUT"
+      "Sciences Humaines"
     ],
     "distanciel": true,
     "lat": 43.5777,
@@ -2341,7 +2311,7 @@
     "referent": "Christine BOUNHOURET",
     "email": "suaps.dshn@utoulouse.fr",
     "telephone": "05 61 55 84 15",
-    "amenagements": "SHN :\nDispense d'assiduité d'un ou plusieurs cours\nMise en place d'un parrain\nAménagement du cursus sur la durée\nCours de soutien\nChangement de groupe TP/TD\nSession spéciale d'examen, aménagement des stages \nAménagement de la pratique des cours APS \n\nSBN :\nAménagement cursus sur la durée\nChangement de groupe TD/TP\nSession spéciale d'examen\nAccès à des créneaux de musculation \n\nToutes les filières de l'établissement sont concernées, sauf la 1ère année de médecine",
+    "amenagements": "SHN :\nDispense d'assiduité d'un ou plusieurs cours\nMise en place d'un parrain\nÉtalement du cursus sur la durée\nCours de soutien\nChangement de groupe TP/TD\nSession spéciale d'examen, aménagement des stages \nAménagement de la pratique des cours APS \n\nSBN :\nÉtalement du cursus sur la durée\nChangement de groupe TD/TP\nSession spéciale d'examen\nAccès à des créneaux de musculation",
     "lien": "https://www.univ-tlse3.fr/sport/departement-du-sport-de-haut-niveau",
     "club_proximite": "Les sportifs peuvent s'inscrire (gratuitement) dans les activités proposées par le service des sports. Des places sont réservées sur les cours de musculation, pour les sportifs sous contrat au DSHN. \n\nLes sportifs n'ont pas d'accès libre aux installations sportives de l'Université (déjà très utilisées par STAPS et le SUAPS), ni d'un club aux alentours.",
     "filieres": [
@@ -2350,8 +2320,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 43.5611,
@@ -2397,11 +2366,10 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
-    "club_proximite": "La possibilité d’accéder aux centres d’entrainement et de performance sportive (salle de musculation) ouverts sur l'Université d'Aix-Marseille sous réserve du niveau sportif (convention avec la Ligue PACA)\n\nLa possibilité d’accéder aux installations sportives universitaires sur des créneaux ouverts à la pratique libre et/ou dans le cadre de créneaux SUAPS et/ou par voie de conventionnement avec la structure d’entrainement\n\nPour les sportifs classés 4/6 et plus, ils peuvent bénéficier de deux entraînements hebdomadaires : Un à Aix-en-Provence sur les installations de la Ligue PACA avec un entraineur de la Ligue qui est mis à disposition ; un autre à Marseille avec un enseignant SUAPS de l'université amU\n\nIl existe deux clubs de tennis universitaires hébergés par Aix-Marseille Université. Les étudiants tennis peuvent venir pratiquer librement s'ils justifient d'un classement de 4/6 et plus.",
+    "club_proximite": "La possibilité d’accéder aux centres d’entraînement et de performance sportive (salle de musculation) ouverts sur l'Université d'Aix-Marseille sous réserve du niveau sportif (convention avec la Ligue PACA)\n\nLa possibilité d’accéder aux installations sportives universitaires sur des créneaux ouverts à la pratique libre et/ou dans le cadre de créneaux SUAPS et/ou par voie de conventionnement avec la structure d’entrainement\n\nPour les sportifs classés 4/6 et plus, ils peuvent bénéficier de deux entraînements hebdomadaires : Un à Aix-en-Provence sur les installations de la Ligue PACA avec un entraineur de la Ligue qui est mis à disposition ; un autre à Marseille avec un enseignant SUAPS de l'université amU\n\nIl existe deux clubs de tennis universitaires hébergés par Aix-Marseille Université. Les étudiants tennis peuvent venir pratiquer librement s'ils justifient d'un classement de 4/6 et plus.",
     "lien": "https://www.univ-amu.fr/fr/sportifs-sportives-de-haut-niveau-amu",
     "lien_doc": [
       "https://drive.google.com/file/d/1oe2GmBxH3dSVUfDtlYP8B9qlRfiMWTwR/view?usp=sharing",
@@ -2412,7 +2380,7 @@
     "lng": 5.375,
     "id": 63,
     "nom_complet": "Université d'Aix Marseille",
-    "amenagements": "Charte SHN Université d'Aix Marseille\n\nPour l’ensemble des SHN (liste Or, Argent et Bronze) :\nUn accompagnement personnalisé dans la mise en oeuvre des aménagements d’études\nL’organisation spécifique de l’emploi du temps : choix des groupes TD/TP, règles d’assiduité adaptées\nLa possibilité de bénéficier d’un tutorat initié par les pairs dans le cadre du bonus engagement étudiant\nLa possibilité de bénéficier des conseils et activités proposés par le Service Universitaire d’Insertion et d’Orientation (SUIO) et/ou le SUAPS ciblés pour les SHN-amU (ex. recherche de stages, valorisation des softskills, média-training, etc.)\nPossibilité de passer les examens en distanciel\nPossibilité de décaler les examens en raison d'imprévus liés au double projet\n\nPour les SHN (liste Or et Argent) :\nDans la limité du budget dédié, la possibilité de bénéficier de cours de rattrapage/soutien dispensés par des enseignants\nLa possibilité de bénéficier d’un régime longues études\nLe bénéfice d’un accompagnement pour la constitution d’un dossier de CESURE\nL’adaptation des modalités de stage\n\nToutes les filières de l'établissement sont concernées"
+    "amenagements": "SHN et SBN :\nUn accompagnement personnalisé dans la mise en oeuvre des aménagements d’études\nL’organisation spécifique de l’emploi du temps : choix des groupes TD/TP, règles d’assiduité adaptées\nPossibilité de bénéficier d’un tutorat initié par les pairs dans le cadre du bonus engagement étudiant\nPossibilité de bénéficier des conseils et activités proposés par le Service Universitaire d’Insertion et d’Orientation (SUIO) et/ou le SUAPS ciblés pour les SHN-amU (ex. recherche de stages, valorisation des softskills, média-training, etc.)\nPossibilité de passer les examens en distanciel\nPossibilité de décaler les examens en raison d'imprévus liés au double projet\n\nUniquement pour les SHN :\nPossibilité de bénéficier de cours de rattrapage/soutien dispensés par des enseignants\nPossibilité de bénéficier d’un régime longues études\nAccompagnement à la constitution d’un dossier de césure\nAdaptation des modalités de stage"
   },
   {
     "id": 64,
@@ -2434,8 +2402,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 43.9494689,
@@ -2458,10 +2425,10 @@
     "nom": "Université Côte d'Azur (Nice)",
     "nom_complet": "Université Côte d'Azur (Nice)",
     "region": "PACA",
-    "referent": "Isabelle SCHOENHENZ",
-    "email": "isabelle.schoenhenz@univ-cotedazur.fr",
+    "referent": "Pierre BARONE",
+    "email": "pierre.barone@univ-cotedazur.fr",
     "telephone": "/",
-    "amenagements": "Charte SHNU Université Côte d'Azur\n\nAménagements des examens\nAménagement d'horaire et organisation de l'emploi du temps en fonction du calendrier sportif\nDispense d'assiduité exceptionnelle pour un TP ou un TD\nDispense d'assiduité récurrente ou totale aux cours\nPossibilité d'étaler le cursus",
+    "amenagements": "Aménagements des examens\nAménagement d'horaire et organisation de l'emploi du temps en fonction du calendrier sportif\nDispense d'assiduité exceptionnelle pour un TP ou un TD\nDispense d'assiduité récurrente ou totale aux cours\nPossibilité d'étaler le cursus",
     "lien": "https://sport.univ-cotedazur.fr/fr/UcaWeb/Sport/",
     "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
@@ -2474,8 +2441,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 43.7170132,
@@ -2502,7 +2468,7 @@
     "referent": "Emmanuel MESSIS",
     "email": "emmanuel.messis@unimes.fr",
     "telephone": "/",
-    "amenagements": "Charte SHN Université de Nîmes\n\nAménagement de l'emploi du temps\nAide pédagogique\nAménagements des examens : Contrôles continus et terminaux si l’étudiant ne peut pas participer aux contrôles prévus dans le cadre de la formation, en raison d’une compétition, stage ou entraînement trop important pour être déplacé, dûment justifié par la fédération. Dans le cadre d’un contrôle continu, une épreuve de substitution est proposée. Dans le cadre d’un contrôle terminal, une session spéciale, différente de la session 2 afin de garantir à l’étudiant le droit aux deux sessions.\nDispense d'assiduité/Autorisation d'absence",
+    "amenagements": "Aménagement de l'emploi du temps\nAide pédagogique\nAménagements des examens : Contrôles continus et terminaux si l’étudiant ne peut pas participer aux contrôles prévus dans le cadre de la formation, en raison d’une compétition, stage ou entraînement trop important pour être déplacé, dûment justifié par la fédération. Dans le cadre d’un contrôle continu, une épreuve de substitution est proposée. Dans le cadre d’un contrôle terminal, une session spéciale, différente de la session 2 afin de garantir à l’étudiant le droit aux deux sessions.\nDispense d'assiduité/Autorisation d'absence",
     "lien": "https://www.unimes.fr/fr/formations/etudes-et-scolarite/amenagement-d-etudes/sportifs-de-haut-niveau.html",
     "club_proximite": "Pas de relation avec un club de proximité",
     "filieres": [
@@ -2512,8 +2478,7 @@
       "Maths-Informatique",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 43.8388058,
@@ -2539,7 +2504,7 @@
     "email": "fabrice.vercruyssen@univ-tln.fr",
     "telephone": "04 94 14 28 28",
     "criteres_shn": "Statut SHN : Être Sportif de Haut Niveau inscrit sur la Liste Ministérielle du Ministère des Sports",
-    "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Être un sportif d'élite inter-régionale et participer à des compétitions de niveau national (minimum 5 entraînements par semaine)",
+    "criteres_sbn": "Statut SHN : Être classé à minima 4/6 ; Être un sportif d'élite inter-régionale et participer à des compétitions de niveau national (minimum 5 entraînements par semaine)",
     "classement_sbn": "4/6",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
@@ -2558,8 +2523,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de convention cadre mais un partenariat avec des clubs environnants permettant aux étudiants d'avoir des lieux de stage\n\nAccès libre aux 2 terrains de l'université toute la journée",
@@ -2572,7 +2536,7 @@
     "lng": 6.0161592,
     "id": 67,
     "nom_complet": "Université de Toulon",
-    "amenagements": "Charte SHN Université de Toulon\n\nSHN Niveau 1 : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences et dispenses d’assiduité\nAménagement des examens\nAménagement de la durée des études\n\nSHN Niveau 2 : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences\nAménagement des examens\n\nToutes les formations sont concernées par ces aménagements"
+    "amenagements": "SHN : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences et dispenses d’assiduité\nAménagement des examens\nAménagement de la durée des études\n\nSHN : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences\nAménagement des examens"
   },
   {
     "id": 68,
@@ -2583,7 +2547,7 @@
     "referent": "Nathalie FERRIERE",
     "email": "nathalie.ferriere@sciencespo-aix.fr",
     "telephone": "04 65 04 70 06",
-    "amenagements": "Règlement des études Sciences Po Aix-en-Provence\n\nIls bénéficient d’aménagements dans le déroulement de leur scolarité\nLes aménagements sont individualisés suivant l'athlète de haut niveau et au cas par cas\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Les étudiants bénéficient d’aménagements dans le déroulement de leur scolarité\nLes aménagements sont individualisés suivant l'athlète de haut niveau et au cas par cas",
     "lien": "https://www.sciencespo.fr/students/fr/etudier/sportif-haut-niveau-ou-artiste-haut-niveau/",
     "club_proximite": "Association sportive Tennis et accès aux installations de l'université\n\nPas de relation avec un club de proximité",
     "filieres": [
@@ -2629,8 +2593,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de relation avec un club de proximité",
@@ -2641,7 +2604,7 @@
     "lng": 0.1584525,
     "id": 69,
     "nom_complet": "Université de Le Mans",
-    "amenagements": "Aménagement d'horaires \nChangement de groupe TD/TP\nDispense d'assiduité\nReport d'examens\nDispense de contrôle continu\n\nToutes les formations de l'université sont concernées par ces aménagements"
+    "amenagements": "Aménagement d'horaires \nChangement de groupe TD/TP\nDispense d'assiduité\nReport d'examens\nDispense de contrôle continu"
   },
   {
     "id": 70,
@@ -2652,7 +2615,7 @@
     "referent": "Pierre-Gilles GUITTON",
     "email": "pierre-gilles.guitton@univ-nantes.fr",
     "telephone": "06 63 56 82 55",
-    "amenagements": "Groupe 1 (SHN, Elite et Senior) et Groupe 2 (Relève, Espoirs et Collectifs Nationaux) :\nÉtalement du cursus\nDispense d'assiduité\nChoix de groupe TD-TP\nReport d'examens possibles\nTutorat étudiant\nCours de soutien individualisé\nAutorisation ponctuelle d'absences pour entraînement et compétitions\n\nGroupe 3 (Sport Universitaire) :\nDispense d'assiduité\nReport d'examens possibles (selon les compétitions et les objectifs sportifs)\nAutorisations ponctuelle d'absences pour entraînement et compétitions\n\nToutes les formations de Nantes Université sont concernées par ce dispositif (Pôles humanités, sociétés, santé, sciences et technologie et l'INSPE). C'est parfois plus difficile pour les établissements  composantes qui sont \"rattachés\" à Nantes Université depuis 4 ans (Centrale, Beaux arts, ENSA, IFSI ...)",
+    "amenagements": "SHN :\nÉtalement du cursus\nDispense d'assiduité\nChoix de groupe TD-TP\nReport d'examens possibles\nTutorat étudiant\nCours de soutien individualisé\nAutorisation ponctuelle d'absences pour entraînement et compétitions\n\nSBN :\nDispense d'assiduité\nReport d'examens possibles (selon les compétitions et les objectifs sportifs)\nAutorisations ponctuelle d'absences pour entraînement et compétitions",
     "lien": "https://www.univ-nantes.fr/vie-de-campus/culture-sport/sport-de-haut-niveau",
     "club_proximite": "Pas de relation avec un club de proximité (mais travail en collaboration avec la Ligue Pays de la Loire)\n\nUn enseignant de l'université encadre un créneau d'entraînement le jeudi de 13h30 à 16h sur une installation municipale",
     "filieres": [
@@ -2665,8 +2628,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": 47.2454573,
@@ -2692,7 +2654,7 @@
     "referent": "Guillaume DURON",
     "email": "guillaume.duron@univ-angers.fr",
     "telephone": "02 41 22 69 49",
-    "amenagements": "Aménagements d’études et adaptation du temps de formation (autorisations d’absence, changement de groupe de TP/TD, adaptation des périodes de stage, étalement du cursus)\nOrganisation de sessions ou de modalités particulières d’examen à distance\nAménagements des contrôles de connaissances : Conditions de déroulement des épreuves, étalement des épreuves, adaptations d’épreuves\nTutorat disciplinaire et/ou méthodologique\n\nToutes les formations de l'université sont concernées par ces aménagements",
+    "amenagements": "Aménagements d’études et adaptation du temps de formation (autorisations d’absence, changement de groupe de TP/TD, adaptation des périodes de stage, étalement du cursus)\nOrganisation de sessions ou de modalités particulières d’examen à distance\nAménagements des contrôles de connaissances : Conditions de déroulement des épreuves, étalement des épreuves, adaptations d’épreuves\nTutorat disciplinaire et/ou méthodologique",
     "lien": "https://www.univ-angers.fr/fr/vie-des-campus/sport/sportifs-de-haut-niveau.html",
     "club_proximite": "Accès privilégié à la salle de musculation du Centre de Sport Universitaire et des autres activités proposées par le SUAPS\n\nGratuité de la licence pour participer aux compétitions universitaire (dans le cadre de la Fédération Française du Sport Universitaire)\n\nPas de relation avec un club de proximité",
     "filieres": [
@@ -2705,8 +2667,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": true,
     "lat": 47.4803871,
@@ -2719,7 +2680,7 @@
       "Tutorat individualisé",
       "Accès aux installations sportives universitaires"
     ],
-    "criteres_shn": "Statut SHN : Inscrits sur les listes nationales du ministère des Sports",
+    "criteres_shn": "Statut SHN : Sportifs inscrits sur les listes nationales du ministère des Sports",
     "criteres_sbn": "Statut SBN : Étudiants justifiant d’un niveau de pratique national ou régional, de contraintes liées aux compétitions (déplacements fréquents, compétitions régulières), d’une contrainte d’entraînement importante, d'une expérience en compétition et d'un projet sportif",
     "classement_sbn": "Non déterminé",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
@@ -2733,7 +2694,7 @@
     "referent": "Fabrice PAYET",
     "email": "fabrice.payet@univ-reunion.fr",
     "telephone": "+262 692 03 01 48",
-    "amenagements": "Catégorie A : Aménagements, autorisation d'absences, étalement du cursus\n\nCatégorie B : Aménagements, autorisation d'absences\n\nToutes les formations de l'université sont concernées par ces aménagements (hormis le droit)",
+    "amenagements": "SHN : Aménagements, autorisation d'absences, étalement du cursus\n\nSBN : Aménagements, autorisation d'absences\n\nToutes les formations de l'université sont concernées par ces aménagements (hormis le droit)",
     "lien": "https://suaps.univ-reunion.fr/haut-niveau",
     "club_proximite": "Pas de relation avec un club de proximité\nAccès aux installations sportives de l'université\nAccès à un plan alimentaire spécifique, à un préparateur physique et à un préparateur mental",
     "filieres": [
@@ -2746,8 +2707,7 @@
       "Médecine",
       "Sciences",
       "Sciences Humaines",
-      "STAPS",
-      "BUT"
+      "STAPS"
     ],
     "distanciel": false,
     "lat": -20.9019193,
@@ -2766,9 +2726,9 @@
     "type": "universite",
     "nom": "Université de la Nouvelle-Calédonie",
     "region": "NCA",
-    "referent": "Eric MICHALAK",
-    "email": "eric.michalak@unc.nc",
-    "telephone": "06 87 78 84 09",
+    "referent": "Eric REUILLARD",
+    "email": "ericreuillard80@gmail.com",
+    "telephone": "+687 96 18 08",
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Non déterminé",
     "classement_sbn": "Non déterminé",
@@ -2794,7 +2754,7 @@
     "lng": 166.402645,
     "id": 73,
     "nom_complet": "Université de la Nouvelle-Calédonie",
-    "amenagements": "Plaquette Pôle Excellence Sport Universitaire Université de la Nouvelle-Calédonie\n\nContrat d'étude personnalise et adapté aux besoins de chaque étudiant\nTutorat individualisé\nAccès au logement étudiant\nAccompagnement à la recherche de stages et à la mobilité"
+    "amenagements": "Contrat d'étude personnalisé et adapté aux besoins de chaque étudiant\nTutorat individualisé\nAccès au logement étudiant\nAccompagnement à la recherche de stages et à la mobilité"
   },
   {
     "id": 1000,
