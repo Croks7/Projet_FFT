@@ -396,7 +396,7 @@ export default function AdminPage() {
             </div>
             <div className="admin-form-body">
               <fieldset>
-                <legend>Bandeau bleu</legend>
+                <legend>Bandeau</legend>
                 <label>
                   Titre
                   <input
@@ -414,6 +414,44 @@ export default function AdminPage() {
                     placeholder="Texte de description affiché sous le titre..."
                   />
                 </label>
+                <div className="admin-grid-2">
+                  <label>
+                    Couleur du bandeau
+                    <div className="admin-color-row">
+                      <input
+                        type="color"
+                        value={config.bandeau_couleur || '#003f8a'}
+                        onChange={e => { setConfig(c => ({ ...c, bandeau_couleur: e.target.value })); setHasChanges(true) }}
+                      />
+                      <input
+                        type="text"
+                        value={config.bandeau_couleur || '#003f8a'}
+                        onChange={e => { setConfig(c => ({ ...c, bandeau_couleur: e.target.value })); setHasChanges(true) }}
+                        placeholder="#003f8a"
+                      />
+                    </div>
+                  </label>
+                  <label>
+                    URL du logo
+                    <input
+                      value={config.bandeau_logo_url || ''}
+                      onChange={e => { setConfig(c => ({ ...c, bandeau_logo_url: e.target.value })); setHasChanges(true) }}
+                      placeholder="/logo-fft.png ou https://..."
+                    />
+                    {config.bandeau_logo_url && (
+                      <img src={config.bandeau_logo_url} alt="Aperçu logo" className="admin-logo-preview" />
+                    )}
+                  </label>
+                </div>
+                <div className="admin-bandeau-preview" style={{ background: config.bandeau_couleur || '#003f8a' }}>
+                  <div className="admin-bandeau-preview-content">
+                    <p>{config.bandeau_description}</p>
+                    <strong>{config.bandeau_titre}</strong>
+                  </div>
+                  {config.bandeau_logo_url && (
+                    <img src={config.bandeau_logo_url} alt="logo" className="admin-bandeau-preview-logo" />
+                  )}
+                </div>
               </fieldset>
             </div>
             <div className="admin-form-footer">
@@ -485,7 +523,7 @@ export default function AdminPage() {
             <option value="universite">Universités</option>
             <option value="ecole_commerce">Écoles de commerce</option>
           </select>
-          <button className="admin-btn-secondary" onClick={() => setEditing('bandeau')}>Modifier le bandeau</button>
+          <button className="admin-btn-bandeau" onClick={() => setEditing('bandeau')}>🎨 Modifier le bandeau</button>
           <button className="admin-btn-primary" onClick={() => setEditing('new')}>+ Ajouter</button>
         </div>
 

@@ -227,6 +227,78 @@
 
 .admin-btn-add-url:hover { border-color: #003f8a; color: #003f8a; }
 
+.admin-btn-bandeau {
+  background: #f59e0b;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.admin-btn-bandeau:hover { background: #d97706; }
+
+/* ── Bandeau editor ─────────────────────────────────────── */
+.admin-color-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+.admin-color-row input[type="color"] {
+  width: 40px;
+  height: 36px;
+  padding: 2px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.admin-color-row input[type="text"] {
+  flex: 1;
+}
+
+.admin-logo-preview {
+  margin-top: 8px;
+  max-height: 50px;
+  max-width: 120px;
+  object-fit: contain;
+  display: block;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 4px;
+  background: #f5f5f5;
+}
+
+.admin-bandeau-preview {
+  margin-top: 16px;
+  border-radius: 10px;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  color: white;
+}
+.admin-bandeau-preview-content p {
+  font-size: 11px;
+  opacity: 0.85;
+  margin: 0 0 4px;
+}
+.admin-bandeau-preview-content strong {
+  font-size: 13px;
+  line-height: 1.4;
+  display: block;
+}
+.admin-bandeau-preview-logo {
+  max-height: 48px;
+  max-width: 80px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
 /* ── Status messages ───────────────────────────────────── */
 .admin-error { color: #c0392b; font-size: 13px; margin: 4px 0; }
 .admin-success { color: #27ae60; font-size: 13px; }

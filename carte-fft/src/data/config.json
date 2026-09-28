@@ -1,4 +1,6 @@
 {
   "bandeau_titre": "Trouver des formations pour Sportif de Haut Niveau (SHN) et pour Sportif de Bon Niveau (SBN)",
-  "bandeau_description": "Outil mis à disposition par la Fédération Française de Tennis pour accompagner ses meilleurs sportifs dans leur double projet sportif et académique."
+  "bandeau_description": "Outil mis à disposition par la Fédération Française de Tennis pour accompagner ses meilleurs sportifs dans leur double projet sportif et académique.",
+  "bandeau_couleur": "#003f8a",
+  "bandeau_logo_url": "/logo-fft.png"
 }

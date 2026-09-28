@@ -58,13 +58,13 @@ export default function App() {
   return (
     <div className="app">
       <div className="page-card">
-        <header className="hero">
+        <header className="hero" style={{ background: siteConfig.bandeau_couleur || '#003f8a' }}>
           <div className="hero-inner">
             <div className="hero-content">
               <p className="hero-description">{siteConfig.bandeau_description}</p>
               <h1>{siteConfig.bandeau_titre}</h1>
             </div>
-            <img src="/logo-fft.png" className="hero-logo" alt="FFT" />
+            <img src={siteConfig.bandeau_logo_url || '/logo-fft.png'} className="hero-logo" alt="FFT" />
           </div>
         </header>
 
