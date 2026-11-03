@@ -91,7 +91,7 @@
     "region": "ARA",
     "referent": "Hervé BIZZOTTO",
     "email": "herve.bizzotto@insa-lyon.fr",
-    "telephone": "04 72 43 85 99",
+    "telephone": "04 72 43 85 99\n06 35 88 16 96",
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
     "criteres_sbn": "Statut SBN : Attestation fédérale justifiant un niveau national  et être classé au moins 2/6 (certains sportifs en dessous de ce classement peuvent être acceptés selon les places disponibles)",
     "classement_sbn": "2/6",
@@ -123,8 +123,8 @@
     "nom": "Université Claude Bernard Lyon 1",
     "nom_complet": "Université Claude Bernard Lyon 1",
     "region": "ARA",
-    "referent": "Sébastien MEYER",
-    "email": "shn.staps@univ-lyon1.fr",
+    "referent": "Sébastien MEYER\nMiloud BLAZOUZ",
+    "email": "shn.staps@univ-lyon1.fr\nmiloud.blalouz@univ-lyon1.fr",
     "telephone": "07 85 96 66 48",
     "amenagements": "Aménagements d’horaires possibles\nAutorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)\nDispense d'assiduité\nÉtalement d’une année en 2 ans ou d’une licence en 4 ans\nSessions aménagées pour les examens\nTutorat individualisé",
     "lien": "https://suaps.univ-lyon1.fr/inscriptions-pratique/haut-niveau?",
@@ -381,13 +381,17 @@
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
       "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé"
     ],
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau",
-    "criteres_sbn": "Statut SBN : Être classé à minima 2/6",
+    "criteres_sbn": "Statut SBN au sein du PEPS (Pôle d’Excellence des Pratiques Sportives) : Être classé à minima 2/6",
     "classement_sbn": "2/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc": [
+      "https://sport-u-bourgognefranchecomte.com/administration-dijon-3/"
+    ]
   },
   {
     "id": 10,
@@ -678,6 +682,9 @@
     "lng": 1.3258033,
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
       "Tutorat individualisé",
       "Accès aux installations sportives universitaires",
       "Collaboration avec un club de proximité"
@@ -693,10 +700,10 @@
     "nom": "Université de Tours",
     "nom_complet": "Université de Tours",
     "region": "CVL",
-    "referent": "Isabelle ESCOFFIER",
-    "email": "isabelle.escoffier@univ-tours.fr",
+    "referent": "Isabelle ESCOFFIER\nStéphane RAMON",
+    "email": "isabelle.escoffier@univ-tours.fr\nstephane.ramon@univ-tours.fr",
     "telephone": "06 15 07 46 92",
-    "amenagements": "Possibilité d'allongement du cursus universitaire par la signature d'un contrat pédagogique\nPossibilité d'organisation de l'emploi du temps et des examens (SHN uniquement, et suivant les composantes) pour la prise en compte des impératifs de l'entraînement et des déplacements (par exemple : choix de groupe de TD, aménagement d'horaires, absence ponctuelle...)\nPossibilité d'autorisation d'absence pour la participation aux stages et aux compétitions officielles de niveau national, y compris FFSportU",
+    "amenagements": "Possibilité d'allongement du cursus universitaire par la signature d'un contrat pédagogique\nPossibilité d'aménagement d’horaires et de l’emploi du temps + absence ponctuelle\nChoix des groupes de TD/TP\nAménagement des examens (SHN uniquement, sauf en médecine) pour la prise en compte des impératifs de l'entraînement et des déplacements\nPossibilité d'autorisation d'absence pour la participation aux stages et aux compétitions officielles de niveau national, y compris FFSportU",
     "lien": "https://www.univ-tours.fr/campus/accueil-sport-1/accueil-sport/3-1-informations-generales",
     "club_proximite": "Possibilité d'accès à la salle de musculation pendant les cours du SUAPS et avec l'accord de l'enseignant référent\n\nPas de collaboration avec un club de proximité",
     "filieres": [
@@ -723,7 +730,7 @@
     "criteres_shn": "Statut SHN : Etre inscrit sur les listes du Ministère des sports dans les catégories Élite, Senior, Relève, Reconversion ou sur les listes Espoirs ou Collectifs Nationaux ; Appartenir à des structures d’entraînement reconnues dans le projet de performance fédéral (PPF)",
     "criteres_sbn": "Statut SBN : Pratiquer de façon intensive et régulière (au moins 8 à 10 heures par semaine) une activité physique sportive, et évoluer et avoir avoir obtenu des résultats significatifs à des niveaux internationaux, nationaux ou parfois interrégionaux dans des compétitions fédérales, scolaires ou universitaires. Être classé à minima 2/6",
     "classement_sbn": "2/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements (sauf aménagements des examens en médecine)"
   },
   {
     "type": "universite",
@@ -781,7 +788,9 @@
       "Droit",
       "Éco-Gestion",
       "Histoire-Géographie",
+      "Ingénieur",
       "Maths-Informatique",
+      "Médecine",
       "Sciences",
       "Sciences Humaines",
       "Sciences Politiques",
@@ -796,7 +805,7 @@
       "Choix des groupes de TD/TP",
       "Tutorat individualisé"
     ],
-    "criteres_shn": "Statut SHN : Sportifs inscrits sur les listes des Sportifs de Haut Niveau du Ministère ; Sportifs inscrits dans les Pôles et centres régionnaux d'entrainement rattachés au PPF (niveau national)",
+    "criteres_shn": "Statut SHN : Sportifs inscrits sur les listes des Sportifs de Haut Niveau du Ministère ; Sportifs inscrits dans les Pôles et centres régionnaux d'entrainement rattachés au PPF (niveau national) ; Sportifs non inscrits sur liste ministérielle et au regard de la commission haut niveau de l’université",
     "criteres_sbn": "Statut SBN : Niveau interrégional/régional, étude au cas par cas",
     "classement_sbn": "Non déterminé",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
@@ -961,8 +970,8 @@
     "nom_complet": "Université Polytechnique Hauts-de-France",
     "region": "HDF",
     "referent": "Jérome GRAINDORGE",
-    "email": "jerome.graindorge@uphf.fr",
-    "telephone": "03 27 51 10 68 - 06 46 37 00 72",
+    "email": "jerome.graindorge@uphf.fr\nsebastien.malapel@uphf.fr",
+    "telephone": "06 46 37 00 72\n06 14 48 14 87",
     "amenagements": "Aménagement du rythme d'études : Année d'étude en 2 ans\n Choix de groupe de CM, TD &TP\nDispense d'assiduité\nValorisation de sa pratique au sein de son parcours de formation,\nAccès privilégié aux logements de la résidence universitaire sur critère sportif\nLicence L3P en distanciel",
     "lien": "https://www.uphf.fr/formation/choisir-sa-formation/sport-haut-niveau-luniversite",
     "club_proximite": "Pas de relation avec un club de proximité\n\nAccès privilégié aux installations sportives",
@@ -1102,7 +1111,7 @@
       "Tutorat individualisé"
     ],
     "criteres_shn": "Statut SHN : Sportifs inscrits sur les listes SHN du Ministère de la Jeunesse et des Sports ; Sportifs intégrés à un Pôle (Elite, France ou Espoir)",
-    "criteres_sbn": "Statut SBN : Participer à des compétitions ou des Championnats de Niveau National (ou au plus haut niveau régional dans certains cas), présenter une charge d’entraînement conséquente (volume minimum de 4 entraînements par semaine) et être considéré comme un espoir potentiel par sa fédération sportive, attestation à l’appui (soit 2/6 en tennis)",
+    "criteres_sbn": "Sportif à Pratique Intensive : Participer à des compétitions ou des Championnats de Niveau National (ou au plus haut niveau régional dans certains cas), présenter une charge d’entraînement conséquente (volume minimum de 4 entraînements par semaine) et être considéré comme un espoir potentiel par sa fédération sportive, attestation à l’appui (soit 2/6 en tennis)",
     "classement_sbn": "2/6",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
@@ -1272,8 +1281,9 @@
     "lat": 48.956638,
     "lng": 2.3405983,
     "lien_doc": [
-      "https://drive.google.com/file/d/1WmWnVmyEG_UNUDK_tk2uI7B38Ld9RXwO/view?usp=sharing",
-      "https://drive.google.com/file/d/1rIYttND-a4yfnpnJWdZiQIxSJqgsQlR9/view?usp=drive_link"
+      "https://drive.google.com/file/d/1rIYttND-a4yfnpnJWdZiQIxSJqgsQlR9/view",
+      "https://drive.google.com/file/d/1WmWnVmyEG_UNUDK_tk2uI7B38Ld9RXwO/view",
+      "https://docs.google.com/document/d/1M2aHP6jXUWKYwCh3FTYKDpqjT8ewnJui/edit"
     ],
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
@@ -1294,9 +1304,9 @@
     "nom": "Université Panthéon-Assas",
     "nom_complet": "Université Panthéon-Assas",
     "region": "IDF",
-    "referent": "Jean-François FROUSTEY",
-    "email": "jean-francois.froustey@assas-universite.fr",
-    "telephone": "01 44 41 58 54 - 06 45 25 55 67",
+    "referent": "Fabien CANTAMESSI",
+    "email": "fabien.cantamessi@assas-universite.fr",
+    "telephone": "/",
     "amenagements": "Tutorat (en L1 de droit et d'économie-gestion) et suivi personnalisé\nOrganisation de l'emploi du temps pour la prise en compte des impératifs de l'entraînement et des déplacements\nPossibilité d'autorisation d'absence pour les travaux dirigés lors des compétitions importantes\nHébergement éventuellement possible en résidence universitaire\nAccès à la formation en apprentissage spécialement conçue pour les Sportifs de Haut Niveau (à partir de la L3)\nCertaines formations en distanciel",
     "lien": "https://sportassas.assas-universite.fr/fr/sportifs-haut-niveau",
     "club_proximite": "Pas de collaboration avec un club de proximité",
@@ -1719,12 +1729,12 @@
     "nom": "Université de Caen Normandie",
     "nom_complet": "Université de Caen Normandie",
     "region": "NOR",
-    "referent": "Christian LE MOAL",
-    "email": "christian.lemoal@unicaen.fr",
+    "referent": "Christian LE MOAL\nMélanie GUILLOT",
+    "email": "christian.lemoal@unicaen.fr\nmelanie.guillot@unicaen.fr",
     "telephone": "06 86 28 61 44",
     "amenagements": "Aménagement d'horaires\nDispense d'assiduité\nReport d'examens\nChangement de groupe de TD et TP\nÉtalement du cursus\nTutorat individualisé",
     "lien": "https://www.unicaen.fr/vie-de-campus/vie-sportive/sport-de-haut-niveau/",
-    "club_proximite": "Relations avec les clubs d'USO Mondeville et du Tennis Club de Caen, les étudiants peuvent aller s'entraîner sur les terrains de ces structures. Mise à disposition de la salle de musculation et de la piscine (CESU). Il est possible d'utiliser les terrains de tennis de l'université (7 terrains)",
+    "club_proximite": "Relations avec l’USO Mondeville et le TC Caen\n\nGratuité d'inscription au SUAPS et possibilité de bénéficier d'un accompagnement de préparation physique, suivi médical, média training, insertion professionnelle et accès piscine",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1750,9 +1760,9 @@
       "Collaboration avec un club de proximité"
     ],
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
-    "criteres_sbn": "Statut SBN : Être classé à minima 2/6 ou sur décision de la commission en fonction de l'exigence sportive",
+    "criteres_sbn": "Statut SBN : Être classé à minima 2/6 ou sur décision de la commission en fonction de l’exigence sportive : Entranements au minimum 4 fois par semaine, pratique au plus haut niveau national, international ou faire partie d’un centre de formation d’un club local",
     "classement_sbn": "2/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements (y compris IUT, IAE et écoles d'ingénieurs) hormis les formations en santé/médecine"
   },
   {
     "id": 47,
@@ -2195,6 +2205,7 @@
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
       "Aménagement des examens",
+      "Choix des groupes de TD/TP",
       "Étalement du cursus",
       "Tutorat individualisé"
     ],
@@ -2300,7 +2311,10 @@
     "criteres_shn": "Statut SBN : Tous les Sportifs de Haut Niveau inscrits sur les listes du ministère des sports",
     "criteres_sbn": "Statut SBN :  Étudiants proches du haut niveau, inscrits dans un processus impliquant un entraînement quotidien et de nombreux déplacements sportifs ; Étudiants de bon niveau inter-régional fédéral et les étudiants de bon niveau national universitaire impliqués dans les équipes sportives de l'université. Être classé à minima 2/6",
     "classement_sbn": "2/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc": [
+      "https://drive.google.com/file/d/1NLDm6WzJUa7CVjCtdulHWua0hxrubN0V/view?usp=sharing"
+    ]
   },
   {
     "id": 62,
@@ -2414,8 +2428,8 @@
       "Étalement du cursus",
       "Accès aux installations sportives universitaires"
     ],
-    "criteres_shn": "Sportif(ve) figurant ou ayant figuré sur la liste officielle des Sportifs de Haut Niveau du Ministère des Sports (y compris dans un pays étranger)",
-    "criteres_sbn": "Sportif(ve) de bon niveau reconnu (national, sélections régionales jeunes), être classé à minima 4/6",
+    "criteres_shn": "Statut SHN : Sportif(ve) figurant ou ayant figuré sur la liste officielle des Sportifs de Haut Niveau du Ministère des Sports (y compris dans un pays étranger)",
+    "criteres_sbn": "Statut SBN : Sportif(ve) de bon niveau reconnu (national, sélections régionales jeunes), être classé à minima 4/6",
     "classement_sbn": "4/6",
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, avec plus de difficultés sur certaines filières (sciences)"
   },
@@ -2548,7 +2562,7 @@
     "email": "nathalie.ferriere@sciencespo-aix.fr",
     "telephone": "04 65 04 70 06",
     "amenagements": "Les étudiants bénéficient d’aménagements dans le déroulement de leur scolarité\nLes aménagements sont individualisés suivant l'athlète de haut niveau et au cas par cas",
-    "lien": "https://www.sciencespo.fr/students/fr/etudier/sportif-haut-niveau-ou-artiste-haut-niveau/",
+    "lien": "https://www.sciencespo-aix.fr/accueil/formations/sportifs-et-artistes-de-haut-niveau/",
     "club_proximite": "Association sportive Tennis et accès aux installations de l'université\n\nPas de relation avec un club de proximité",
     "filieres": [
       "Sciences Politiques"
@@ -2933,5 +2947,37 @@
       "Toutes les évaluations se font en ligne sous format contrôle continu (projets, cas pratiques, exercices). Un mémoire de master est à rendre.",
       "Pas de stage"
     ]
+  },
+  {
+    "id": 74,
+    "type": "universite",
+    "nom": "INSA Toulouse",
+    "nom_complet": "INSA Toulouse",
+    "region": "OCC",
+    "referent": "Laurence DUBOSCQ",
+    "email": "laurence.duboscq@insa-toulouse.fr",
+    "telephone": "06 64 90 47 17\n05 61 55 93 82",
+    "criteres_shn": "Statut SHN : Sportifs de Haut Niveau inscrits sur les listes Ministérielles appartenant au cercle 1 (C1) : Elite, Relève, Sénior, Reconversion\n\n Sportifs inscrits dans un Projet de Performance Fédéral appartenant au cercle 2 (C2) : Liste des Sportifs Espoirs, liste des sportifs Collectifs Nationaux, liste des entraîneurs, arbitres et juges de haut niveau",
+    "criteres_sbn": "Statut SBN : Sportifs justifiant d’un niveau de pratique national avec une prise en compte des volumes d'entraînement et de compétition. Être classé à minima 2/6",
+    "classement_sbn": "2/6",
+    "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Étalement du cursus",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires"
+    ],
+    "amenagements": "Aménagement de la durée du cursus\nAutorisations d’absences\nReport d’examen\nPossibilité d’avoir des cours de soutien\nSuivi individualisé\nDispense des cours d’EPS\nPas de notion de redoublement\nAménagement de la durée et du temps de travail pour les semaines de stage (4ème et 5ème année)\nAutorisation d’absences en TP ou changement de groupe possible\nDispense d’assiduité sur un ou plusieurs cours",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "filieres": [
+      "Ingénieur",
+      "Maths-Informatique"
+    ],
+    "club_proximite": "Mise à disposition de la salle de musculation (12h00-14h00)\nAccès aux 2 courts de tennis extérieurs du campus\n\nPas de relation avec un club de proximité",
+    "lien": "https://www.aps.insa-toulouse.fr/fr/section-sportif-de-haut-niveau/modalites-de-recrutement.html",
+    "distanciel": false,
+    "lat": 43.5696439,
+    "lng": 1.4677241
   }
 ]
