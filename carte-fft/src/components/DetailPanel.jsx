@@ -118,19 +118,25 @@ export default function DetailPanel({ etablissement: e, onClose }) {
         </Section>
 
         <Section title="Contact du référent SHN">
-          {referents.map((r, i) => (
-            <div key={i} className="contact-block">
-              <strong>{r}</strong>
-              {emails[i] && (
-                <a href={`mailto:${emails[i]}`} className="contact-link">
-                  {emails[i]}
-                </a>
-              )}
-              {phones[i] && phones[i] !== '/' && (
-                <span className="contact-phone">{phones[i]}</span>
-              )}
-            </div>
-          ))}
+          {referents.map((r, i) => {
+            // Le dernier référent récupère les emails/téléphones en surplus
+            const isLast = i === referents.length - 1
+            const myEmails = isLast ? emails.slice(i) : emails.slice(i, i + 1)
+            const myPhones = (isLast ? phones.slice(i) : phones.slice(i, i + 1)).filter(p => p !== '/')
+            return (
+              <div key={i} className="contact-block">
+                <strong>{r}</strong>
+                {myEmails.map((m, j) => (
+                  <a key={j} href={`mailto:${m}`} className="contact-link">
+                    {m}
+                  </a>
+                ))}
+                {myPhones.map((p, j) => (
+                  <span key={j} className="contact-phone">{p}</span>
+                ))}
+              </div>
+            )
+          })}
         </Section>
 
         {e.lien_doc?.length > 0 && (
