@@ -143,7 +143,7 @@ export default function DetailPanel({ etablissement: e, onClose }) {
           <Section title="Informations complémentaires">
             {(Array.isArray(e.lien_doc) ? e.lien_doc : [e.lien_doc]).map((url, i) => (
               <a key={i} href={url} target="_blank" rel="noopener noreferrer" className="contact-link" style={{ display: 'block', marginBottom: 4 }}>
-                Consulter le document {e.lien_doc.length > 1 ? i + 1 : ''} →
+                {e.lien_doc_titres?.[i] || `Consulter le document ${e.lien_doc.length > 1 ? i + 1 : ''}`} →
               </a>
             ))}
           </Section>

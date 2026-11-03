@@ -29,9 +29,6 @@
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Pas de relation avec un club de proximité (nombre d'étudiants SHN trop faible)",
     "lien": "https://www.univ-st-etienne.fr/fr/suaps/sportifs-de-haut-niveau.html",
-    "lien_doc": [
-      "https://drive.google.com/file/d/11OGXf8Bt5vACmU0axAiBjX7M_0tC_dIs/view?usp=sharing"
-    ],
     "distanciel": false,
     "lat": 45.4230567,
     "lng": 4.4257212,
@@ -83,7 +80,11 @@
     "criteres_shn": "Statut SHN : Listé Ministériels, sportifs Espoirs et Collectifs Nationaux, sportifs membres d’une structure labélisée du Projet de Performance Fédéral de leur fédération",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 ou être en seconde série négative. Admission possible aux SBN sur justification du niveau sportif et des contraintes d'entraînement ou de compétition (classement ou niveau attesté par la Fédération, attestation du club ou de l'entraîneur précisant la charge d'entraînement et les compétitions prévues, courte lettre de motivation pour expliquer la démarche du double projet",
     "classement_sbn": "0",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN UGA",
+      "Critères SHN UGA"
+    ]
   },
   {
     "type": "universite",
@@ -152,7 +153,10 @@
     "criteres_shn": "Statut SHN : Liste ministérielle des Sportifs de Haut Niveau, sportifs Espoirs ou Collectifs Nationaux ou être membre d'un pôle labellisé par la commission nationale du sport",
     "criteres_sbn": "Statut SBN : Avoir un niveau national reconnu, statut accordé aux sportifs dont la pratique compétitive et les quantités d’entrainements nécessitent un aménagement des études (être classé à minima 0)",
     "classement_sbn": "0",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Critères SHN et SBN Université Claude Bernard Lyon 1"
+    ]
   },
   {
     "id": 4,
@@ -191,7 +195,10 @@
     "criteres_shn": "Statut SHN : Liste des sportif/ves de haut niveau (Relève, Sénior, Elite ou Reconversion), Liste des Collectifs Nationaux, Liste des Espoirs ; Liste des sportif/ves appartenant à des structures labélisées par le ministère des Sports (Pôle France, Pôle Espoir) ; Liste des juges et arbitres de haut niveau",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6",
     "classement_sbn": "2/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN Université de Lyon 2 - Lumière"
+    ]
   },
   {
     "id": 5,
@@ -265,7 +272,10 @@
     "criteres_shn": "Statut SHN : Sportifs sur les Listes Ministérielles ; Sportifs en structure d'entraînement labellisé",
     "criteres_sbn": "Statut SBN : Décision prise par la commission selon la nécessité du sportif, son niveau et son volume d'entraînements et de déplacements en compétitions",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Procédure SHN Université Catholique de Lyon"
+    ]
   },
   {
     "id": 7,
@@ -348,7 +358,10 @@
     "lng": 5.9112,
     "id": 8,
     "nom_complet": "Université de Savoie Mont Blanc",
-    "amenagements": "Tutorat enseignant\nEtalement du cursus\nAménagements des sessions d’examens\nSoutien enseignant (dans la limite de 10h/ semestre)\nPrise de note étudiant/Tutorat étudiant\nDispense d’assiduité\nAutorisation de changement de groupe de TP/TD"
+    "amenagements": "Tutorat enseignant\nEtalement du cursus\nAménagements des sessions d’examens\nSoutien enseignant (dans la limite de 10h/ semestre)\nPrise de note étudiant/Tutorat étudiant\nDispense d’assiduité\nAutorisation de changement de groupe de TP/TD",
+    "lien_doc_titres": [
+      "Critères SHN et SBN Université Savoie Mont Blanc"
+    ]
   },
   {
     "id": 9,
@@ -391,6 +404,9 @@
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "lien_doc": [
       "https://sport-u-bourgognefranchecomte.com/administration-dijon-3/"
+    ],
+    "lien_doc_titres": [
+      "Pôle d'Excellence des Pratiques Sportives Université Bourgogne Europe"
     ]
   },
   {
@@ -433,7 +449,10 @@
     "criteres_shn": "Statut SHN : Être inscrit dans une des 4 catégories de la liste des sportifs de haut-niveau arrêtée par le ministère chargé des sports : Élite, Senior, Relève ou Reconversion ; Être inscrit sur une des autres listes suivantes arrêtées par le ministère chargé des sports : Sportifs des Collectifs Nationaux, Sportifs Espoirs, Entraineurs de haut niveau, Juges et arbitres de haut niveau ; Appartenir à une structure reconnue par le ministère chargé des sports dans les projets de performance fédérale de la discipline",
     "criteres_sbn": "Statut SBN : L’étudiant sportif possède un niveau sportif certifié par le représentant technique officiel de la ligue de sa discipline (CTS ou CTF) qui justifie un aménagement de ses études universitaires",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN Université de Franche-Comté"
+    ]
   },
   {
     "type": "universite",
@@ -622,7 +641,10 @@
     "criteres_shn": "Statut SHN : Les sportives et sportifs inscrits sur la liste ministérielle des sportifs de haut niveau dans les catégories Élite, Sénior, Relève et Reconversion ; Les sportifs inscrits sur la liste des sportifs espoirs et sur la liste des sportifs collectifs nationaux",
     "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Avoir un rythme d'entraînement supérieur à 10 heures par semaine (programme d'entraînement et de compétition demandé)",
     "classement_sbn": "4/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Convention Sportifs de Haut Niveau Sciences Po Rennes"
+    ]
   },
   {
     "id": 16,
@@ -931,7 +953,10 @@
     "criteres_shn": "Statut SHN : Sportif inscrit sur la liste ministérielle des Sportifs de Haut Niveau ; Sportif inscrit sur la liste des Sportifs Espoirs ou Collectifs Nationaux ; Sportif non listé mais appartenant à une structure d’entraînement labélisée par le ministère chargé des sports (pôle France, France Jeune, Espoir) ; Sportif non listé mais de niveau international dans une discipline rattachée à une fédération",
     "criteres_sbn": "Statut SBN : Sportif de niveau national, régional ou inter-régional. Pas de critère de classement précis, étude au cas par cas selon l'exigence sportive (au moins 8h d'entraînement par semaine) ou être à un niveau national en championnat par équipe",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, avec plus de difficultés pour les aménagements d'examens en médecine"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, avec plus de difficultés pour les aménagements d'examens en médecine",
+    "lien_doc_titres": [
+      "Charte SHN Université de Reims Champagne-Ardennes"
+    ]
   },
   {
     "id": 24,
@@ -1296,7 +1321,12 @@
     "criteres_shn": "Statut SHN : Sportif figurant ou ayant figuré sur la liste officielle des Sportifs de Haut Niveau du Ministère des Sports (y compris dans un pays étranger)",
     "criteres_sbn": "Statut SBN : Sportif de bon niveau (national, sélections régionales jeunes) ; Les étudiants ayant une pratique sportive élevée (contraintes d’entraînements et de compétitions). De manière général, le pôle sportif accepte les garçons jusqu'à 4/6 et les filles jusqu'à 5/6",
     "classement_sbn": "5/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis les formations en santé/médecine",
+    "lien_doc_titres": [
+      "Critères SHN et SBN Université Sorbonne Paris Nord",
+      "Pôle sportif section tennis Université Sorbonne Paris Nord",
+      "Dossier de candidature Pôle Sportif Université Sorbonne Paris Nord"
+    ]
   },
   {
     "id": 35,
@@ -1400,7 +1430,10 @@
     "criteres_shn": "Statut SHN : Liste officielle des Sportifs de Haut Niveau (Liste ministérielle)",
     "criteres_sbn": "Statut SBN : Pas de critères précis, pratique intensive et un niveau de pratique à haut niveau ou proche du haut niveau",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Convention SHN Université d'Evry"
+    ]
   },
   {
     "id": 38,
@@ -1441,7 +1474,10 @@
     "criteres_shn": "Statut SHN : Être inscrit sur la liste des Sportifs de Haut Niveau du Ministère des Sports (Relève, Senior, Elite, Reconversion), sur les listes Espoirs et Collectif Nationaux ; Être membre d’une structure sportive inscrite au Projet de Performance Fédérale",
     "criteres_sbn": "Statut SBN : Sur décision de la commission, pas de critères précis",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte Sportifs de Bon Niveau Université Gustave Eiffel"
+    ]
   },
   {
     "id": 39,
@@ -1476,7 +1512,10 @@
     "criteres_shn": "Statut SHN : Être inscrit sur la liste des Sportifs de Haut Niveau du Ministère des Sports (Relève, Senior, Elite, Reconversion), sur les listes Espoirs et Collectif Nationaux ou être membre d’une structure sportive inscrite au Projet de Performance Fédérale",
     "criteres_sbn": "Statut SBN : Être classé à minima en 2nde série",
     "classement_sbn": "15",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN ESIEE Paris"
+    ]
   },
   {
     "id": 40,
@@ -1553,14 +1592,17 @@
     "lien": "https://u-pariscite.fr/sport/sportif-de-haut-niveau/",
     "lien_doc": [
       "https://drive.google.com/file/d/15YD-3_fGd1krKEN2ubXfyzu7LXfsGGkR/view",
-      "https://docs.google.com/document/d/1Zftb1jMR2vjcKGdXfbDu0mQ4p2AdiRej/edit?usp=sharing&ouid=100579976006583483622&rtpof=true&sd=true",
-      "https://drive.google.com/file/d/15YD-3_fGd1krKEN2ubXfyzu7LXfsGGkR/view?usp=sharing"
+      "https://docs.google.com/document/d/1Zftb1jMR2vjcKGdXfbDu0mQ4p2AdiRej/edit?usp=sharing&ouid=100579976006583483622&rtpof=true&sd=true"
     ],
     "distanciel": false,
     "lat": 48.8514684,
     "lng": 2.341089,
     "id": 41,
-    "nom_complet": "Université Paris Cité"
+    "nom_complet": "Université Paris Cité",
+    "lien_doc_titres": [
+      "Critères Sportifs de Bon Niveau Université Paris Cité",
+      "Charte SHN Université Paris Cité"
+    ]
   },
   {
     "id": 42,
@@ -1601,7 +1643,10 @@
     "criteres_shn": "Statut SHN : Être inscrit sur les listes du Ministère des sports",
     "criteres_sbn": "Statut SBN : Être classé à minima -4/6",
     "classement_sbn": "-4/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Critères SHN Université Paris-Saclay"
+    ]
   },
   {
     "id": 43,
@@ -1642,7 +1687,11 @@
     "criteres_shn": "Statut SHN : Être inscrit sur Liste Ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0",
     "classement_sbn": "0",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN Université Paris Nanterre",
+      "Critères SHN Université Paris Nanterre"
+    ]
   },
   {
     "id": 44,
@@ -1683,7 +1732,10 @@
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle",
     "criteres_sbn": "Statut SBN : Être classé à minima 0 (statut accordé à certains sportifs en dessous de ce classement)",
     "classement_sbn": "0",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Critères SHN Université Paris Est Créteil"
+    ]
   },
   {
     "id": 45,
@@ -1806,7 +1858,11 @@
     "criteres_shn": "Statut SHN : Être inscrit sur liste ministérielle ou appartenir au Projet de Performance Fédéral ; Être classé à minima en seconde série négative (entre 0 et -15) et avoir un volume d'entraînement supérieur à 15 heures hebdomadaires (fortes contraintes d'entraînement et de compétitions)",
     "criteres_sbn": "Statut SBN : Être classé à minima en seconde série positive (entre 15 et 1/6) et avoir un volume d'entraînement supérieur à 10 heures hebdomadaire",
     "classement_sbn": "15",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN Université de Rouen Normandie",
+      "Critères statut Haut Niveau Tennis Université de Rouen Normandie"
+    ]
   },
   {
     "id": 48,
@@ -2058,7 +2114,10 @@
     "criteres_shn": "Statut SHN : Les sportifs et sportives de haut niveau inscrits sur la liste ministérielle regroupant les catégories Élite, Senior, Relève et Reconversion ; Les sportifs et sportives inscrits sur la liste des sportifs et sportives Espoirs et sur la liste des sportifs Collectifs Nationaux ; Les sportifs et sportives ne figurant pas sur la liste ministérielle mais appartenant à des structures d'entraînement reconnues dans le Projet de Performance Fédéral",
     "criteres_sbn": "Statut SBN : Les sportifs et sportives de niveau national ; les sportives et sportifs identifiés comme Haut Potentiel Sportif par les fédérations sportives délégataires (2/6 pour le tennis)",
     "classement_sbn": "2/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN Université de Limoges"
+    ]
   },
   {
     "id": 55,
@@ -2174,7 +2233,11 @@
     "lng": 3.8605852,
     "id": 57,
     "nom_complet": "Université de Montpellier",
-    "amenagements": "Aménagement des enseignements et des modalités de contrôle des connaissances\nAménagement des stages en collaboration avec le laboratoire d’accueil ou l’entreprise\nOrganisation de l’emploi du temps\nÉtalement des études\nChoix des groupes de TD et TP\nAutorisation d'absences régulières pour raisons sportives (entraînements, stages, compétitions)\nPossibilité d'aménagements des examens (sessions différées ou évaluation à 100% en contrôle terminal)\nTutorat individuel"
+    "amenagements": "Aménagement des enseignements et des modalités de contrôle des connaissances\nAménagement des stages en collaboration avec le laboratoire d’accueil ou l’entreprise\nOrganisation de l’emploi du temps\nÉtalement des études\nChoix des groupes de TD et TP\nAutorisation d'absences régulières pour raisons sportives (entraînements, stages, compétitions)\nPossibilité d'aménagements des examens (sessions différées ou évaluation à 100% en contrôle terminal)\nTutorat individuel",
+    "lien_doc_titres": [
+      "Charte SHN Université de Montpellier",
+      "Critères SHN Université de Montpellier"
+    ]
   },
   {
     "id": 58,
@@ -2247,7 +2310,10 @@
     "criteres_shn": "Statut SHN : Être inscrit sur les listes ministérielles",
     "criteres_sbn": "Statut SBN : Être classé 0 à minima ; Statut accordé si le sportif s'entraîne  au CNUT de Montpellier et qu'il a un classement inférieur à 0",
     "classement_sbn": "0",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Critères Sportifs de Bon Niveau Université Montpellier 3 - Paul Valéry"
+    ]
   },
   {
     "id": 60,
@@ -2314,6 +2380,9 @@
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "lien_doc": [
       "https://drive.google.com/file/d/1NLDm6WzJUa7CVjCtdulHWua0hxrubN0V/view?usp=sharing"
+    ],
+    "lien_doc_titres": [
+      "Droits aménagements SHN et SBN Université Toulouse II Jean Jaurès"
     ]
   },
   {
@@ -2394,7 +2463,11 @@
     "lng": 5.375,
     "id": 63,
     "nom_complet": "Université d'Aix Marseille",
-    "amenagements": "SHN et SBN :\nUn accompagnement personnalisé dans la mise en oeuvre des aménagements d’études\nL’organisation spécifique de l’emploi du temps : choix des groupes TD/TP, règles d’assiduité adaptées\nPossibilité de bénéficier d’un tutorat initié par les pairs dans le cadre du bonus engagement étudiant\nPossibilité de bénéficier des conseils et activités proposés par le Service Universitaire d’Insertion et d’Orientation (SUIO) et/ou le SUAPS ciblés pour les SHN-amU (ex. recherche de stages, valorisation des softskills, média-training, etc.)\nPossibilité de passer les examens en distanciel\nPossibilité de décaler les examens en raison d'imprévus liés au double projet\n\nUniquement pour les SHN :\nPossibilité de bénéficier de cours de rattrapage/soutien dispensés par des enseignants\nPossibilité de bénéficier d’un régime longues études\nAccompagnement à la constitution d’un dossier de césure\nAdaptation des modalités de stage"
+    "amenagements": "SHN et SBN :\nUn accompagnement personnalisé dans la mise en oeuvre des aménagements d’études\nL’organisation spécifique de l’emploi du temps : choix des groupes TD/TP, règles d’assiduité adaptées\nPossibilité de bénéficier d’un tutorat initié par les pairs dans le cadre du bonus engagement étudiant\nPossibilité de bénéficier des conseils et activités proposés par le Service Universitaire d’Insertion et d’Orientation (SUIO) et/ou le SUAPS ciblés pour les SHN-amU (ex. recherche de stages, valorisation des softskills, média-training, etc.)\nPossibilité de passer les examens en distanciel\nPossibilité de décaler les examens en raison d'imprévus liés au double projet\n\nUniquement pour les SHN :\nPossibilité de bénéficier de cours de rattrapage/soutien dispensés par des enseignants\nPossibilité de bénéficier d’un régime longues études\nAccompagnement à la constitution d’un dossier de césure\nAdaptation des modalités de stage",
+    "lien_doc_titres": [
+      "Charte SHN Université d'Aix-Marseille",
+      "Plaquette SHN Université Aix-Marseille"
+    ]
   },
   {
     "id": 64,
@@ -2471,7 +2544,10 @@
     "criteres_shn": "Statut SHN : Être Sportif de Haut Niveau inscrit sur la Liste Ministérielle du Ministère des Sports",
     "criteres_sbn": "Statut SBN : Être classé à minima en 2ème série négative (-2/6) et justifier d'un nombre d'entraînements par semaine, d'un niveau de pratique et de résultats sportifs",
     "classement_sbn": "-2/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHNU Université Côte d'Azur"
+    ]
   },
   {
     "id": 66,
@@ -2508,7 +2584,10 @@
     "criteres_shn": "Statut SHN : Liste des Sportifs de Haut Niveau (Relève, Sénior, Elite ou Reconversion) ; Liste des sportifs Espoirs ou Collectifs Nationaux ; Liste des sportifs appartenant à une structure labélisée par le ministère des Sports (Pôle France, Pôle Espoir)",
     "criteres_sbn": "Statut SBN : Être classé à minima 3/6",
     "classement_sbn": "3/6",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Charte SHN Université de Nîmes"
+    ]
   },
   {
     "type": "universite",
@@ -2550,7 +2629,10 @@
     "lng": 6.0161592,
     "id": 67,
     "nom_complet": "Université de Toulon",
-    "amenagements": "SHN : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences et dispenses d’assiduité\nAménagement des examens\nAménagement de la durée des études\n\nSHN : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences\nAménagement des examens"
+    "amenagements": "SHN : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences et dispenses d’assiduité\nAménagement des examens\nAménagement de la durée des études\n\nSHN : Aménagement d’horaire : accès privilégié aux groupes de TD et TP\nAutorisations d’absences\nAménagement des examens",
+    "lien_doc_titres": [
+      "Charte SHN Université de Toulon"
+    ]
   },
   {
     "id": 68,
@@ -2580,7 +2662,10 @@
     "criteres_shn": "Statut SHN : Les Sportifs de Haut Niveau inscrits sur les listes nationales ou régionales",
     "criteres_sbn": "Statut SBN : Sur décision de la commission, pas de critères précis",
     "classement_sbn": "Non déterminé",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "lien_doc_titres": [
+      "Règlement des études Sciences Po Aix-en-Provence"
+    ]
   },
   {
     "type": "universite",

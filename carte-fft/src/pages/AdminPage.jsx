@@ -32,6 +32,7 @@ const EMPTY = {
   club_proximite: '',
   lien: '',
   lien_doc: [],
+  lien_doc_titres: [],
   distanciel: false,
   lat: '',
   lng: '',
@@ -46,6 +47,7 @@ function EtabForm({ etab, onSave, onCancel }) {
     lat: etab?.lat ?? '',
     lng: etab?.lng ?? '',
     lien_doc: etab?.lien_doc ?? [],
+    lien_doc_titres: (etab?.lien_doc ?? []).map((_, i) => etab?.lien_doc_titres?.[i] ?? ''),
     amenagement_tags: etab?.amenagement_tags ?? [],
     filieres: etab?.filieres ?? [],
   })
@@ -68,6 +70,7 @@ function EtabForm({ etab, onSave, onCancel }) {
       lat: form.lat !== '' ? parseFloat(form.lat) : null,
       lng: form.lng !== '' ? parseFloat(form.lng) : null,
       lien_doc: form.lien_doc.filter(Boolean),
+      lien_doc_titres: form.lien_doc_titres.filter((_, i) => form.lien_doc[i]),
     }
     // Remove fields not relevant to the type
     if (isUniv) {
@@ -250,6 +253,15 @@ function EtabForm({ etab, onSave, onCancel }) {
             {form.lien_doc.map((url, i) => (
               <div key={i} className="admin-url-row">
                 <input
+                  value={form.lien_doc_titres[i]}
+                  onChange={e => {
+                    const titres = [...form.lien_doc_titres]
+                    titres[i] = e.target.value
+                    set('lien_doc_titres', titres)
+                  }}
+                  placeholder="Titre du document"
+                />
+                <input
                   value={url}
                   onChange={e => {
                     const docs = [...form.lien_doc]
@@ -261,7 +273,11 @@ function EtabForm({ etab, onSave, onCancel }) {
                 <button
                   type="button"
                   className="admin-url-remove"
-                  onClick={() => set('lien_doc', form.lien_doc.filter((_, j) => j !== i))}
+                  onClick={() => setForm(f => ({
+                    ...f,
+                    lien_doc: f.lien_doc.filter((_, j) => j !== i),
+                    lien_doc_titres: f.lien_doc_titres.filter((_, j) => j !== i),
+                  }))}
                 >
                   Supprimer
                 </button>
@@ -270,7 +286,7 @@ function EtabForm({ etab, onSave, onCancel }) {
             <button
               type="button"
               className="admin-btn-add-url"
-              onClick={() => set('lien_doc', [...form.lien_doc, ''])}
+              onClick={() => setForm(f => ({ ...f, lien_doc: [...f.lien_doc, ''], lien_doc_titres: [...f.lien_doc_titres, ''] }))}
             >
               + Ajouter un document
             </button>
