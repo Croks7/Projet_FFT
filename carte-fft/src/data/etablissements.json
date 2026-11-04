@@ -119,30 +119,15 @@
     "amenagements": "Aménagements d’horaires\nDispense d’assiduité ponctuelle\nÉtalement du cursus\nExamens en distanciel sous conditions\nTutorat individualisé"
   },
   {
-    "id": 3,
     "type": "universite",
     "nom": "Université Claude Bernard Lyon 1",
-    "nom_complet": "Université Claude Bernard Lyon 1",
     "region": "ARA",
-    "referent": "Sébastien MEYER\nMiloud BLAZOUZ",
-    "email": "shn.staps@univ-lyon1.fr\nmiloud.blazouz@univ-lyon1.fr",
+    "referent": "Sébastien MEYERMiloud BLALOUZ",
+    "email": "shn.staps@univ-lyon1.frmiloud.blalouz@univ-lyon1.fr",
     "telephone": "07 85 96 66 48",
-    "amenagements": "Aménagements d’horaires possibles\nAutorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)\nDispense d'assiduité\nÉtalement d’une année en 2 ans ou d’une licence en 4 ans\nSessions aménagées pour les examens\nTutorat individualisé",
-    "lien": "https://suaps.univ-lyon1.fr/inscriptions-pratique/haut-niveau?",
-    "club_proximite": "L'université a signé la déclisaison régionale de la convention C3D STAPS avec la Ligue ARA. Accès aux infrastructures de l'université\n\nPas de relation avec un club de proximité",
-    "filieres": [
-      "Ingénieur",
-      "Maths-Informatique",
-      "Médecine",
-      "Sciences",
-      "STAPS"
-    ],
-    "distanciel": false,
-    "lat": 45.7816645,
-    "lng": 4.8681545,
-    "lien_doc": [
-      "https://drive.google.com/file/d/1jWaMn_gqewkXSG7sSfHEf2kQFJ-AT9i3/view?usp=sharing"
-    ],
+    "criteres_shn": "Statut SHN : Liste ministérielle des Sportifs de Haut Niveau, sportifs Espoirs ou Collectifs Nationaux ou être membre d'un pôle labellisé par la commission nationale du sport",
+    "criteres_sbn": "Statut SBN : Avoir un niveau national reconnu, statut accordé aux sportifs dont la pratique compétitive et les quantités d’entrainements nécessitent un aménagement des études (être classé à minima 0)",
+    "classement_sbn": "0",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
       "Aménagement des examens",
@@ -150,13 +135,28 @@
       "Tutorat individualisé",
       "Accès aux installations sportives universitaires"
     ],
-    "criteres_shn": "Statut SHN : Liste ministérielle des Sportifs de Haut Niveau, sportifs Espoirs ou Collectifs Nationaux ou être membre d'un pôle labellisé par la commission nationale du sport",
-    "criteres_sbn": "Statut SBN : Avoir un niveau national reconnu, statut accordé aux sportifs dont la pratique compétitive et les quantités d’entrainements nécessitent un aménagement des études (être classé à minima 0)",
-    "classement_sbn": "0",
+    "amenagements": "Aménagements d’horaires possibles\nAutorisation d'absences ponctuelles pour les compétitions (nationales, internationales, fédérales ou universitaires)\nDispense d'assiduité\nÉtalement d’une année en 2 ans ou d’une licence en 4 ans\nSessions aménagées pour les examens\nTutorat individualisé",
+    "filieres": [
+      "Ingénieur",
+      "Maths-Informatique",
+      "Médecine",
+      "Sciences",
+      "STAPS"
+    ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "club_proximite": "L'université a signé la déclisaison régionale de la convention C3D STAPS avec la Ligue ARA. Accès aux infrastructures de l'université\n\nPas de relation avec un club de proximité",
+    "lien": "https://suaps.univ-lyon1.fr/inscriptions-pratique/haut-niveau?",
+    "lien_doc": [
+      "https://drive.google.com/file/d/1jWaMn_gqewkXSG7sSfHEf2kQFJ-AT9i3/view?usp=sharing"
+    ],
     "lien_doc_titres": [
       "Critères SHN et SBN Université Claude Bernard Lyon 1"
-    ]
+    ],
+    "distanciel": false,
+    "lat": 45.7816645,
+    "lng": 4.8681545,
+    "id": 3,
+    "nom_complet": "Université Claude Bernard Lyon 1"
   },
   {
     "id": 4,
