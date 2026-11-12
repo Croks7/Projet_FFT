@@ -2450,6 +2450,7 @@
       "Accès aux installations sportives universitaires",
       "Collaboration avec un club de proximité"
     ],
+    "amenagements": "SHN et SBN :\nUn accompagnement personnalisé dans la mise en oeuvre des aménagements d’études\nL’organisation spécifique de l’emploi du temps : choix des groupes TD/TP, règles d’assiduité adaptées\nPossibilité de bénéficier d’un tutorat initié par les pairs dans le cadre du bonus engagement étudiant\nPossibilité de bénéficier des conseils et activités proposés par le Service Universitaire d’Insertion et d’Orientation (SUIO) et/ou le SUAPS ciblés pour les SHN-amU (ex. recherche de stages, valorisation des softskills, média-training, etc.)\nPossibilité de passer les examens en distanciel\nPossibilité de décaler les examens en raison d'imprévus liés au double projet\n\nUniquement pour les SHN :\nPossibilité de bénéficier de cours de rattrapage/soutien dispensés par des enseignants\nPossibilité de bénéficier d’un régime longues études\nAccompagnement à la constitution d’un dossier de césure\nAdaptation des modalités de stage",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -2463,22 +2464,21 @@
       "STAPS"
     ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
-    "club_proximite": "La possibilité d’accéder aux centres d’entraînement et de performance sportive (salle de musculation) ouverts sur l'Université d'Aix-Marseille sous réserve du niveau sportif (convention avec la Ligue PACA)\n\nLa possibilité d’accéder aux installations sportives universitaires sur des créneaux ouverts à la pratique libre et/ou dans le cadre de créneaux SUAPS et/ou par voie de conventionnement avec la structure d’entrainement\n\nPour les sportifs classés 4/6 et plus, ils peuvent bénéficier de deux entraînements hebdomadaires : Un à Aix-en-Provence sur les installations de la Ligue PACA avec un entraineur de la Ligue qui est mis à disposition ; un autre à Marseille avec un enseignant SUAPS de l'université amU\n\nIl existe deux clubs de tennis universitaires hébergés par Aix-Marseille Université. Les étudiants tennis peuvent venir pratiquer librement s'ils justifient d'un classement de 4/6 et plus.",
+    "club_proximite": "La possibilité d’accéder aux centres d’entraînement et de performance sportive (salle de musculation) ouverts sur l'Université d'Aix-Marseille sous réserve du niveau sportif (convention avec la Ligue PACA)\n\nLa possibilité d’accéder aux installations sportives universitaires sur des créneaux ouverts à la pratique libre et/ou dans le cadre de créneaux SUAPS et/ou par voie de conventionnement avec la structure d’entrainement\n\nPour les sportifs classés 4/6 et plus, ils peuvent bénéficier de deux entraînements hebdomadaires : Un à Aix-en-Provence sur les installations de la Ligue PACA avec un entraineur qui est mis à disposition ; un autre à Marseille avec un enseignant SUAPS de l'université amU\n\nIl existe deux clubs de tennis universitaires hébergés par Aix-Marseille Université. Les étudiants tennis peuvent venir pratiquer librement s'ils justifient d'un classement de 4/6 et plus.",
     "lien": "https://www.univ-amu.fr/fr/sportifs-sportives-de-haut-niveau-amu",
     "lien_doc": [
       "https://drive.google.com/file/d/1oe2GmBxH3dSVUfDtlYP8B9qlRfiMWTwR/view?usp=sharing",
       "https://drive.google.com/file/d/1NknBTW70evg-lLmy9723wrmgb19B_14a/view?usp=sharing"
     ],
+    "lien_doc_titres": [
+      "Charte SHN Université d'Aix-Marseille",
+      "Plaquette SHN Université Aix-Marseille"
+    ],
     "distanciel": true,
     "lat": 43.3043,
     "lng": 5.375,
     "id": 63,
-    "nom_complet": "Université d'Aix Marseille",
-    "amenagements": "SHN et SBN :\nUn accompagnement personnalisé dans la mise en oeuvre des aménagements d’études\nL’organisation spécifique de l’emploi du temps : choix des groupes TD/TP, règles d’assiduité adaptées\nPossibilité de bénéficier d’un tutorat initié par les pairs dans le cadre du bonus engagement étudiant\nPossibilité de bénéficier des conseils et activités proposés par le Service Universitaire d’Insertion et d’Orientation (SUIO) et/ou le SUAPS ciblés pour les SHN-amU (ex. recherche de stages, valorisation des softskills, média-training, etc.)\nPossibilité de passer les examens en distanciel\nPossibilité de décaler les examens en raison d'imprévus liés au double projet\n\nUniquement pour les SHN :\nPossibilité de bénéficier de cours de rattrapage/soutien dispensés par des enseignants\nPossibilité de bénéficier d’un régime longues études\nAccompagnement à la constitution d’un dossier de césure\nAdaptation des modalités de stage",
-    "lien_doc_titres": [
-      "Charte SHN Université d'Aix-Marseille",
-      "Plaquette SHN Université Aix-Marseille"
-    ]
+    "nom_complet": "Université d'Aix Marseille"
   },
   {
     "id": 64,
