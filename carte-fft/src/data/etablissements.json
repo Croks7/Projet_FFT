@@ -1184,17 +1184,24 @@
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
-    "id": 31,
     "type": "universite",
     "nom": "Université Panthéon-Sorbonne",
-    "nom_complet": "Université Panthéon-Sorbonne",
     "region": "IDF",
     "referent": "Vanessa ERTUS",
     "email": "vanessa.ertus@univ-paris1.fr",
     "telephone": "01 89 68 52 16",
-    "amenagements": "Un suivi personnalisé\nAide à l’aménagement de l’emploi du temps annuel : Choix des groupes de TP/TD afin de les rendre compatibles avec le planning sportif\nAménager et décaler si besoin le passage des examens en cas de compétition (sur justificatif) au cas par cas\nMise en place du système de tutorat pour 1 ou 2 semestres en cas de besoin",
-    "lien": "https://sport.pantheonsorbonne.fr/haut-niveau",
-    "club_proximite": "Pas de collaboration avec un club de proximité\n\nAccès aux installations sportives de l'université",
+    "criteres_shn": "Statut SHN : Être inscrit sur les listes du ministère des Sports ; Appartenir à des structures d'entrainement labélisées par le ministère chargé des sports (les Pôles Frances Jeunes, Espoirs, Centre de Formation)",
+    "criteres_sbn": "Statut SBN : Être classé à minima 0",
+    "classement_sbn": "0",
+    "amenagement_tags": [
+      "Aménagement d’horaires/Dispense d’assiduité",
+      "Aménagement des examens",
+      "Choix des groupes de TD/TP",
+      "Tutorat individualisé",
+      "Accès aux installations sportives universitaires",
+      "Étalement du cursus"
+    ],
+    "amenagements": "Aide à l’aménagement de l’emploi du temps annuel : Priorité dans l'affectation aux groupes de TD\nÉtalement du cursus\nAménager et décaler si besoin le passage des examens en cas de compétition (sur justificatif) au cas par cas\nTutorat et suivi personnalisé pour Licence 1 et Licence 2\nAccès prioritaire à une chambre universitaire selon disponibilités",
     "filieres": [
       "Arts, Lettres et Langues",
       "Droit",
@@ -1204,20 +1211,20 @@
       "Sciences Humaines",
       "Sciences Politiques"
     ],
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "club_proximite": "Pas de collaboration avec un club de proximité",
+    "lien": "https://sport.pantheonsorbonne.fr/haut-niveau",
+    "lien_doc": [
+      "https://drive.google.com/file/d/1CpalEKfPZGOMIqNSmG7Hn16I6SC2maXz/view?usp=sharing"
+    ],
+    "lien_doc_titres": [
+      "Charte athlètes de haut niveau Université Panthéon-Sorbonne"
+    ],
     "distanciel": false,
     "lat": 48.8486358,
     "lng": 2.3436034,
-    "amenagement_tags": [
-      "Aménagement d’horaires/Dispense d’assiduité",
-      "Aménagement des examens",
-      "Choix des groupes de TD/TP",
-      "Tutorat individualisé",
-      "Accès aux installations sportives universitaires"
-    ],
-    "criteres_shn": "Statut SHN : Être inscrit sur les listes du ministère des Sports ; Appartenir à des structures d'entrainement labélisées par le ministère chargé des sports (les Pôles Frances Jeunes, Espoirs, Centre de Formation)",
-    "criteres_sbn": "Statut SBN : Athlète de très bon niveau régional dont le niveau sportif est reconnu par la fédération. Être classé à minima 0",
-    "classement_sbn": "0",
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
+    "id": 31,
+    "nom_complet": "Université Panthéon-Sorbonne"
   },
   {
     "id": 32,
