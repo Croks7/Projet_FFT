@@ -1190,8 +1190,8 @@
     "referent": "Vanessa ERTUS",
     "email": "vanessa.ertus@univ-paris1.fr",
     "telephone": "01 89 68 52 16",
-    "criteres_shn": "Statut SHN : Être inscrit sur les listes du ministère des Sports ; Appartenir à des structures d'entrainement labélisées par le ministère chargé des sports (les Pôles Frances Jeunes, Espoirs, Centre de Formation)",
-    "criteres_sbn": "Statut SBN : Être classé à minima 0",
+    "criteres_shn": "Statut AHN : Être inscrit sur les listes du ministère des Sports ; Appartenir à des structures d'entrainement labélisées par le ministère chargé des sports (les Pôles Frances Jeunes, Espoirs, Centre de Formation). Être classé à minima 0",
+    "criteres_sbn": "",
     "classement_sbn": "0",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
@@ -1218,7 +1218,7 @@
       "https://drive.google.com/file/d/1CpalEKfPZGOMIqNSmG7Hn16I6SC2maXz/view?usp=sharing"
     ],
     "lien_doc_titres": [
-      "Charte athlètes de haut niveau Université Panthéon-Sorbonne"
+      "Charte AHN Université Panthéon-Sorbonne"
     ],
     "distanciel": false,
     "lat": 48.8486358,
