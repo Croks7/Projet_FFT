@@ -609,26 +609,15 @@
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements"
   },
   {
-    "id": 15,
     "type": "universite",
     "nom": "Sciences Po Rennes",
-    "nom_complet": "Sciences Po Rennes",
     "region": "BRE",
     "referent": "Gwenaelle MEHAUTE",
     "email": "gwenaelle.mehaute@sciencespo-rennes.fr",
     "telephone": "06 70 77 13 56",
-    "amenagements": "Aménagement des études (autorisation d'absence, inscription ou changement temporaire ou définitif de groupe, adaptation des périodes et lieux de stage)\nAdaptation pédagogiques (organisation de sessions d'examens particulières)\nDédoublement des années de formation\nCésure possible en fonction des objectifs sportifs\nAménagement des modalités de contrôle de connaissance ou de soutenance\nTutorat individualisé par un autre étudiant\nAménagement du stage (congés et autorisations d'absences)",
-    "lien": "https://www.sciencespo-rennes.fr/sportif-haut-niveau",
-    "club_proximite": "Convention pour accéder aux installations sportives\nEntraînement en autonomie au club de Saint-Jacques de la Lande",
-    "filieres": [
-      "Sciences politiques"
-    ],
-    "distanciel": false,
-    "lat": 48.1213745,
-    "lng": -1.6684829,
-    "lien_doc": [
-      "https://drive.google.com/file/d/1FcKl6QdLpvsf6NYsvBDFbU3HbQ43EE63/view?usp=sharing"
-    ],
+    "criteres_shn": "Statut SHN : Les sportives et sportifs inscrits sur la liste ministérielle des sportifs de haut niveau dans les catégories Élite, Sénior, Relève et Reconversion ; Les sportifs inscrits sur la liste des sportifs espoirs et sur la liste des sportifs collectifs nationaux",
+    "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Avoir un rythme d'entraînement supérieur à 10 heures par semaine (programme d'entraînement et de compétition demandé)",
+    "classement_sbn": "4/6",
     "amenagement_tags": [
       "Aménagement d’horaires/Dispense d’assiduité",
       "Aménagement des examens",
@@ -638,13 +627,25 @@
       "Accès aux installations sportives universitaires",
       "Collaboration avec un club de proximité"
     ],
-    "criteres_shn": "Statut SHN : Les sportives et sportifs inscrits sur la liste ministérielle des sportifs de haut niveau dans les catégories Élite, Sénior, Relève et Reconversion ; Les sportifs inscrits sur la liste des sportifs espoirs et sur la liste des sportifs collectifs nationaux",
-    "criteres_sbn": "Statut SBN : Être classé à minima 4/6 ; Avoir un rythme d'entraînement supérieur à 10 heures par semaine (programme d'entraînement et de compétition demandé)",
-    "classement_sbn": "4/6",
+    "amenagements": "Aménagement des études (autorisation d'absence, inscription ou changement temporaire ou définitif de groupe, adaptation des périodes et lieux de stage)\nAdaptation pédagogiques (organisation de sessions d'examens particulières)\nDédoublement des années de formation\nCésure possible en fonction des objectifs sportifs\nAménagement des modalités de contrôle de connaissance ou de soutenance\nTutorat individualisé par un autre étudiant\nAménagement du stage (congés et autorisations d'absences)",
+    "filieres": [
+      "Sciences politiques",
+      "Sciences Politiques"
+    ],
     "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
+    "club_proximite": "Convention pour accéder aux installations sportives\nEntraînement en autonomie au club de Saint-Jacques de la Lande",
+    "lien": "https://www.sciencespo-rennes.fr/sportif-haut-niveau",
+    "lien_doc": [
+      "https://drive.google.com/file/d/1FcKl6QdLpvsf6NYsvBDFbU3HbQ43EE63/view?usp=sharing"
+    ],
     "lien_doc_titres": [
       "Convention Sportifs de Haut Niveau Sciences Po Rennes"
-    ]
+    ],
+    "distanciel": false,
+    "lat": 48.1213745,
+    "lng": -1.6684829,
+    "id": 15,
+    "nom_complet": "Sciences Po Rennes"
   },
   {
     "id": 16,
