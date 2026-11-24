@@ -2058,7 +2058,7 @@
     "referent": "Sylvain MORVAN",
     "email": "sylvain.morvan@u-bordeaux.fr",
     "telephone": "",
-    "criteres_shn": "Statut SHN : Être inscrit sur Liste Ministérielle ou être classé à minima en seconde série négative",
+    "criteres_shn": "Statut SHN : Être inscrit sur Liste Ministérielle\nStatut STBN : Être classé à minima en seconde série négative",
     "criteres_sbn": "Statut SBN : Être classé à minima 2/6",
     "classement_sbn": "2/6",
     "amenagement_tags": [
@@ -2067,9 +2067,10 @@
       "Étalement du cursus",
       "Tutorat individualisé",
       "Accès aux installations sportives universitaires",
-      "Collaboration avec un club de proximité"
+      "Collaboration avec un club de proximité",
+      "Choix des groupes de TD/TP"
     ],
-    "amenagements": "Aménagements hebdomadaires\nDispense de TD\nÉtalement des études\nPrises de notes en cas d'absence aux cours\nAménagement des examens\nTutorat de groupe ou individualisé\nAnnée de césure",
+    "amenagements": "Uniquement SHN et STBN : Étalement ou fractionnement des études \nSoutien pédagogique (tutorat ou cours de compensation par des enseignants)\nSoutien méthodologique\nOrganisation de sessions différées\n\nTous les statuts (SHN, STBN et SBN) : Priorité dans les groupes d'enseignement\nAccès à la prise de note\nRégime de dispense spécifique \nPrêt prolongé en BU",
     "filieres": [
       "Droit",
       "Éco-Gestion",
@@ -2081,7 +2082,7 @@
       "Sciences Politiques",
       "STAPS"
     ],
-    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements, hormis la 1ere année de PASS en médecine",
+    "formations_concernees": "Toutes les formations proposées sont concernées par ces aménagements",
     "club_proximite": "Accès aux installations extérieures des clubs alentours\nLes étudiants du pole/ CNUT ont accès aux installations du centre de Ligue sur les plages libres\nEn plus des 4 entraînements de tennis et 3 de physique hebdomadaire, les sportifs peuvent bénéficier des stages ou rassemblements organisés par le pôle élite de la Ligue\nAccès aux 2 salles de musculation de l'université sur les plages de pratique libre ainsi qu'au centre nautique de Talence\nOffre de stage de préparation physique et d'accompagnement en tournoi\nBac de cryothérapie dans l'enceinte du centre de Ligue\nSéance de suivi individualisée, encadrée par un kiné, dans la salle de musculation du centre de Ligue (récup/prévention des blessures)\nOption tennis/padel disponible en Licence STAPS",
     "lien": "https://www.u-bordeaux.fr/campus/sport/haut-niveau",
     "lien_doc": [],
